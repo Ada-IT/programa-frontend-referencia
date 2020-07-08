@@ -41,7 +41,7 @@ sidebar_label: 01) Introducción a Frontend
 
 ### 🚀 Recursos de la clase
 
-📹 [Grabación]()
+📹 Grabación
 
 ---
 

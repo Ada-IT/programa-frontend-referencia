@@ -27,9 +27,9 @@ sidebar_label: 10) Diseño Responsivo I
 
 ### 🚀 Recursos de la clase
 
-📹 [Grabación]()
+📹 Grabación
 
-👩‍💻 [Código]()
+👩‍💻 Código
 
 💪 [Ejercitación](https://github.com/Ada-IT/ejercicios-frontend/blob/master/modulo-1/ejercicios/10-dise%C3%B1o-responsivo-I.md)
 

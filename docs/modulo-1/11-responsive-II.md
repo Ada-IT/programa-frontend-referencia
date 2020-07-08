@@ -24,17 +24,15 @@ sidebar_label: 11) Diseño Responsivo II
 
 ### 🚀 Recursos de la clase
 
-📹 [Grabación]()
+📹 Grabación
 
-👩‍💻 [Código]()
+👩‍💻 Código
 
 💪 [Ejercitación](https://github.com/Ada-IT/ejercicios-frontend/blob/master/modulo-1/ejercicios/11-dise%C3%B1o-responsivo-II.md)
 
 ---
 
 ### 📚 Material de lectura
-
-- [Tema](https://www.notion.so/pabloh/www.github.com)
 
 _En inglés_
 

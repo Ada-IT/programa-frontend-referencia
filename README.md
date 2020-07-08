@@ -1,33 +1,36 @@
-# Website
+# Cómo editar documentación
 
-This website is built using [Docusaurus 2](https://v2.docusaurus.io/), a modern static website generator.
+La documentación está hecha con [Docusaurus](https://v2.docusaurus.io/docs/)
 
-### Installation
+## Para agregar el vídeo de las clase
 
-```
-$ yarn
-```
+- Ir a la carpeta `docs`
+- Buscar el archivo de markdown correspondiente a la clase
+- Editar el archivo agregando el link de la clase con markdown
+- Guardar los cambios
 
-### Local Development
+En caso de no estar editándolo desde la página de Github y haber descargado el repo, es necesario commitear los cambios y hacer un push a master para que se haga el deploy.
 
-```
-$ yarn start
-```
+## Para editar archivos de la clase
 
-This command starts a local development server and open up a browser window. Most changes are reflected live without having to restart the server.
+- Son los mismos pasos que para agregar el vídeo
 
-### Build
+## Para agregar páginas a la dcumentaci´ón
 
-```
-$ yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
+- Crear el archivo de markdown dentro de la carpeta `docs` (y del módulo específico si pertenece a uno)
+- El archivo de markdown tiene que tener, arriba de todo
 
 ```
-$ GIT_USER=<Your GitHub username> USE_SSH=true yarn deploy
+---
+id: proyecto
+title: 'Proyecto: Portfolio'
+sidebar_label: Proyecto
+---
 ```
 
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+- **id** es el id del archivo que se usa para agregarlo a la barra lateral y linkearlo desde otros archivos
+- **title** es el título que aparece en el documento cuando se lo abre
+- **sidebar_label** es el nombre con el que aparece en la barra lateral
+
+- Agregar el archivo a la barra lateral, en el archivo de configuraci´ón `sidebars.js`, usando como referencia el id (si está dentro de una carpeta, hay que poner la ruta de la carpeta)
+- Ver ejemplo en el mismo archivo o en la documentación de Docusaurus al respecto

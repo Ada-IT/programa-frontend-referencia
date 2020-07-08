@@ -29,9 +29,9 @@ sidebar_label: 07) Flexbox
 
 ### 🚀 Recursos de la clase
 
-📹 [Grabación]()
+📹 Grabación
 
-👩‍💻 [Código]()
+👩‍💻 Código
 
 💪 [Ejercitación](https://github.com/Ada-IT/ejercicios-frontend/blob/master/modulo-1/ejercicios/07-flexbox.md)
 

@@ -30,9 +30,9 @@ sidebar_label: 09) Clases
 
 ### 🚀 Recursos de la clase
 
-📹 [Grabación]()
+📹 Grabación
 
-👩‍💻 [Código]()
+👩‍💻 Código
 
 💪 [Ejercitación](https://github.com/Ada-IT/ejercicios-frontend/blob/master/modulo-1/ejercicios/09-clases.md)
 

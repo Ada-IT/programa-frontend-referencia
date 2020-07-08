@@ -23,6 +23,6 @@ sidebar_label: 02) Layout
 
 ### 🚀 Recursos de la clase
 
-📹 [Grabación]()
+📹 Grabación
 
-💪 [Ejercitación]()
+💪 Ejercitación

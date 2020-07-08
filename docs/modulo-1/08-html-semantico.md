@@ -46,11 +46,9 @@ sidebar_label: 08) HTML Semántico
 
 ### 🚀 Recursos de la clase
 
-📹 [Grabación]()
+📹 Grabación
 
-👩‍💻 [Código]()
-
-🏃‍♀️ [Actividad]()
+👩‍💻 Código
 
 💪 [Ejercitación](https://github.com/Ada-IT/ejercicios-frontend/blob/master/modulo-1/ejercicios/08-html-semantico.md)
 

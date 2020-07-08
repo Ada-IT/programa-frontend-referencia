@@ -53,11 +53,9 @@ sidebar_label: 05) Introducción a CSS
 
 ### 🚀 Recursos de la clase
 
-📹 [Grabación]()
+📹 Grabación
 
-👩‍💻 [Código]()
-
-🏃‍♀️ [Actividad]()
+👩‍💻 Código
 
 💪 [Ejercitación](https://github.com/Ada-IT/ejercicios-frontend/blob/master/modulo-1/ejercicios/05-introduccion-a-css.md)
 

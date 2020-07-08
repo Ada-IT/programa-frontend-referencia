@@ -36,7 +36,7 @@ sidebar_label: 03) Introducción a Git
 
 ### 🚀 Recursos de la clase
 
-📹 [Grabación]()
+📹 Grabación
 
 💪 [Ejercitación](https://github.com/Ada-IT/ejercicios-frontend/blob/master/modulo-1/ejercicios/03-introduccion-a-git.md)
 

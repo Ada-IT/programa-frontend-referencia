@@ -33,7 +33,7 @@ module.exports = {
           items: [
             {
               label: 'Frontend',
-              to: 'docs/internet-http/ihttp',
+              to: 'https://frontend.adaitw.org/',
             },
           ],
         },
