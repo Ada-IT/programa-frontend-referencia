@@ -12,7 +12,7 @@ Para el primer proyecto vas a realizar un **portfolio personal**. Este sitio te 
 
 Los requisitos mínimos para que el proyecto sea considerado para la entrega son:
 
-- Se debe respetar el siguiente [diseño](https://frontend-proyecto-portfolio.onrender.com/).
+- Se debe respetar el siguiente [diseño](https://frontend-proyecto-portfolio.adaitw.org/).
 - **Pueden modificarse colores, tipografías e imágenes**
 - El portfolio debe contar con:
   - Header con links de navegación.
@@ -49,3 +49,8 @@ Los requisitos mínimos para que el proyecto sea considerado para la entrega son
   - Reutilización de estilos.
   - Código CSS ordenado.
   - Commits con mensajes adecuados.
+
+## Recursos
+
+- [Imágenes](https://undraw.co/illustrations)
+- [Íconos](https://konpa.github.io/devicon/)
