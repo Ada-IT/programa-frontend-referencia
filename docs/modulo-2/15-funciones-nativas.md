@@ -23,6 +23,16 @@ sidebar_label: 15) Funciones nativas
 - `replace`
 - `toString`
 
+**Regex**
+
+- Qué es una expresión regular
+- Patrones
+- Flags
+- Flag global e insensible al caso
+- Reemplazando una palabra
+- Reemplazando una letra o número
+- Reemplazando todas las letras o números
+
 **Números**
 
 - El objeto Math.

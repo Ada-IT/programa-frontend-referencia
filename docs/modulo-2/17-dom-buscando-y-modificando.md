@@ -54,6 +54,15 @@ sidebar_label: 17) DOM - Buscando y modificando elementos
 - Modificando estilos.
 - Estilos computados para leer estilos.
 
+**Trabajando con atributos**
+
+- `href`
+- `src`
+
+**Modificando el texto**
+
+- `innerText`
+
 ---
 
 ### 🚀 Recursos de la clase

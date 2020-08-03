@@ -12,7 +12,12 @@ sidebar_label: 29) Arquitectura CSS
 
 ### 📝 Contenidos
 
-- Contenido 1.
+- Variables de CSS.
+- Buenos nombres de variables.
+- Reutilizando variables.
+- Sistemas de diseño.
+- Trabajando con colores, tipografías, espacios y tamaños.
+- Buenas prácticas.
 
 ---
 

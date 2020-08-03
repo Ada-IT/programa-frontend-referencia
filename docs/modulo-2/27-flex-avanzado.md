@@ -1,12 +1,12 @@
 ---
-id: clase-25
-title: Flex avanzado
-sidebar_label: 25) Flex avanzado
+id: clase-27
+title: Flexbox avanzado
+sidebar_label: 27) Flexbox avanzado
 ---
 
 ### 🏁 Objetivos
 
-- Objetivo 1.
+- Que te familiarices con conceptos avanzados de flexbox
 
 ---
 
@@ -14,8 +14,10 @@ sidebar_label: 25) Flex avanzado
 
 - `flex-grow`
 - `flex-shrink`
+- `flex-order`
 - `align-self`
 - `justify-self`
+- Problemas de flex y accesibilidad
 
 ---
 

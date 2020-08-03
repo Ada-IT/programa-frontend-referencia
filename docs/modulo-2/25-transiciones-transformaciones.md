@@ -1,12 +1,14 @@
 ---
-id: clase-24
+id: clase-25
 title: Transiciones y transformaciones
-sidebar_label: 24) Transiciones y transformaciones
+sidebar_label: 25) Transiciones y transformaciones
 ---
 
 ### 🏁 Objetivos
 
-- Objetivo 1.
+- Que puedas agregar transiciones a los elementos de una página.
+- Que te introduzcas a los conceptos involucrados en transiciones.
+- Que te familiarices con las transformaciones de CSS.
 
 ---
 
@@ -14,7 +16,7 @@ sidebar_label: 24) Transiciones y transformaciones
 
 **Transiciones**
 
-- Transiciones de propiedades
+- Transiciones de propiedades.
 - Propiedades de transición:
   - `transition-property`
   - `transition-duration`
@@ -23,7 +25,7 @@ sidebar_label: 24) Transiciones y transformaciones
   - `transition`
 - Funciones de tiempo (_timing_ o _easing functions_).
 - Curvas de bezier.
-- Transiciones junto a `hover`
+- Transiciones junto a `hover`.
 
 **Transformaciones**
 

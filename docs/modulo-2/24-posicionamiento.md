@@ -1,19 +1,22 @@
 ---
-id: clase-23
+id: clase-24
 title: Posicionamiento
-sidebar_label: 23) Posicionamiento
+sidebar_label: 24) Posicionamiento
 ---
 
 ### 🏁 Objetivos
 
-- Objetivo 1.
+- Que conozcas las distintas formas de posicionar elementos con CSS.
+- Que te interiorices en el sistema de coordenadas de CSS.
+- Que puedas aplicar lo aprendido en los casos de uso más comunes.
 
 ---
 
 ### 📝 Contenidos
 
-- Sistema de posicionamiento en CSS.
-- La propiedad`position`.
+**Sistema de posicionamiento en CSS**
+
+- La propiedad`position`
 - Formas de posicionamiento:
   - `static`
   - `relative`
@@ -25,7 +28,13 @@ sidebar_label: 23) Posicionamiento
   - `bottom`
   - `left`
 - `z-index`
+
+**Ejemplos de uso**
+
 - Centrado con `position`
+- Hero
+- Overlays
+- Íconos dentro de inputs
 
 ---
 

@@ -6,13 +6,8 @@ sidebar_label: 30) Repaso
 
 ### 🏁 Objetivos
 
-- Objetivo 1.
-
----
-
-### 📝 Contenidos
-
-- Contenido 1.
+- Que puedas repasar lo aprendido hasta del módulo el momento
+- Que puedas resolver dudas que te hayan quedado pendientes
 
 ---
 
@@ -21,21 +16,3 @@ sidebar_label: 30) Repaso
 📹 Grabación
 
 👩‍💻 Código
-
-💪 Ejercitación
-
----
-
-### 📚 Material de lectura
-
-- Material 1
-
-_En inglés_
-
-- Material 2
-
----
-
-### 🔍 Para seguir investigando
-
-- Material 3

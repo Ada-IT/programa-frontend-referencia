@@ -6,7 +6,9 @@ sidebar_label: 21) Validación de formularios
 
 ### 🏁 Objetivos
 
-- Objetivo 1.
+- Que conozcas los eventos de los elementos de un formulario.
+- Que puedas interactuar dinámicamente con los elementos de un formulario.
+- Que puedas validar los datos de un formulario.
 
 ---
 
@@ -28,6 +30,7 @@ sidebar_label: 21) Validación de formularios
 - `value`
 - `preventDefault`
 
+- Accediendo a los inputs de un formulario
 - Distinción entre validación de formulario del lado del cliente y del lado del servidor.
 
 ---
@@ -43,8 +46,6 @@ sidebar_label: 21) Validación de formularios
 ---
 
 ### 📚 Material de lectura
-
-- Material 1
 
 _En inglés_
 
