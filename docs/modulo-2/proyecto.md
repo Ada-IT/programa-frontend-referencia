@@ -71,25 +71,25 @@ Los requisitos mínimos para que el proyecto sea considerado para la entrega son
 
 _Básica_
 
-- [] Los colores tienen un contraste adecuado.
-- [] Las imágenes tiene el atributo `alt` que corresponde.
-- [] La página tiene la información meta correspondiente.
-- [] La página tiene una semántica correcta.
-- [] Los íconos y elementos que no presentan texto agregan la información correspondiente por otros medios (etiquetas aria, texto oculto).
-- [] Cuando se hace zoom el diseño se mantiene.
+- [ ] Los colores tienen un contraste adecuado.
+- [ ] Las imágenes tiene el atributo `alt` que corresponde.
+- [ ] La página tiene la información meta correspondiente.
+- [ ] La página tiene una semántica correcta.
+- [ ] Los íconos y elementos que no presentan texto agregan la información correspondiente por otros medios (etiquetas aria, texto oculto).
+- [ ] Cuando se hace zoom el diseño se mantiene.
 
 _Avanzada_
 
-- [] La página puede ser navegada con el teclado correctamente.
-  - [] Siempre hay un foco visible.
-  - [] Cuando un elemento está oculto (modales, carrito, productos), no debe poder moverse el foco a elementos del mismo.
-  - [] Cuando se abre el carrito, el foco salta al botón de cierre del mismo.
-  - [] Cuando se cierra el carrito, el foco salta al botón de apertura del mismo.
-  - [] Cuando se abre un modal, el foco salta al botón de cancelación del mismo.
-  - [] Cuando se cierra un modal, el foco salta al bot´ón que abrió dicho modal.
-  - [] Cuando un modal está abierto, no debe poder moverse el foco a algún elemento por fuera del modal.
-- [] La página puede ser navegada con un lector de pantalla correctamente.
-- [] Cuando hay cambios dinámicos el lector de pantalla lo anuncia correctamente.
+- [ ] La página puede ser navegada con el teclado correctamente.
+  - [ ] Siempre hay un foco visible.
+  - [ ] Cuando un elemento está oculto (modales, carrito, productos), no debe poder moverse el foco a elementos del mismo.
+  - [ ] Cuando se abre el carrito, el foco salta al botón de cierre del mismo.
+  - [ ] Cuando se cierra el carrito, el foco salta al botón de apertura del mismo.
+  - [ ] Cuando se abre un modal, el foco salta al botón de cancelación del mismo.
+  - [ ] Cuando se cierra un modal, el foco salta al bot´ón que abrió dicho modal.
+  - [ ] Cuando un modal está abierto, no debe poder moverse el foco a algún elemento por fuera del modal.
+- [ ] La página puede ser navegada con un lector de pantalla correctamente.
+- [ ] Cuando hay cambios dinámicos el lector de pantalla lo anuncia correctamente.
 
 ## Criterios de evaluación
 
