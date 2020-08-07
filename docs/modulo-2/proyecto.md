@@ -58,9 +58,14 @@ Los requisitos mínimos para que el proyecto sea considerado para la entrega son
 - Cuando se agrega/elimina un producto al carrito debe actualizarse el ícono del carrito con la cantidad de productos agregados.
 - Cuando se agrega un producto al carrito, debe mostrarse el producto agregado en el carrito.
 - El carrito debe mostrar el subtotal del mismo (suma de precio de productos agregados por cantidad), que debe actualizarse cuando:
+  <<<<<<< HEAD
   - se agrega un producto
   - se elimina un producto
-  - se modifica la cantidad del mismo
+  - # se modifica la cantidad del mismo
+  - Se agrega un producto.
+  - Se elimina un producto.
+  - Se modifica la cantidad del mismo.
+    > > > > > > > f1eca47ac4ae6db66144e28ff9887c93806f9765
 - El carrito debe mostrar la cantidad de productos agregados, ignorando las cantidades individuales de cada producto. Por ejemplo, si hay 5 productos agregados, cada uno con 3 unidades, solo debe mostrar 5 productos agregados. Esto debe actualizarse cuando:
   - se agrega un producto
   - se elimina un producto
