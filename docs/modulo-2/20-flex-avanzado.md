@@ -1,7 +1,7 @@
 ---
-id: clase-27
+id: clase-20
 title: Flexbox avanzado
-sidebar_label: 27) Flexbox avanzado
+sidebar_label: 20) Flexbox avanzado
 ---
 
 ### 🏁 Objetivos
@@ -17,7 +17,6 @@ sidebar_label: 27) Flexbox avanzado
 - `flex-order`
 - `align-self`
 - `justify-self`
-- Problemas de flex y accesibilidad
 
 ---
 

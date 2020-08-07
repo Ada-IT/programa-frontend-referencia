@@ -1,7 +1,7 @@
 ---
-id: clase-21
+id: clase-23
 title: Validación de formularios
-sidebar_label: 21) Validación de formularios
+sidebar_label: 23) Validación de formularios
 ---
 
 ### 🏁 Objetivos

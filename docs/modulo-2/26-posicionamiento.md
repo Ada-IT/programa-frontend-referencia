@@ -1,7 +1,7 @@
 ---
-id: clase-24
+id: clase-26
 title: Posicionamiento
-sidebar_label: 24) Posicionamiento
+sidebar_label: 26) Posicionamiento
 ---
 
 ### 🏁 Objetivos

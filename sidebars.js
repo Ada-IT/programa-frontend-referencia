@@ -21,6 +21,8 @@ module.exports = {
       },
     ],
     'Módulo 2 - JavaScript': [
+      'modulo-2/introduccion',
+      'modulo-2/proyecto',
       {
         Clases: [
           'modulo-2/clase-13',

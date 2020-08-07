@@ -1,47 +1,24 @@
 ---
-id: clase-23
-title: Accesibilidad
-sidebar_label: 23) Accesibiliad
+id: clase-28
+title: Accesibilidad Avanzada
+sidebar_label: 28) Accesibilidad Avanzada
 ---
 
 ### 🏁 Objetivos
 
-- Que te introduzcas al desarrollo de sitios accesibles.
-- Que comprendas la importancia de la accesibilidad en el desarrollo web.
-- Que conozcas algunas de las tecnologías asistivas que se utilizan.
-- Que te interiorices en algunas de las buenas prácticas del desarrollo accesible.
-- Que te familiarices con el uso de etiquetas ARIA.
+- Que aprendas cómo para desarrollar un formulario accesible.
+- Que puedas hacer una página navegable con el teclado.
 
 ---
 
 ### 📝 Contenidos
 
-**Introducción a la accesibilidad**
-
-- La importancia de la accesibilidad.
-- Diversos tipos de discapacidades.
-- Tecnologías asistivas.
-
-**Desarrollo accesible**
-
-- Pilares del desarrollo accesible:
-  - Perceptible.
-  - Operable.
-  - Comprensible.
-  - Robusto.
-- Desarrollando accesiblemente:
-  - Meta data.
-  - Semántica.
-  - Elementos con foco.
-  - Colores.
-  - Imágenes.
-  - Íconos.
-  - Links.
-- Etiquetas ARIA
-  - `aria-labelledby`
-  - `aria-label`
-  - `aria-hidden`
-  - `aria-live`
+- Accesibilidad en formularios.
+- Shortcuts.
+- Asegurando la navegación con teclado.
+- Controlando el foco dinámicamente.
+- Problemas con eventos de mouse.
+- C´ómo hacer un dialog accesible.
 
 ---
 
@@ -64,6 +41,7 @@ _En inglés_
 - [A11Y Style Guide](https://a11y-style-guide.com/style-guide/)
 - [Checklist de accesibilidad](https://www.a11yproject.com/checklist/)
 - [Web Accessibility Tutorials](https://www.w3.org/WAI/tutorials/)
+- [Web accesibility guidelines](http://web-accessibility.carnegiemuseums.org/)
 
 ---
 

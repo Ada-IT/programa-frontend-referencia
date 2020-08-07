@@ -1,7 +1,7 @@
 ---
 id: proyecto
 title: 'Proyecto: Portfolio'
-sidebar_label: Proyecto
+sidebar_label: Proyecto - Portfolio
 ---
 
 ## Consigna
