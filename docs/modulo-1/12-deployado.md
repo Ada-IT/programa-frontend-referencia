@@ -21,9 +21,19 @@ sidebar_label: 12) Deployado
 - Qué es un dominio y cómo conseguirlo.
 - Cómo agregar un favicon.
 - Cómo escribir un readme y usar markdown.
+- Etiquetas `meta` para redes sociales (OpenGraph Protocol).
 
 ---
 
 ### 🚀 Recursos de la clase
 
 📹 [Grabación]()
+
+---
+
+### 📚 Material de lectura
+
+_En inglés_
+
+[The Essential Meta Tags for Social Media](https://css-tricks.com/essential-meta-tags-social-media/)
+[Generador de Meta Tags](https://metatags.io/)
