@@ -1,7 +1,7 @@
 ---
-id: clase-09
+id: clase-17
 title: Clases
-sidebar_label: 09) Clases
+sidebar_label: 17) Clases
 ---
 
 ### 🏁 Objetivos
@@ -41,9 +41,3 @@ sidebar_label: 09) Clases
 ### 📚 Material de lectura
 
 - [What makes for a semantic class name?](https://css-tricks.com/semantic-class-names/)
-
----
-
-### 🔍 Para seguir investigando
-
-- [Recurso](https://www.notion.so/pabloh/www.github.com)

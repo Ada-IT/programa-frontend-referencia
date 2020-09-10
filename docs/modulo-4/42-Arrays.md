@@ -1,7 +1,7 @@
 ---
 id: clase-42
-title: Arrays
-sidebar_label: 42) Estructuras de datos: Arrays
+title: Estructuras de datos":" Arrays
+sidebar_label: 42) Arrays
 ---
 
 ### 🏁 Objetivos

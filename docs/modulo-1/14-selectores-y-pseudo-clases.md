@@ -1,7 +1,7 @@
 ---
-id: clase-22
+id: clase-14
 title: Selectores avanzados y Pseudo clases
-sidebar_label: 22) Selectores avanzados y Pseudo clases
+sidebar_label: 14) Selectores avanzados y Pseudo clases
 ---
 
 ### 🏁 Objetivos

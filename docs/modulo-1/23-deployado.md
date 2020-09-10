@@ -1,7 +1,7 @@
 ---
-id: clase-12
+id: clase-23
 title: Deployado
-sidebar_label: 12) Deployado
+sidebar_label: 23) Deployado
 ---
 
 ### 🏁 Objetivos
@@ -9,7 +9,6 @@ sidebar_label: 12) Deployado
 - Que aprendas en qué consiste un deploy.
 - Que puedas deployar tu(s) página(s) en algún servicio de terceros.
 - Que aprendas a utilizar markdown y a escribir un readme para hacer una buena presentación de tus proyectos en GitHub.
-- Que puedas aclarar dudas e inquietudes de los temas dados en el módulo.
 
 ---
 
@@ -22,6 +21,7 @@ sidebar_label: 12) Deployado
 - Cómo agregar un favicon.
 - Cómo escribir un readme y usar markdown.
 - Etiquetas `meta` para redes sociales (OpenGraph Protocol).
+- **Performance !!!!**
 
 ---
 

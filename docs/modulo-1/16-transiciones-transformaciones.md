@@ -1,7 +1,7 @@
 ---
-id: clase-27
+id: clase-16
 title: Transiciones y transformaciones
-sidebar_label: 27) Transiciones y transformaciones
+sidebar_label: 16) Transiciones y transformaciones
 ---
 
 ### 🏁 Objetivos

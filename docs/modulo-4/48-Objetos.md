@@ -1,7 +1,7 @@
 ---
 id: clase-48
-title: Objetos
-sidebar_label: 48) Estructura de datos: Objetos
+title: Estructura de datos":" Objetos
+sidebar_label: 48) Objetos
 ---
 
 ### 🏁 Objetivos

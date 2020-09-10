@@ -1,7 +1,7 @@
 ---
-id: clase-04
+id: clase-01
 title: Introducción a HTML
-sidebar_label: 04) Introducción a HTML
+sidebar_label: 01) Introducción a HTML
 ---
 
 ### 🏁 Objetivos
@@ -46,9 +46,9 @@ sidebar_label: 04) Introducción a HTML
 
 ### 🚀 Recursos de la clase
 
-📹 [Grabación]()
+📹 Grabación
 
-👩‍💻 [Código]()
+👩‍💻 Código
 
 💪 [Ejercitación](https://github.com/Ada-IT/ejercicios-frontend/blob/master/modulo-1/ejercicios/04-introduccion-a-html.md)
 

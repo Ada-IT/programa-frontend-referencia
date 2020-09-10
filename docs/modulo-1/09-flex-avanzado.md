@@ -1,7 +1,7 @@
 ---
-id: clase-20
+id: clase-09
 title: Flexbox avanzado
-sidebar_label: 20) Flexbox avanzado
+sidebar_label: 09) Flexbox avanzado
 ---
 
 ### 🏁 Objetivos
@@ -16,7 +16,7 @@ sidebar_label: 20) Flexbox avanzado
 - `flex-shrink`
 - `flex-order`
 - `align-self`
-- `justify-self`
+- `order`
 
 ---
 
@@ -31,8 +31,6 @@ sidebar_label: 20) Flexbox avanzado
 ---
 
 ### 📚 Material de lectura
-
-- Material 1
 
 _En inglés_
 

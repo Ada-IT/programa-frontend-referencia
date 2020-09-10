@@ -1,7 +1,7 @@
 ---
-id: clase-05
+id: clase-02
 title: Introducción a CSS
-sidebar_label: 05) Introducción a CSS
+sidebar_label: 02) Introducción a CSS
 ---
 
 ### 🏁 Objetivos

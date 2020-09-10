@@ -1,7 +1,7 @@
 ---
-id: clase-03
+id: clase-05
 title: Introducción a Git
-sidebar_label: 03) Introducción a Git
+sidebar_label: 05) Introducción a Git
 ---
 
 ### 🏁 Objetivos

@@ -1,7 +1,7 @@
 ---
-id: clase-21
+id: clase-13
 title: Formularios
-sidebar_label: 21) Formularios
+sidebar_label: 13) Formularios
 ---
 
 ### 🏁 Objetivos
@@ -38,7 +38,7 @@ sidebar_label: 21) Formularios
 - `min`
 - `max`
 
-- Estilando un formulario
+**Estilando un formulario**
 
 ---
 

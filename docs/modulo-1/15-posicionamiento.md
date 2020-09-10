@@ -1,7 +1,7 @@
 ---
-id: clase-26
+id: clase-15
 title: Posicionamiento
-sidebar_label: 26) Posicionamiento
+sidebar_label: 15) Posicionamiento
 ---
 
 ### 🏁 Objetivos
@@ -35,6 +35,9 @@ sidebar_label: 26) Posicionamiento
 - Hero
 - Overlays
 - Íconos dentro de inputs
+- Modales
+- Sidebars
+- Badges
 
 ---
 

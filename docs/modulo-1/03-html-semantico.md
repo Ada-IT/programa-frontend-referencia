@@ -1,7 +1,7 @@
 ---
-id: clase-08
+id: clase-03
 title: HTML Semántico
-sidebar_label: 08) HTML Semántico
+sidebar_label: 03) HTML Semántico
 ---
 
 ### 🏁 Objetivos

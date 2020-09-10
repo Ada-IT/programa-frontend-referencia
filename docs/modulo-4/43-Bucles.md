@@ -1,6 +1,6 @@
 ---
 id: clase-44
-title: Estructuras de control: Bucles
+title: Estructuras de control":" Bucles
 sidebar_label: 44) Bucles
 ---
 

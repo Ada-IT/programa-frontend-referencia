@@ -1,7 +1,7 @@
 ---
-id: clase-24
+id: clase-20
 title: Accesibilidad
-sidebar_label: 24) Accesibiliad
+sidebar_label: 20) Accesibiliad
 ---
 
 ### 🏁 Objetivos
@@ -40,8 +40,8 @@ sidebar_label: 24) Accesibiliad
 - Etiquetas ARIA
   - `aria-label`
   - `aria-labelledby`
+  - `aria-describedby`
   - `aria-hidden`
-  - `aria-live`
 
 ---
 
@@ -63,8 +63,12 @@ _En inglés_
 - [A11Y 101](https://a11y-101.com/)
 - [A11Y Style Guide](https://a11y-style-guide.com/style-guide/)
 - [Checklist de accesibilidad](https://www.a11yproject.com/checklist/)
+- [MDN - Accesibility](https://developer.mozilla.org/en-US/docs/Web/Accessibility)
 - [Web Accessibility Tutorials](https://www.w3.org/WAI/tutorials/)
 - [Web accesibility guidelines](http://web-accessibility.carnegiemuseums.org/)
+- [Font Awesome Accesibility Icon Guide](https://fontawesome.com/how-to-use/on-the-web/other-topics/accessibility)
+- [How Can I Make My Icon System Accessible?](https://css-tricks.com/can-make-icon-system-accessible/)
+- [Alt-texts: The Ultimate Guide](https://axesslab.com/alt-texts/)
 
 ---
 
@@ -76,3 +80,5 @@ _En inglés_
 - [A11Y Project Resources](https://www.a11yproject.com/resources/)
 - [Washington Accesibility Checklist](https://www.washington.edu/accessibility/checklist/)
 - [Especificación de ARIA](https://www.w3.org/TR/wai-aria-practices-1.1/#intro)
+- [Inclusively Hiding & Styling Checkboxes and Radio Buttons](https://www.sarasoueidan.com/blog/inclusively-hiding-and-styling-checkboxes-and-radio-buttons/)
+- [Accessible Icon Buttons](https://www.sarasoueidan.com/blog/accessible-icon-buttons/)

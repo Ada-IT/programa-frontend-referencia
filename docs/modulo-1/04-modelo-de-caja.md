@@ -1,7 +1,7 @@
 ---
-id: clase-06
+id: clase-04
 title: Modelo de Caja
-sidebar_label: 06) Modelo de Caja
+sidebar_label: 04) Modelo de Caja
 ---
 
 ### 🏁 Objetivos

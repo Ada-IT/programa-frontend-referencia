@@ -1,7 +1,7 @@
 ---
 id: clase-41
-title: Estructuras de control: Condicionales
-sidebar_label: 41) Estructuras de control: Condicionales
+title: Estructuras de control":" Condicionales
+sidebar_label: 41) Condicionales
 ---
 
 ### 🏁 Objetivos

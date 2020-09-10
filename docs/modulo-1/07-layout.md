@@ -1,7 +1,7 @@
 ---
-id: clase-02
+id: clase-07
 title: Layout
-sidebar_label: 02) Layout
+sidebar_label: 07) Layout
 ---
 
 ### 🏁 Objetivos
