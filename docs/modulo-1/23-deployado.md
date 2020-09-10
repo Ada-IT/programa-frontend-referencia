@@ -21,13 +21,12 @@ sidebar_label: 23) Deployado
 - Cómo agregar un favicon.
 - Cómo escribir un readme y usar markdown.
 - Etiquetas `meta` para redes sociales (OpenGraph Protocol).
-- **Performance !!!!**
 
 ---
 
 ### 🚀 Recursos de la clase
 
-📹 [Grabación]()
+📹 Grabación
 
 ---
 
