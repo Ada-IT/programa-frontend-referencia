@@ -1,7 +1,7 @@
 ---
 id: introduccion
 title: Módulo 1
-sidebar_label: Introducción
+sidebar_label: 👉 Introducción
 ---
 
 ## HTML / CSS

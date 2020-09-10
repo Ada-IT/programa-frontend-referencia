@@ -1,7 +1,7 @@
 ---
-id: clase-19
+id: clase-36
 title: Repaso JavaScript y DOM
-sidebar_label: 19) Repaso
+sidebar_label: 36) Repaso
 ---
 
 ### 🏁 Objetivos

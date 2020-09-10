@@ -1,7 +1,7 @@
 ---
-id: clase-30
+id: clase-48
 title: Repaso
-sidebar_label: 30) Repaso
+sidebar_label: 48) Repaso
 ---
 
 ### 🏁 Objetivos

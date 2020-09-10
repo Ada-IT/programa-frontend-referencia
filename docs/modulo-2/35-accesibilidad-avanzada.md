@@ -1,7 +1,7 @@
 ---
-id: clase-28
+id: clase-35
 title: Accesibilidad Avanzada
-sidebar_label: 28) Accesibilidad Avanzada
+sidebar_label: 35) Accesibilidad Avanzada
 ---
 
 ### 🏁 Objetivos

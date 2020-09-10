@@ -1,7 +1,7 @@
 ---
 id: 00-intro
-title: 👩‍💻 Bienvenida
-sidebar_label: 👩‍💻 Bienvenida
+title: Bienvenida
+sidebar_label: Bienvenida
 ---
 
 🙋‍♀️ **Comisión:** 6ta Generación Frontend Online

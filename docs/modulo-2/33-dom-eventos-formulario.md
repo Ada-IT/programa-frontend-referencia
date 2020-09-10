@@ -1,7 +1,7 @@
 ---
-id: clase-23
-title: Validación de formularios
-sidebar_label: 23) Validación de formularios
+id: clase-33
+title: Eventos de formulario
+sidebar_label: 33) Eventos de formulario
 ---
 
 ### 🏁 Objetivos

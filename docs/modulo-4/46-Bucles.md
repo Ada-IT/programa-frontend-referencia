@@ -1,7 +1,7 @@
 ---
-id: clase-44
-title: Estructuras de control":" Bucles
-sidebar_label: 44) Bucles
+id: clase-46
+title: Bucles
+sidebar_label: 46) Bucles
 ---
 
 ### 🏁 Objetivos

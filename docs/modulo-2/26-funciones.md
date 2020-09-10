@@ -1,7 +1,7 @@
 ---
-id: clase-14
+id: clase-26
 title: Funciones
-sidebar_label: 14) Funciones
+sidebar_label: 26) Funciones
 ---
 
 ### 🏁 Objetivos

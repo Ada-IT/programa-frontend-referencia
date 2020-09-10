@@ -1,7 +1,7 @@
 ---
-id: clase-40
+id: clase-43
 title: GIT Branch
-sidebar_label: 40) GIT Branch
+sidebar_label: 43) GIT Branch
 ---
 
 ### 🏁 Objetivos

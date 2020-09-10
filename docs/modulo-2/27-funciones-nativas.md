@@ -1,7 +1,7 @@
 ---
-id: clase-15
+id: clase-27
 title: Funciones nativas
-sidebar_label: 15) Funciones nativas
+sidebar_label: 27) Funciones nativas
 ---
 
 ### 🏁 Objetivos

@@ -1,7 +1,7 @@
 ---
-id: clase-13
+id: clase-25
 title: Variables, datos y operadores
-sidebar_label: 13) Variables, datos y operadores
+sidebar_label: 25) Variables, datos y operadores
 ---
 
 ### 🏁 Objetivos
@@ -31,11 +31,9 @@ sidebar_label: 13) Variables, datos y operadores
 **Datos Primitivos**
 
 - Qué es un dato.
-- Valores primitivos: strings, números, booleanos.
+- Valores primitivos: strings, números.
 - Valores nulos: `null`, `undefined`.
 - `NaN` e `Infinity`.
-- Valores verdaderos y falsos.
-- Pasaje y comparación por valor.
 - `typeof`.
 - Comillas dobles y simples.
 - Template strings.
@@ -47,13 +45,8 @@ sidebar_label: 13) Variables, datos y operadores
 - Operadores aritméticos.
 - Operadores de asignación.
 - Operador de concatenación.
-- Operadores relacionales.
-- Operadores de igualdad.
-- Igualdad estricta y no estricta.
-- Operador de agrupamiento.
-- Orden de evaluación.
 
-- Sentencias y expresiones, diferencias.
+**Sentencias y expresiones, diferencias**
 
 **Interacción**
 

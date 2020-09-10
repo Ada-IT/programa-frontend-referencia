@@ -1,7 +1,7 @@
 ---
-id: clase-44
+id: clase-47
 title: Matrices
-sidebar_label: 44) Matrices
+sidebar_label: 47) Matrices
 ---
 
 ### 🏁 Objetivos

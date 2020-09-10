@@ -1,7 +1,7 @@
 ---
 id: introduccion
 title: Módulo 4
-sidebar_label: Introducción
+sidebar_label: 👉 Introducción
 ---
 
 ## Estructuras de control

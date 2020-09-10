@@ -31,6 +31,8 @@ sidebar_label: 14) Selectores avanzados y Pseudo clases
 - `not`
 - `nth-child`
 - `nth-of-type`
+- `hover`
+- `active`
 - `focus`
 - `target`
 - `checked`

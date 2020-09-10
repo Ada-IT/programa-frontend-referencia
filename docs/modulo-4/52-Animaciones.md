@@ -1,7 +1,7 @@
 ---
-id: clase-46
-title: DOM - Nodos
-sidebar_label: 46) DOM - Nodos
+id: clase-52
+title: Animaciones
+sidebar_label: 52) Animaciones
 ---
 
 ### 🏁 Objetivos
@@ -10,11 +10,9 @@ sidebar_label: 46) DOM - Nodos
 
 ### 📝 Contenidos
 
-- Trabajando con nodos
-- Creando nodos
-- Accediendo a nodos
-- Insertando nodos
-- Eliminando nodos
+- keyframes
+- librerías de animaciones
+- eventos para trabajar con animaciones
 
 ---
 

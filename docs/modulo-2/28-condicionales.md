@@ -1,30 +1,31 @@
 ---
-id: clase-16
+id: clase-28
 title: Condicionales
-sidebar_label: 16) Condicionales
+sidebar_label: 28) Condicionales
 ---
 
 ### 🏁 Objetivos
 
-- Que te familiarices con los condicionales y entiendas su funcionamiento y usos.
-- Que puedas usar condicionales en tu código para controlar el flujo de ejecución.
-- Que puedas utilizar operadores lógicos para escribir condiciones más complejas.
+- Que comprendas el concepto de flujo de ejecuci´ón.
+- Que te introduzcas a los condicionales y entiendas su funcionamiento y usos.
+- Que puedas comparar valores y realizar operaciones en base a ello.
 
 ---
 
 ### 📝 Contenidos
 
+**Comparaciones y valores verdad**
+
+- Booleanos
+- Operadores relacionales.
+- Operadores de igualdad.
+- Igualdad estricta y no estricta.
+- Valores verdaderos y falsos.
+- Coerción de tipos.
+
 **Condicionales**
 
 - `if`
-- `else if`
-- `else`
-
-**Operadores lógicos**
-
-- `&&`
-- `||`
-- `!`
 
 ---
 

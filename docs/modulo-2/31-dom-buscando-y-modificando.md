@@ -1,7 +1,7 @@
 ---
-id: clase-17
+id: clase-31
 title: DOM - Buscando y modificando elementos
-sidebar_label: 17) DOM - Buscando y modificando elementos
+sidebar_label: 31) Modificando elementos
 ---
 
 ### 🏁 Objetivos
@@ -32,11 +32,7 @@ sidebar_label: 17) DOM - Buscando y modificando elementos
 
 - Buscando elementos del DOM:
   - `getElementById`
-  - `getElementsByClassName`
-  - `getElementsByTagName`
-  - `querySelectorAll`
   - `querySelector`
-- Recorriendo colecciones con `for...of`
 
 **Trabajando con clases**
 
@@ -58,6 +54,7 @@ sidebar_label: 17) DOM - Buscando y modificando elementos
 
 - `href`
 - `src`
+- el atributo `data` y `dataset`
 
 **Modificando el texto**
 

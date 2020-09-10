@@ -1,7 +1,7 @@
 ---
-id: clase-18
+id: clase-32
 title: DOM - Eventos y agregando HTML
-sidebar_label: 18) DOM - Eventos y agregando HTML
+sidebar_label: 32) Eventos
 ---
 
 ### 🏁 Objetivos

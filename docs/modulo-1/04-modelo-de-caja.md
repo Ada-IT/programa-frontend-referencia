@@ -30,8 +30,9 @@ sidebar_label: 04) Modelo de Caja
 - Calculando el ancho total
 - `box-sizing`
 - Colapsamiento de márgenes
-- `overflow: hidden`
+- `overflow`
 - `display: inline, block e inline-block`
+- `box-shadow`
 
 ---
 

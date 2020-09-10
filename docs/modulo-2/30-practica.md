@@ -1,12 +1,12 @@
 ---
-id: clase-45
-title: Repaso
-sidebar_label: 45) Repaso
+id: clase-30
+title: Práctica
+sidebar_label: 30) Práctica
 ---
 
 ### 🏁 Objetivos
 
-- Que puedas repasar lo aprendido del módulo.
+- Que puedas ejercitar y repasar lo aprendido del módulo hasta el momento.
 - Que puedas resolver dudas que te hayan quedado pendientes.
 - Que puedas avanzar con las consignas del proyecto.
 
