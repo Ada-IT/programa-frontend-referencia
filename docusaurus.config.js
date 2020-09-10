@@ -16,7 +16,7 @@ module.exports = {
         alt: 'My Site Logo',
         src: 'img/iso_blanco.svg',
       },
-      links: [
+      items: [
         { to: 'docs/modulo-1/clase-01', label: 'Clases', position: 'left' },
         {
           href: 'https://github.com/facebook/docusaurus',
