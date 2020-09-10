@@ -23,6 +23,8 @@ sidebar_label: 48) Objetos
 
 ### 🚀 Recursos de la clase
 
+📆 Fecha
+
 📹 Grabación
 
 👩‍💻 Código

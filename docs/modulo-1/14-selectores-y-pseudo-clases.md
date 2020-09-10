@@ -4,14 +4,6 @@ title: Selectores avanzados y Pseudo clases
 sidebar_label: 14) Selectores avanzados y Pseudo clases
 ---
 
-### ℹ️ Información
-
-📆
-
-📹 Grabación
-
----
-
 ### 🏁 Objetivos
 
 - Que puedas hacer uso de selectores CSS más avanzados.
@@ -49,6 +41,10 @@ sidebar_label: 14) Selectores avanzados y Pseudo clases
 ---
 
 ### 🚀 Recursos de la clase
+
+📆 Fecha
+
+📹 Grabación
 
 👩‍💻 Código
 

@@ -34,6 +34,8 @@ sidebar_label: 42) Arrays
 
 ### 🚀 Recursos de la clase
 
+📆 Fecha
+
 📹 Grabación
 
 👩‍💻 Código

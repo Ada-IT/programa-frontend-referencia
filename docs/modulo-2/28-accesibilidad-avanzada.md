@@ -24,6 +24,8 @@ sidebar_label: 28) Accesibilidad Avanzada
 
 ### 🚀 Recursos de la clase
 
+📆 Fecha
+
 📹 Grabación
 
 👩‍💻 Código

@@ -4,14 +4,6 @@ title: Accesibilidad
 sidebar_label: 21) Accesibiliad
 ---
 
-### ℹ️ Información
-
-📆
-
-📹 Grabación
-
----
-
 ### 🏁 Objetivos
 
 - Que te introduzcas al desarrollo de sitios accesibles.
@@ -54,6 +46,10 @@ sidebar_label: 21) Accesibiliad
 ---
 
 ### 🚀 Recursos de la clase
+
+📆 Fecha
+
+📹 Grabación
 
 👩‍💻 Código
 

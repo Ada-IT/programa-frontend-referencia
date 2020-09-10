@@ -4,14 +4,6 @@ title: Diseño Responsivo II
 sidebar_label: 11) Diseño Responsivo II
 ---
 
-### ℹ️ Información
-
-📆
-
-📹 Grabación
-
----
-
 ### 🏁 Objetivos
 
 - Que sigas profundizando en conceptos de diseño responsivo.
@@ -31,6 +23,10 @@ sidebar_label: 11) Diseño Responsivo II
 ---
 
 ### 🚀 Recursos de la clase
+
+📆 Fecha
+
+📹 Grabación
 
 👩‍💻 Código
 

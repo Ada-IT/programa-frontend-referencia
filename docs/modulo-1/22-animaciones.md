@@ -4,14 +4,6 @@ title: Animaciones
 sidebar_label: 22) Animaciones
 ---
 
-### ℹ️ Información
-
-📆
-
-📹 Grabación
-
----
-
 ### 🏁 Objetivos
 
 ---
@@ -21,6 +13,10 @@ sidebar_label: 22) Animaciones
 ---
 
 ### 🚀 Recursos de la clase
+
+📆 Fecha
+
+📹 Grabación
 
 👩‍💻 Código
 

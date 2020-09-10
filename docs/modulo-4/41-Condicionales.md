@@ -26,6 +26,8 @@ sidebar_label: 41) Condicionales
 
 ### 🚀 Recursos de la clase
 
+📆 Fecha
+
 📹 Grabación
 
 👩‍💻 Código

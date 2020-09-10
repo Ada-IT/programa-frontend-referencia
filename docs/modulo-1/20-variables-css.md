@@ -4,14 +4,6 @@ title: Variables CSS
 sidebar_label: 20) Variables CSS
 ---
 
-### ℹ️ Información
-
-📆
-
-📹 Grabación
-
----
-
 ### 🏁 Objetivos
 
 - Que te familiarices con variables en CSS.
@@ -32,6 +24,10 @@ sidebar_label: 20) Variables CSS
 ---
 
 ### 🚀 Recursos de la clase
+
+📆 Fecha
+
+📹 Grabación
 
 👩‍💻 Código
 

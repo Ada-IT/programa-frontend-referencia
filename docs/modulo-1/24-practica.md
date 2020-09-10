@@ -4,14 +4,6 @@ title: Práctica
 sidebar_label: 24) Práctica
 ---
 
-### ℹ️ Información
-
-📆
-
-📹 Grabación
-
----
-
 ### 🏁 Objetivos
 
 - Que puedas ejercitar y repasar lo aprendido del módulo hasta el momento.
@@ -21,5 +13,9 @@ sidebar_label: 24) Práctica
 ---
 
 ### 🚀 Recursos de la clase
+
+📆 Fecha
+
+📹 Grabación
 
 👩‍💻 Código

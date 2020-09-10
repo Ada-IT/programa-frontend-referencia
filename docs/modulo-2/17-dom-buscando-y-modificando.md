@@ -67,6 +67,8 @@ sidebar_label: 17) DOM - Buscando y modificando elementos
 
 ### 🚀 Recursos de la clase
 
+📆 Fecha
+
 📹 Grabación
 
 👩‍💻 Código

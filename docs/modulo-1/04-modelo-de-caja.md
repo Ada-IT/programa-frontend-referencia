@@ -4,14 +4,6 @@ title: Modelo de Caja
 sidebar_label: 04) Modelo de Caja
 ---
 
-### ℹ️ Información
-
-📆
-
-📹 Grabación
-
----
-
 ### 🏁 Objetivos
 
 - Que comprendas el modelo de caja de CSS y puedas utilizarlo.
@@ -44,6 +36,10 @@ sidebar_label: 04) Modelo de Caja
 ---
 
 ### 🚀 Recursos de la clase
+
+📆 Fecha
+
+📹 Grabación
 
 👩‍💻 Código
 

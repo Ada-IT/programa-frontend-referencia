@@ -37,6 +37,8 @@ sidebar_label: 23) Validación de formularios
 
 ### 🚀 Recursos de la clase
 
+📆 Fecha
+
 📹 Grabación
 
 👩‍💻 Código

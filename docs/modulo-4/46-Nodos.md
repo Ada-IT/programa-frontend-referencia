@@ -20,6 +20,8 @@ sidebar_label: 46) DOM - Nodos
 
 ### 🚀 Recursos de la clase
 
+📆 Fecha
+
 📹 Grabación
 
 👩‍💻 Código

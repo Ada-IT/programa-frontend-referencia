@@ -34,6 +34,8 @@ sidebar_label: 18) DOM - Eventos y agregando HTML
 
 ### 🚀 Recursos de la clase
 
+📆 Fecha
+
 📹 Grabación
 
 👩‍💻 Código

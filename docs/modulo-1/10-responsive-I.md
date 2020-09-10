@@ -4,14 +4,6 @@ title: Diseño Responsivo I
 sidebar_label: 10) Diseño Responsivo I
 ---
 
-### ℹ️ Información
-
-📆
-
-📹 Grabación
-
----
-
 ### 🏁 Objetivos
 
 - Que entiendas en qué consiste el diseño responsivo y qué problemas soluciona.
@@ -34,6 +26,10 @@ sidebar_label: 10) Diseño Responsivo I
 ---
 
 ### 🚀 Recursos de la clase
+
+📆 Fecha
+
+📹 Grabación
 
 👩‍💻 Código
 

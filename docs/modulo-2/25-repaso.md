@@ -14,6 +14,8 @@ sidebar_label: 25) Repaso
 
 ### 🚀 Recursos de la clase
 
+📆 Fecha
+
 📹 Grabación
 
 👩‍💻 Código

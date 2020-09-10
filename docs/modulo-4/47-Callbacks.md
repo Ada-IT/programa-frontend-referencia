@@ -18,6 +18,8 @@ sidebar_label: 47) Callbacks
 
 ### 🚀 Recursos de la clase
 
+📆 Fecha
+
 📹 Grabación
 
 👩‍💻 Código

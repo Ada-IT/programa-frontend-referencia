@@ -21,6 +21,8 @@ sidebar_label: 28) Multimedia
 
 ### 🚀 Recursos de la clase
 
+📆 Fecha
+
 📹 Grabación
 
 👩‍💻 Código

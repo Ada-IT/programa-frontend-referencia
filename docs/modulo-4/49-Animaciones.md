@@ -18,6 +18,8 @@ sidebar_label: 49) Animaciones
 
 ### 🚀 Recursos de la clase
 
+📆 Fecha
+
 📹 Grabación
 
 👩‍💻 Código

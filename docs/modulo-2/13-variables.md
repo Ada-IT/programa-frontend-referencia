@@ -71,6 +71,8 @@ sidebar_label: 13) Variables, datos y operadores
 
 ### 🚀 Recursos de la clase
 
+📆 Fecha
+
 📹 Grabación
 
 👩‍💻 Código

@@ -4,14 +4,6 @@ title: Posicionamiento
 sidebar_label: 15) Posicionamiento
 ---
 
-### ℹ️ Información
-
-📆
-
-📹 Grabación
-
----
-
 ### 🏁 Objetivos
 
 - Que conozcas las distintas formas de posicionar elementos con CSS.
@@ -50,6 +42,10 @@ sidebar_label: 15) Posicionamiento
 ---
 
 ### 🚀 Recursos de la clase
+
+📆 Fecha
+
+📹 Grabación
 
 👩‍💻 Código
 

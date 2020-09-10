@@ -4,14 +4,6 @@ title: Clases
 sidebar_label: 17) Clases
 ---
 
-### ℹ️ Información
-
-📆
-
-📹 Grabación
-
----
-
 ### 🏁 Objetivos
 
 - Que incorpores buenas prácticas a la hora de nombrar clases.
@@ -37,6 +29,10 @@ sidebar_label: 17) Clases
 ---
 
 ### 🚀 Recursos de la clase
+
+📆 Fecha
+
+📹 Grabación
 
 👩‍💻 Código
 

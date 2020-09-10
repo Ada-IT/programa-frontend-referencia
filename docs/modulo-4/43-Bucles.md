@@ -28,6 +28,8 @@ sidebar_label: 44) Bucles
 
 ### 🚀 Recursos de la clase
 
+📆 Fecha
+
 📹 Grabación
 
 👩‍💻 Código

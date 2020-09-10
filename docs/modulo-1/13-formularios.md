@@ -4,14 +4,6 @@ title: Formularios
 sidebar_label: 13) Formularios
 ---
 
-### ℹ️ Información
-
-📆
-
-📹 Grabación
-
----
-
 ### 🏁 Objetivos
 
 - Que te introduzcas a los formularios y sus conceptos principales.
@@ -51,6 +43,10 @@ sidebar_label: 13) Formularios
 ---
 
 ### 🚀 Recursos de la clase
+
+📆 Fecha
+
+📹 Grabación
 
 👩‍💻 Código
 

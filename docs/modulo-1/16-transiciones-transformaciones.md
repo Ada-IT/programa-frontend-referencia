@@ -4,14 +4,6 @@ title: Transiciones y transformaciones
 sidebar_label: 16) Transiciones y transformaciones
 ---
 
-### ℹ️ Información
-
-📆
-
-📹 Grabación
-
----
-
 ### 🏁 Objetivos
 
 - Que puedas agregar transiciones a los elementos de una página.
@@ -46,6 +38,10 @@ sidebar_label: 16) Transiciones y transformaciones
 ---
 
 ### 🚀 Recursos de la clase
+
+📆 Fecha
+
+📹 Grabación
 
 👩‍💻 Código
 

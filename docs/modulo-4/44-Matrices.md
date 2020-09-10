@@ -25,6 +25,8 @@ sidebar_label: 44) Matrices
 
 ### 🚀 Recursos de la clase
 
+📆 Fecha
+
 📹 Grabación
 
 👩‍💻 Código

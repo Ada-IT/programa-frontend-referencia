@@ -24,6 +24,8 @@ sidebar_label: 40) GIT Branch
 
 ### 🚀 Recursos de la clase
 
+📆 Fecha
+
 📹 Grabación
 
 👩‍💻 Código

@@ -40,6 +40,8 @@ sidebar_label: 14) Funciones
 
 ### 🚀 Recursos de la clase
 
+📆 Fecha
+
 📹 Grabación
 
 👩‍💻 Código

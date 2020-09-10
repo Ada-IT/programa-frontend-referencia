@@ -33,6 +33,8 @@ sidebar_label: 50) Buenas prácticas
 
 ### 🚀 Recursos de la clase
 
+📆 Fecha
+
 📹 Grabación
 
 👩‍💻 Código

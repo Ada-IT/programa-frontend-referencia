@@ -49,6 +49,8 @@ sidebar_label: 15) Funciones nativas
 
 ### 🚀 Recursos de la clase
 
+📆 Fecha
+
 📹 Grabación
 
 👩‍💻 Código

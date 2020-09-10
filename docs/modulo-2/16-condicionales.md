@@ -30,6 +30,10 @@ sidebar_label: 16) Condicionales
 
 ### 🚀 Recursos de la clase
 
+📆 Fecha
+
+📹 Grabación
+
 📹 [Grabación](http://www.zoom.com)
 
 👩‍💻 [Código](https://www.notion.so/pabloh/www.github.com)
