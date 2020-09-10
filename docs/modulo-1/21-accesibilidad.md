@@ -1,7 +1,7 @@
 ---
 id: clase-21
 title: Accesibilidad
-sidebar_label: 21) Accesibiliad
+sidebar_label: 21) Accesibilidad
 ---
 
 ### 🏁 Objetivos
