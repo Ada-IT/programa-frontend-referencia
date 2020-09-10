@@ -2,7 +2,7 @@
 
 La documentación está hecha con [Docusaurus](https://v2.docusaurus.io/docs/)
 
-## Pasos a seguir por clase
+## 🏃‍♀️ Pasos a seguir por clase
 
 - Ir al archivo de la clase correspondiente en la carpeta `docs` y editarlo
 - Agregar la fecha
