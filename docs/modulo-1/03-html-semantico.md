@@ -4,6 +4,14 @@ title: HTML Semántico
 sidebar_label: 03) HTML Semántico
 ---
 
+### ℹ️ Información
+
+📆
+
+📹 Grabación
+
+---
+
 ### 🏁 Objetivos
 
 - Que entiendas la función de HTML dentro de un sitio.
@@ -53,8 +61,6 @@ sidebar_label: 03) HTML Semántico
 ---
 
 ### 🚀 Recursos de la clase
-
-📹 Grabación
 
 👩‍💻 Código
 

@@ -4,6 +4,14 @@ title: Componentes
 sidebar_label: 19) Componentes
 ---
 
+### ℹ️ Información
+
+📆
+
+📹 Grabación
+
+---
+
 ### 🏁 Objetivos
 
 - Que te familiarices con el concepto de componentes.
@@ -32,8 +40,6 @@ sidebar_label: 19) Componentes
 ---
 
 ### 🚀 Recursos de la clase
-
-📹 Grabación
 
 👩‍💻 Código
 

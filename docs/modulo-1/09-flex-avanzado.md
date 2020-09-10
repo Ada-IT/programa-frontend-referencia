@@ -4,6 +4,14 @@ title: Flexbox avanzado
 sidebar_label: 09) Flexbox avanzado
 ---
 
+### ℹ️ Información
+
+📆
+
+📹 Grabación
+
+---
+
 ### 🏁 Objetivos
 
 - Que te familiarices con conceptos avanzados de flexbox
@@ -21,8 +29,6 @@ sidebar_label: 09) Flexbox avanzado
 ---
 
 ### 🚀 Recursos de la clase
-
-📹 Grabación
 
 👩‍💻 Código
 

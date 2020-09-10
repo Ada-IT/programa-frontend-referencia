@@ -46,8 +46,6 @@ sidebar_label: 01) Introducción a HTML
 
 ### 🚀 Recursos de la clase
 
-📹 Grabación
-
 👩‍💻 Código
 
 💪 [Ejercitación](https://github.com/Ada-IT/ejercicios-frontend/blob/master/modulo-1/ejercicios/04-introduccion-a-html.md)

@@ -4,6 +4,14 @@ title: Flexbox
 sidebar_label: 08) Flexbox
 ---
 
+### ℹ️ Información
+
+📆
+
+📹 Grabación
+
+---
+
 ### 🏁 Objetivos
 
 - Que te familiarices los conceptos básicos y el modelo de cajas flexibles.
@@ -28,8 +36,6 @@ sidebar_label: 08) Flexbox
 ---
 
 ### 🚀 Recursos de la clase
-
-📹 Grabación
 
 👩‍💻 Código
 

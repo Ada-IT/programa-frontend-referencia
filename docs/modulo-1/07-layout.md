@@ -4,6 +4,14 @@ title: Layout
 sidebar_label: 07) Layout
 ---
 
+### ℹ️ Información
+
+📆
+
+📹 Grabación
+
+---
+
 ### 🏁 Objetivos
 
 - Que te familiarices con los elementos y secciones más comunes de una página o aplicación.

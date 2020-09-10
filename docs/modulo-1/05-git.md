@@ -4,6 +4,14 @@ title: Introducción a Git
 sidebar_label: 05) Introducción a Git
 ---
 
+### ℹ️ Información
+
+📆
+
+📹 Grabación
+
+---
+
 ### 🏁 Objetivos
 
 - Que te familiarices con la consola y puedas realizar operaciones básicas con ella.
@@ -35,8 +43,6 @@ sidebar_label: 05) Introducción a Git
 ---
 
 ### 🚀 Recursos de la clase
-
-📹 Grabación
 
 💪 [Ejercitación](https://github.com/Ada-IT/ejercicios-frontend/blob/master/modulo-1/ejercicios/03-introduccion-a-git.md)
 

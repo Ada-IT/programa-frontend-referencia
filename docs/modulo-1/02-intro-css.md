@@ -4,6 +4,14 @@ title: Introducción a CSS
 sidebar_label: 02) Introducción a CSS
 ---
 
+### ℹ️ Información
+
+📆
+
+📹 Grabación
+
+---
+
 ### 🏁 Objetivos
 
 - Que entiendas la función de CSS dentro de un sitio.
@@ -52,8 +60,6 @@ sidebar_label: 02) Introducción a CSS
 ---
 
 ### 🚀 Recursos de la clase
-
-📹 Grabación
 
 👩‍💻 Código
 

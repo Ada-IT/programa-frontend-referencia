@@ -4,6 +4,14 @@ title: Deployado
 sidebar_label: 23) Deployado
 ---
 
+### ℹ️ Información
+
+📆
+
+📹 Grabación
+
+---
+
 ### 🏁 Objetivos
 
 - Que aprendas en qué consiste un deploy.
@@ -26,7 +34,7 @@ sidebar_label: 23) Deployado
 
 ### 🚀 Recursos de la clase
 
-📹 Grabación
+👩‍💻 Código
 
 ---
 
