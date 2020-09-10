@@ -4,6 +4,14 @@ title: Introducción a HTML
 sidebar_label: 01) Introducción a HTML
 ---
 
+### ℹ️ Información
+
+📆 15/09/2020
+
+📹 Grabación
+
+---
+
 ### 🏁 Objetivos
 
 - Que entiendas la función de HTML dentro de un sitio.

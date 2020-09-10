@@ -1,5 +1,6 @@
 module.exports = {
   docs: {
+    Bienvenida: ['00-intro'],
     'Módulo 1 - HTML y CSS': [
       'modulo-1/introduccion',
       'modulo-1/proyecto',
