@@ -53,7 +53,7 @@ sidebar_label: 21) Accesibilidad
 
 👩‍💻 Código
 
-💪 Ejercitación
+💪 [Ejercitación](https://github.com/Ada-IT/ejercicios-frontend/blob/master/modulo-2/ejercicios/24-accesibilidad.md)
 
 ---
 

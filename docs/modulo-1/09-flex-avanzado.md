@@ -28,7 +28,7 @@ sidebar_label: 09) Flexbox avanzado
 
 👩‍💻 Código
 
-💪 Ejercitación
+💪 [Ejercitación](https://github.com/Ada-IT/ejercicios-frontend/blob/master/modulo-2/ejercicios/19-flex-avanzado.md)
 
 ---
 

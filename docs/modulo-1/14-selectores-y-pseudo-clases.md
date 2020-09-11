@@ -50,7 +50,7 @@ sidebar_label: 14) Selectores avanzados y Pseudo clases
 
 👩‍💻 Código
 
-💪 Ejercitación
+💪 [Ejercitación](https://github.com/Ada-IT/ejercicios-frontend/tree/master/modulo-2/ejercicios/selectores)
 
 ---
 
