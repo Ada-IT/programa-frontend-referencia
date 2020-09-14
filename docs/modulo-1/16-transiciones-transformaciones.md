@@ -45,7 +45,7 @@ sidebar_label: 16) Transiciones y transformaciones
 
 👩‍💻 Código
 
-💪 Ejercitación
+💪 [Ejercitación](https://github.com/Ada-IT/ejercicios-frontend/blob/master/modulo-2/ejercicios/27-transiciones-transformaciones.md)
 
 ---
 
