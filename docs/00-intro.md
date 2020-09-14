@@ -16,7 +16,7 @@ sidebar_label: Bienvenida
 
 <!-- - 📚 [Documentación](https://frontend.adaitw.org/) -->
 
-- 📹 Link de Zoom
+- 📹 [Link de Zoom](https://us02web.zoom.us/j/85439062206)
 - 📡 [Link a Discord](https://discord.gg/4RUM8bJ)
 
 ## Uso de Discord
