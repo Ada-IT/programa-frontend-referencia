@@ -10,7 +10,7 @@ sidebar_label: Bienvenida
 
 ⏰ **Días de cursada:** Martes y jueves de 19:00 a 22:00hs, sábados de 9:00 a 13:00hs (GMT -3)
 
-👩‍🏫 **Profesora:** Samanta Martínez
+👩‍🏫 **Profesorx:** -
 
 ## Recursos principales
 
