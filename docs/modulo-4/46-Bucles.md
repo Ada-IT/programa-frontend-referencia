@@ -47,7 +47,3 @@ _En inglés_
 
 [Bucles: while y for](https://javascript.info/while-for)
 [Switch](https://javascript.info/switch)
-
----
-
-### 🔍 Para seguir investigando

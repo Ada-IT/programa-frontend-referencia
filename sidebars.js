@@ -67,6 +67,7 @@ module.exports = {
       ],
       'Módulo 4 - Estructuras de control': [
         'modulo-4/introduccion',
+        'modulo-4/proyecto',
         {
           '👩‍💻 Clases': [
             'modulo-4/clase-43',

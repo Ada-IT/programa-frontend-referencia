@@ -32,13 +32,3 @@ sidebar_label: 47) Matrices
 👩‍💻 Código
 
 💪 Ejercitación
-
----
-
-### 📚 Material de lectura
-
-_En inglés_
-
----
-
-### 🔍 Para seguir investigando

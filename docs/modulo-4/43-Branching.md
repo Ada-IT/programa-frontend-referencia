@@ -36,8 +36,20 @@ sidebar_label: 43) GIT Branch
 
 ### 📚 Material de lectura
 
+- [Aprende Git Branching - Interactivo](https://learngitbranching.js.org/?locale=es_ES)
+- [Usando ramas](https://www.atlassian.com/es/git/tutorials/using-branches)
+- [Sincronizando Git](https://www.atlassian.com/es/git/tutorials/syncing)
+
 _En inglés_
+
+- [Git branching with real world examples](https://codeburst.io/git-branching-tutorial-with-real-world-examples-c2f9f4945422)
+- [Git Guide](https://rogerdudler.github.io/git-guide/)
 
 ---
 
 ### 🔍 Para seguir investigando
+
+_En inglés_
+
+- [Visualizing Git](http://git-school.github.io/visualizing-git/)
+- [Branch in Git](https://www.toolsqa.com/git/branch-in-git/)
