@@ -7,6 +7,7 @@ module.exports = {
         'modulo-1/proyecto',
         {
           '👩‍💻 Clases': [
+            'modulo-1/clase-00',
             'modulo-1/clase-01',
             'modulo-1/clase-02',
             'modulo-1/clase-03',
