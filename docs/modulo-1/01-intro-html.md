@@ -46,9 +46,9 @@ sidebar_label: 01) Introducción a HTML
 
 ### 🚀 Recursos de la clase
 
-📆 15-09-2020
+📆 17-09-2020
 
-📹 [Grabación]()
+📹 Grabación
 
 👩‍💻 Código
 
