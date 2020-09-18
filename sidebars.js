@@ -5,6 +5,7 @@ module.exports = {
       'Módulo 1 - HTML y CSS': [
         'modulo-1/introduccion',
         'modulo-1/proyecto',
+        'modulo-1/instrucciones-ejercicios',
         {
           '👩‍💻 Clases': [
             'modulo-1/clase-00',
