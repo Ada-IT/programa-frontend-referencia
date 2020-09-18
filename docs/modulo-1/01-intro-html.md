@@ -48,7 +48,7 @@ sidebar_label: 01) Introducción a HTML
 
 📆 17-09-2020
 
-📹 Grabación
+📹 [Grabación](https://us02web.zoom.us/rec/share/fvHIDszuyRepX9rHnESlS4ao2mYiLrXg6BLirgv_pKa95bI8YyBqspqYRO6ZVsYJ.n_-yXouAvMr1822l)
 
 👩‍💻 Código
 
