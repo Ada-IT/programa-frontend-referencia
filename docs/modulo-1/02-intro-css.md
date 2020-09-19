@@ -53,9 +53,9 @@ sidebar_label: 02) Introducción a CSS
 
 ### 🚀 Recursos de la clase
 
-📆 Fecha
+📆 19/09/2020
 
-📹 Grabación
+📹 [Grabación](https://us02web.zoom.us/rec/share/As50AKM-DS8jj60jmUS8YWm4_eFSN5eFP64tf_Je5UbHP2gPy4KCvOJOP8py8PvV.upLfmk5dLgzbPbaJ)
 
 👩‍💻 Código
 
