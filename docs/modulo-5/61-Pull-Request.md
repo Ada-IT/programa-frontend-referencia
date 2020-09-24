@@ -1,6 +1,6 @@
 ---
 id: clase-61
-title: Git - Pull Request
+title: 'Git: Pull Request'
 sidebar_label: 61) Pull Request
 ---
 

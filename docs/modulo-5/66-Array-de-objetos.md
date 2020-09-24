@@ -1,23 +1,25 @@
 ---
 id: clase-66
-title: Métodos de Array II
-sidebar_label: 66) Métodos de Array II
+title: 'Estructura de datos: Array de objetos'
+sidebar_label: 66) Array de objetos
 ---
 
 ### 🏁 Objetivos
 
-- Que sigas incorporando métodos y estrategias para trabajar con array de objetos
+- Que trabajes con arrays de objetos
+- Que sigas incorporando métodos y estrategias para trabajar con arrays
+- Que puedas utilizar los métodos funcionales de array con arrays de objetos
 
 ---
 
 ### 📝 Contenidos
 
+- Array de objetos
 - `map`
 - `find`
 - `filter`
 - `every`
 - `some`
-- Array de objetos
 
 ---
 

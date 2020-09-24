@@ -1,10 +1,14 @@
 ---
 id: clase-62
-title: Objetos
+title: 'Estructura de datos: Objetos'
 sidebar_label: 62) Objetos
 ---
 
 ### 🏁 Objetivos
+
+- Que conozcas los objetos
+- Que puedas estructurar datos como objetos
+- Que conozcas su sintaxis y puedas crearlos, accederlos y manipularlos
 
 ---
 
@@ -17,6 +21,7 @@ sidebar_label: 62) Objetos
 - Notación de puntos y de corchetes
 - Accediendo a propiedades mediante variables
 - Propiedades computadas (vs literales)
+- `for...in`
 
 ---
 

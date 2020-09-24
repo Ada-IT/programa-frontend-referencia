@@ -6,6 +6,8 @@ sidebar_label: 64) Desestructuración y operador spread
 
 ### 🏁 Objetivos
 
+- Que puedas usar la desestructuraci´ón y el operador spread con arrays y objetos
+
 ---
 
 ### 📝 Contenidos

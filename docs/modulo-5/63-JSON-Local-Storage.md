@@ -6,11 +6,15 @@ sidebar_label: 63) JSON y Local Storage
 
 ### 🏁 Objetivos
 
+- Que sigas trabajando con objetos
+- Que te familiarices con el formato `JSON`
+- Que puedas guardar datos en el almacenamiento local
+
 ---
 
 ### 📝 Contenidos
 
-- El formato json
+- El formato `JSON`
 - `JSON.stringify`
 - `JSON.parse`
 - Trabajando con Local Storage

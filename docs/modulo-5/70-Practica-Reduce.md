@@ -1,14 +1,19 @@
 ---
 id: clase-70
-title: Reduce II
-sidebar_label: 70) Reduce II
+title: Práctica Reduce
+sidebar_label: 70) Práctica Reduce
 ---
 
 ### 🏁 Objetivos
 
+- Que puedas seguir practicando y trabajando con `reduce`
+
 ---
 
 ### 📝 Contenidos
+
+- `reduce`
+- Operaciones comunes con reduce
 
 ---
 
@@ -21,13 +26,3 @@ sidebar_label: 70) Reduce II
 👩‍💻 Código
 
 💪 Ejercitación
-
----
-
-### 📚 Material de lectura
-
-_En inglés_
-
----
-
-### 🔍 Para seguir investigando

@@ -1,17 +1,20 @@
 ---
-id: clase-69
-title: Reduce I
-sidebar_label: 69) Reduce I
+id: clase-65
+title: Métodos de Array
+sidebar_label: 65) Métodos de Array
 ---
 
 ### 🏁 Objetivos
+
+- Que utilices los métodos funcionales de arrays para operar con ellos
 
 ---
 
 ### 📝 Contenidos
 
-- `reduce`
-- Operaciones comunes con reduce
+- `map`
+- `find`
+- `filter`
 
 ---
 

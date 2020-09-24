@@ -1,21 +1,19 @@
 ---
-id: clase-65
-title: Métodos de Array I
-sidebar_label: 65) Métodos de Array I
+id: clase-69
+title: Reduce I
+sidebar_label: 69) Reduce I
 ---
 
 ### 🏁 Objetivos
+
+- Que puedas utilizar el método `reduce`
 
 ---
 
 ### 📝 Contenidos
 
-- `map`
-- `find`
-- `filter`
-- `every`
-- `some`
-- Array de objetos
+- `reduce`
+- Operaciones comunes con reduce
 
 ---
 
