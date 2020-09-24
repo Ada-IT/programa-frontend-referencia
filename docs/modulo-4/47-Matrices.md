@@ -31,4 +31,4 @@ sidebar_label: 47) Matrices
 
 👩‍💻 Código
 
-💪 Ejercitación
+💪 [Ejercitación](https://github.com/Ada-IT/ejercicios-frontend/blob/master/modulo-4/44-matrices.md)

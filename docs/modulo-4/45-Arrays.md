@@ -40,7 +40,7 @@ sidebar_label: 45) Arrays
 
 👩‍💻 Código
 
-💪 Ejercitación
+💪 [Ejercitación](https://github.com/Ada-IT/ejercicios-frontend/blob/master/modulo-4/42-arrays.md)
 
 ---
 

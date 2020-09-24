@@ -35,11 +35,9 @@ sidebar_label: 29) Condicionales II
 
 📹 Grabación
 
-📹 [Grabación](http://www.zoom.com)
+👩‍💻 Código
 
-👩‍💻 [Código](https://www.notion.so/pabloh/www.github.com)
-
-💪 [Ejercitación](http://www.github.com)
+💪 [Ejercitación](https://github.com/Ada-IT/ejercicios-frontend/blob/master/modulo-2/ejercicios/16-condicionales.md)
 
 ---
 

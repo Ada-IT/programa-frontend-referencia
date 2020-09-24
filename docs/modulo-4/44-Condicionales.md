@@ -32,7 +32,7 @@ sidebar_label: 44) Condicionales
 
 👩‍💻 Código
 
-💪 Ejercitación
+💪 [Ejercitación](https://github.com/Ada-IT/ejercicios-frontend/blob/master/modulo-4/41-condicionales.md)
 
 ---
 

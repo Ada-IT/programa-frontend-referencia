@@ -70,7 +70,7 @@ sidebar_label: 31) Modificando elementos
 
 👩‍💻 Código
 
-💪 Ejercitación
+💪 [Ejercitación](https://github.com/Ada-IT/ejercicios-frontend/blob/master/modulo-2/ejercicios/17-dom.md)
 
 ---
 

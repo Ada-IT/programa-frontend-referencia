@@ -43,7 +43,7 @@ sidebar_label: 33) Eventos de formulario
 
 👩‍💻 Código
 
-💪 Ejercitación
+💪 [Ejercitación](https://github.com/Ada-IT/ejercicios-frontend/blob/master/modulo-2/ejercicios/22-formularios-dinamicos.md)
 
 ---
 

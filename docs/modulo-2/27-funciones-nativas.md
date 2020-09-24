@@ -55,7 +55,7 @@ sidebar_label: 27) Funciones nativas
 
 👩‍💻 Código
 
-💪 Ejercitación
+💪 [Ejercitación](https://github.com/Ada-IT/ejercicios-frontend/blob/master/modulo-2/ejercicios/15-funciones-nativas.md)
 
 ---
 

@@ -49,7 +49,7 @@ sidebar_label: 15) Posicionamiento
 
 👩‍💻 Código
 
-💪 Ejercitación
+💪 [Ejercitación](https://github.com/Ada-IT/ejercicios-frontend/tree/master/modulo-2/ejercicios/posicionamiento)
 
 ---
 

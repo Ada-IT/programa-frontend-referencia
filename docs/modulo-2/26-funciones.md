@@ -46,7 +46,7 @@ sidebar_label: 26) Funciones
 
 👩‍💻 Código
 
-💪 Ejercitación
+💪 [Ejercitación](https://github.com/Ada-IT/ejercicios-frontend/blob/master/modulo-2/ejercicios/14-funciones.md)
 
 ---
 

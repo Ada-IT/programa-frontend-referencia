@@ -30,7 +30,7 @@ sidebar_label: 35) Accesibilidad Avanzada
 
 👩‍💻 Código
 
-💪 Ejercitación
+💪 [Ejercitación](https://github.com/Ada-IT/ejercicios-frontend/blob/master/modulo-2/ejercicios/accesibilidad-avanzada.md)
 
 ---
 
