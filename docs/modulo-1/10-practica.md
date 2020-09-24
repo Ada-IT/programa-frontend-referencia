@@ -1,7 +1,7 @@
 ---
-id: clase-12
-title: Práctica
-sidebar_label: 12) Práctica
+id: clase-10
+title: Práctica Flexbox y Modelo de Caja
+sidebar_label: 10) Práctica
 ---
 
 ### 🏁 Objetivos

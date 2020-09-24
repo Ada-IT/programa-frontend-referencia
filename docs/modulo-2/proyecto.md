@@ -1,96 +1,85 @@
 ---
 id: proyecto
-title: 'Proyecto: Tienda'
-sidebar_label: Proyecto - Tienda
+title: 'Editor de memes'
+sidebar_label: '🖼 Proyecto: Editor de memes'
 ---
 
-## Consigna
+### ⚙️ Consigna
 
-En este proyecto vas replicar el diseño de una tienda de comercio electrónico y lo convertirás en un sitio responsivo, accesible e interactivo que puede ser visitado desde cualquier dispositivo. Usarás JavaScript para modificar el contenido y hacer que responda a los eventos y acciones realizados, incorporarás efectos y transiciones para volverlo más atractivo y ofrecer un mejor feedback visual y le agregarás funcionalidades que permitan manipular la lista de productos y el carrito de compras.
-
----
-
-## Ejemplo
-
-Puedes ver un ejemplo funcional del proyecto siguiendo [este link](https://frontend-proyecto-tienda.adaitw.org)
+En este proyecto vas a estar realizando un editor para generar memes. Crearás una aplicación con la que podrás manipular el texto y la imagen de tu meme y usarás JavaScript para modificar dinámicamente su contenido y sus propiedades. Cuando quedes conforme, podrás descargar tu meme para usarlo o compartilo donde quieras.
 
 ---
 
-## Comentarios
+### 👀 Ejemplo
 
-Este proyecto cuenta con muchos más requisitos y funcionalidades que el proyecto anterior, por lo que implica más tiempo de desarrollo. Por lo tanto, es muy recomendable que vayas haciéndolo de a poco a medida que vayas viendo los temas correspondientes, siguiendo las instrucciones de tu profesora/or. De este modo, al finalizar el módulo, vas a tener tiempo de sobra para terminar de integrar todo y pulir los detalles que te hayan quedado faltantes.
+Puedes ver un ejemplo funcional del proyecto siguiendo [este link](https://frontend-proyecto-meme.adaitw.org)
 
 ---
 
-## Criterios de aceptación
+### 💬 Comentarios
+
+Este proyecto cuenta con muchos más requisitos y funcionalidades que el proyecto anterior, por lo que implica más tiempo de desarrollo. Por lo tanto, es mejor que vayas haciéndolo de a poco a medida que vayas viendo los temas correspondientes, siguiendo las instrucciones de tu docente. De este modo, al finalizar el módulo, vas a tener tiempo de sobra para terminar de integrar todo y pulir los detalles que te hayan quedado faltantes. Es especialmente recomendable empezar a armar el diseño desde las primeras clases (ya sabés todo lo necesario para hacerlo), así podés enfocarte en agregar las funcionalidades en clase.
+
+### 👍 Criterios de aceptación
 
 Los requisitos mínimos para que el proyecto sea considerado para la entrega son:
 
-- Debe respetar el diseño general dado. Pueden modificarse a gusto colores, fuentes, íconos y temática (en vez de productos de electrónica).
-- Debe cumplir con las funcionalidades detalladas en **Filtros y búsqueda**.
-- Debe cumplir con las funcionalidades detalladas en **Carrito**.
-- Debe cumplir con las funcionalidades detalladas en **Checkout**.
-- Debe cumplir con los criterios _básicos_ detallados en **Accesibilidad**.
+- Debe respetar el diseño general dado.
+- Debe ser responsive.
+- Debe respetar las funcionalidades especificadas.
+- Debe respectar los criterios de accesibilidad _básicos_.
 
-### Filtros y búsqueda
+### 🎛 Funcionalidades
 
-- Debe tener una lista de filtros.
-- Debe poder reiniciarse los filtros seleccionados.
-- Debe tener un input para buscar productos por el nombre.
-- La lista de productos debe actualizarse en el momento en que:
-  - se modifica algún filtro
-  - se escribe algo en el input de búsqueda
-- La búsqueda debe ser insensible al caso, es decir, debe ignorar mayúsculas y minúsculas.
-- Criterios de actualización de lista de productos:
-  - si hay un filtro seleccionado, debe actualizarse mostrando los productos que coinciden con dicho filtro
-  - si hay varios filtros seleccionados, debe actualizarse mostrando los productos que coinciden con todos los filtros
-  - si se ingresa una búsqueda por el nombre, debe actualizarse mostrando los productos cuyo nombre o parte del mismo coincide por la búsqueda. Por ejemplo, si se ingresa `madera` y hay un producto con nombre `Mesa de madera` debe mostrarse.
-  - si hay uno o varios filtros seleccionados y una búsqueda por nombre, debe mostrar los productos que coincidan con los filtros y con la búsqueda del nombre
-- Cuando se actualiza la lista de productos, debe indicarse la cantidad de resultados encontrados.
+- Meme
+- Alternar entre paneles
+- Abrir y cerrar panel
+- Descargar imagen
+- Modo claro y modo oscuro
 
-### Carrito
+_Imagen_
 
-- El carrito debe poder mostrarse y ocultarse.
-- Debe poder agregarse un producto al carrito.
-- Debe poder eliminarse un producto del carrito.
-- Debe poder modificarse la cantidad de productos agregados en el carrito.
-- Cuando no hay productos agregados, el carrito debe mostrar un mensaje indicándolo.
-- Cuando se agrega/elimina un producto al carrito debe actualizarse el ícono del carrito con la cantidad de productos agregados.
-- Cuando se agrega un producto al carrito, debe mostrarse el producto agregado en el carrito.
-- El carrito debe mostrar el subtotal del mismo (suma de precio de productos agregados por cantidad), que debe actualizarse cuando:
-  <<<<<<< HEAD
-  - se agrega un producto
-  - se elimina un producto
-  - # se modifica la cantidad del mismo
-  - Se agrega un producto.
-  - Se elimina un producto.
-  - Se modifica la cantidad del mismo.
-    > > > > > > > f1eca47ac4ae6db66144e28ff9887c93806f9765
-- El carrito debe mostrar la cantidad de productos agregados, ignorando las cantidades individuales de cada producto. Por ejemplo, si hay 5 productos agregados, cada uno con 3 unidades, solo debe mostrar 5 productos agregados. Esto debe actualizarse cuando:
-  - se agrega un producto
-  - se elimina un producto
-- Debe poder vaciarse todos los productos del carrito:
-  - al elegir vaciar el carrito, debe mostrar un modal con una advertencia y dar la opci´ón de confirmar o cancelar la operación.
-  - si se cancela, debe cerrarse el modal.
-  - si se confirma, debe cerrarse el modal y vaciarse el carrito.
+- Agregar imagen con url
+- Cambiar color de fondo
+- Cambiar modo de mezcla de fondo
+  - Aclarar
+  - Oscurecer
+  - Diferencia
+  - Luminosidad
+  - Multiplicar
+- Cambiar filtros
 
-### Checkout
+| ETIQUETA         | PROPIEDAD      | MÍNIMO | MÁXIMO | INTERVALO | INICIAL |
+| ---------------- | -------------- | ------ | ------ | --------- | ------- |
+| Brillo           | `brightness`   | 0      | 1      | 0.1       | 1       |
+| Opacidad         | `opacity`      | 0      | 1      | 0.1       | 1       |
+| Contraste        | `contrast`     | 100%   | 1000%  | 1%        | 100%    |
+| Desenfoque       | `blur`         | 0px    | 10px   | 0.1px     | 0px     |
+| Escala de grises | `grayscale`    | 0%     | 100%   | 1%        | 0%      |
+| Sepia            | `sepia`        | 0%     | 100%   | 1%        | 0%      |
+| Hue              | `hue-rotation` | 0deg   | 359deg | 1deg      | 0deg    |
+| Saturación       | `saturation`   | 100%   | 1000%  | 10%       | 100%    |
+| Hue              | `hue-rotation` | 0deg   | 359deg | 1deg      | 0deg    |
+| Negativo         | `invert`       | 0      | 1      | 0.1       | 1       |
 
-- Debe pedir por nombre y email
-- Debe poder seleccionarse el método de pago:
-  - efectivo / débito
-  - crédito
-- Debe poder seleccionarse si necesita envío.
-- Debe poder seleccionarse si tiene tarjeta de descuento.
-- Debe mostrar un resumen de la compra, incluyendo:
-  - subtotal (suma de precio de productos por sus cantidades)
-  - si compra con crédito, tiene un 10% de recargo sobre el subtotal
-  - si tiene tarjeta de descuento, tiene un 5% de descuento sobre el subtotal
-  - si necesita envío, se le agregan 300 pesos al subtotal
-  - total
-- Cuando se modifica alguna opción de pago (método de pago, envío, tarjeta de descuento), debe actualizarse el resumen
+- Restablecer filtros
 
-### Accesibilidad
+_Texto_
+
+- Editar texto superior
+- Remover texto superior
+- Editar texto inferior
+- Remover texto inferior
+- Cambiar familia de fuente
+- Cambiar tamaño de fuente
+- Cambiar alineación
+- Cambiar color de texto
+- Cambiar color de fondo de texto
+- Fondo transparente
+- Cambiar padding de texto
+- Cambiar alto de línea de texto
+
+### ♿️ Accesibilidad
 
 _Básica_
 
@@ -106,16 +95,12 @@ _Avanzada_
 - La página puede ser navegada con el teclado correctamente.
 - Siempre hay un foco visible.
   - Cuando un elemento está oculto (modales, carrito, productos), no debe poder moverse el foco a elementos del mismo.
-  - Cuando se abre el carrito, el foco salta al botón de cierre del mismo.
-  - Cuando se cierra el carrito, el foco salta al botón de apertura del mismo.
-  - Cuando se abre un modal, el foco salta al botón de cancelación del mismo.
-  - Cuando se cierra un modal, el foco salta al botón que abrió dicho modal.
-  - Cuando un modal está abierto, no debe poder moverse el foco a algún elemento por fuera del modal.
-- Cuando hay cambios dinámicos estos se indican con la etiqueta aria correspondiente.
+  - Cuando se abre el panel, el foco salta al botón de cierre del mismo.
+  - Cuando se cierra el panel, el foco salta al botón de apertura del mismo.
 
 ---
 
-## Criterios de evaluación
+### 📝 Criterios de evaluación
 
 - **Menos de 6 (No aprobado)**
 - **6 (Aprobado)**
@@ -139,3 +124,8 @@ _Avanzada_
   - Cumple con las condiciones de accesibilidad avanzada.
   - Reutilización de lógica / funciones.
   - Commits con mensajes adecuados.
+
+### 🧰 Recursos
+
+- [Imágenes](https://undraw.co/illustrations)
+- [Íconos](https://konpa.github.io/devicon/)

@@ -1,22 +1,18 @@
 ---
 id: proyecto
-title: 'Proyecto: MatcheADAs'
-sidebar_label: Proyecto - MatcheADAs
+title: 'MatcheADAs'
+sidebar_label: 🍒 Proyecto - MatcheADAs
 ---
 
-## Consigna
+## ⚙️ Consigna
 
 En este proyecto vas a desarrollar un juego de navegador conocido como match-3. Construirás una grilla, implementarás animaciones para dar feedback de las interacciones, controlarás el input de quien juegue, aplicarás la lógica del juego y agregarás funcionalidades como un sistema de puntuación de dificultad para crear una experiencia totalmente interactiva. Para hacerlo, utilizarás un flujo de trabajo que te permitirá ir complejizando el código de manera gradual, pudiendo trabajar en varias funcionalidades por separado sin que estas afecten el resto de tu código.
 
----
-
-## Ejemplo
+## 👀 Ejemplo
 
 Puedes ver un ejemplo funcional del proyecto siguiendo [este link](https://frontend-proyecto-matcheadas.adaitw.org)
 
----
-
-## Comentarios
+## 💬 Comentarios
 
 A diferencia del anterior, este proyecto tiene una cantidad de líneas de código mucho más reducida. El diseño no es complicado, no tenemos mucho que maquetar ni demasiados elementos que estilar o manipular. La dificultad consiste en que tiene una lógica más compleja, que requiere ser pensada y analizada de antemano con más cuidado y detalle que en los proyectos anteriores.
 
@@ -26,23 +22,19 @@ Para evitar esto, es recomendable ir haciendo las funcionalidades _una por una_.
 
 Si tenemos que mejorar o arreglar una funcionalidad ya agregada, deberíamos hacer una nueva branch para dicho fix o refactor, y nombrarla adecuadamente (por ejemplo, `refactorDificultad`, `fixPuntaje`, `fixSeleccionItems`), y una vez finalizada la mejora o correción, mergearla a `master`.
 
----
-
-## Criterios de aceptación
+## 👍 Criterios de aceptación
 
 Los requisitos mínimos para que el proyecto sea considerado para la entrega son:
 
 - Debe respetar el diseño general dado. Pueden modificarse a gusto colores, fondo, fuentes, íconos y temática (en vez de frutas, usar otros emojis, íconos u imágenes).
 - Debe respetar las interacciones y flujo de modales del ejemplo.
 - Debe ser responsive.
-- Debe cumplir con todas las funcionalidades listadas en la sección siguiente.
+- Debe cumplir con las funcionalidades _principales_ listadas en la sección siguiente.
 - Debe hacer uso de la librería [SweetAlert](https://sweetalert.js.org/) para los modales.
 - Debe estar deployado y ser accesible desde una dirección web.
 - **No se debe trabajar en la rama `master`**. En `master` sólo van a mergearse las demás ramas, por lo que cada `commit` de `master` debería ser el `merge` de una `branch` de una funcionalidad _terminada_.
 
----
-
-## Funcionalidades
+## 🎛 Funcionalidades principales
 
 1. Debe generar una grilla.
 2. Debe llenar la grilla con ítems aleatorios.
@@ -59,24 +51,25 @@ Los requisitos mínimos para que el proyecto sea considerado para la entrega son
 8. **Debe generar un tablero sin grupos**. Al generar una nueva partida, el tablero no debería tener ning´¨ún presente.
 9. **Debe volver los ítems a sus lugares originales si no hay grupos encontrados.** Al intercambiar dos ítems, si dicha operación no generó ningún grupo, deben intercambiarse nuevamente las posiciones de dichos ítems.
 10. **Debe llevar la cuenta del puntaje**. Al eliminar ítems se suman puntos (100 por cada uno). Al comenzar una nueva partida se reinician los puntos.
-11. **Agregar combos**. Un combo es un grupo de ítems eliminados. Mientras siga habiendo grupos que se sigan eliminando luego de una jugada, el modificador de combos debe ir aumentando en 1. Cuando ya no se encuentran más combos (es decir, más grupos para eliminar), el modificador de combos debe volver a 1.
-12. **Debe modificar puntaje en base al modificador de combos**. Cuando hay un modificador de combo x3 los puntos obtenidos se multiplican por ese modificador (en este caso, un ítem eliminado vale 300 puntos).
-13. **Las partidas deben tener una duración**. Cada partida debe durar 30 segundos, al terminar el tiempo debe aparecer un modal con un puntaje obtenido y preguntar si se quiere reiniciar o comenzar una nueva partida.
-14. **Debe poderse reiniciar el juego**. Si se reinicia el juego, se debe comenzar un mismo juego en la misma dificultad (es decir, tamaño de grilla).
-15. **Debe poderse elegir la dificultad**. Debe tener 3 dificultades a elegir en cada nueva partida:
+11. **Las partidas deben tener una duración**. Cada partida debe durar 30 segundos, al terminar el tiempo debe aparecer un modal con un puntaje obtenido y preguntar si se quiere reiniciar o comenzar una nueva partida.
+12. **Debe poderse reiniciar el juego**. Si se reinicia el juego, se debe comenzar un mismo juego en la misma dificultad (es decir, tamaño de grilla).
+13. **Debe contar con animaciones**. Al intercambiar, eliminar, aparecer y descender ítems.
+
+## 🚀 Funcionalidades avanzadas
+
+14. **Debe contar con combos**. Un combo es un grupo de ítems eliminados. Mientras siga habiendo grupos que se sigan eliminando luego de una jugada, el modificador de combos debe ir aumentando en 1. Cuando ya no se encuentran más combos (es decir, más grupos para eliminar), el modificador de combos debe volver a 1.
+15. **Debe modificar puntaje en base al modificador de combos**. Cuando hay un modificador de combo x3 los puntos obtenidos se multiplican por ese modificador (en este caso, un ítem eliminado vale 300 puntos).
+16. **Debe poderse elegir la dificultad**. Debe tener 3 dificultades a elegir en cada nueva partida:
 
 - **Fácil:** grilla de 9x9
 - **Normal:** grilla de 8x8
 - **Difícil:** grilla de 7x7
 
-16. **Debe contar con animaciones**. Al intercambiar, eliminar, aparecer y descender ítems.
-17. **Debe impedir interacciones durante las animaciones**. Cuando hay una animación en proceso no se debe poder seleccionar ni mover ítems.
-18. **Debe poder manejarse mediante el teclado**. Usando las `flechas` y las teclas `WASD` para desplazarse. Si se llega a un borde de la grilla debe continuar del otro lado. Las teclas `Espacio` y `Enter` actúan como el click, seleccionado y deseleccionando ítems. Cuando hay un ítem seleccionado, si se presiona una tecla de dirección (flechas o `WASD`), debe intercambiar dicho ítem con el ítem adyacente en la dirección seleccionada.
+17. **Debe poder manejarse mediante el teclado**. Usando las `flechas` y las teclas `WASD` para desplazarse. Si se llega a un borde de la grilla debe continuar del otro lado. Las teclas `Espacio` y `Enter` actúan como el click, seleccionado y deseleccionando ítems. Cuando hay un ítem seleccionado, si se presiona una tecla de dirección (flechas o `WASD`), debe intercambiar dicho ítem con el ítem adyacente en la dirección seleccionada.
+18. **Debe impedir interacciones durante las animaciones**. Cuando hay una animación en proceso no se debe poder seleccionar ni mover ítems.
 19. **Debe impedir las interacciones cuando hay modales visibles**. Si hay un modal, no debería poderse interactuar con los ítems mediante el teclado.
 
----
-
-## Criterios de evaluación
+## 📝 Criterios de evaluación
 
 - **Menos de 6 (No aprobado)**
 - **6 (Aprobado)**
@@ -91,6 +84,7 @@ Los requisitos mínimos para que el proyecto sea considerado para la entrega son
   - Código bien indentado.
   - Uso correcto de etiquetas semánticas.
 - **8 (Muy bueno)**
+  - Cumple con las funcionalidades avanzadas
   - Buenos nombres de clases.
   - Buenos nombres de funciones y variables.
 - **9 (Muy bueno)**
@@ -103,8 +97,10 @@ Los requisitos mínimos para que el proyecto sea considerado para la entrega son
   - Reutilización de lógica / funciones.
   - Commits con mensajes adecuados.
 
----
-
-## Recursos
+## 🧰 Recursos
 
 - [SweetAlert](https://sweetalert.js.org/) - Librería para popups y modales
+- [Twemoji](https://twemoji.twitter.com/) - Librería que convierte caracteres de emoji en imágenes para mayor compatibilidad cross-browser
+- [FontAwesome](https://fontawesome.com/icons?d=gallery) - Íconos
+- [Pacifico](https://fonts.google.com/specimen/Pacifico) - Fuente
+- [Montserrat](https://fonts.google.com/specimen/Montserrat) - Fuente

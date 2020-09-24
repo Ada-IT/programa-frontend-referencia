@@ -1,7 +1,7 @@
 ---
-id: clase-11
+id: clase-12
 title: Diseño Responsivo II
-sidebar_label: 11) Diseño Responsivo II
+sidebar_label: 12) Diseño Responsivo II
 ---
 
 ### 🏁 Objetivos

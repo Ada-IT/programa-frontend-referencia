@@ -1,7 +1,7 @@
 ---
-id: clase-19
+id: clase-21
 title: Componentes
-sidebar_label: 19) Componentes
+sidebar_label: 21) Componentes
 ---
 
 ### 🏁 Objetivos

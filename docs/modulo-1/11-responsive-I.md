@@ -1,7 +1,7 @@
 ---
-id: clase-10
+id: clase-11
 title: Diseño Responsivo I
-sidebar_label: 10) Diseño Responsivo I
+sidebar_label: 11) Diseño Responsivo I
 ---
 
 ### 🏁 Objetivos

@@ -1,7 +1,7 @@
 ---
-id: clase-17
+id: clase-20
 title: Clases
-sidebar_label: 17) Clases
+sidebar_label: 20) Clases
 ---
 
 ### 🏁 Objetivos

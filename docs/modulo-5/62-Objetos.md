@@ -1,7 +1,7 @@
 ---
-id: clase-51
+id: clase-62
 title: Objetos
-sidebar_label: 51) Objetos
+sidebar_label: 62) Objetos
 ---
 
 ### 🏁 Objetivos
@@ -17,7 +17,6 @@ sidebar_label: 51) Objetos
 - Notación de puntos y de corchetes.
 - Accediendo a propiedades mediante variables.
 - Propiedades computadas (vs literales).
-- Referencias vs. valores
 
 ---
 
