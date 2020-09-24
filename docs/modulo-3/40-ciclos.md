@@ -10,7 +10,7 @@ Aprender la nomenclatura para la construcción de pseudocodigos básicos con su 
 
 - Entender la estructura de datos de tipo arreglo (unidimensional y bidimensional)
 - Estudiar la estructura de repetición de un Pseudocódigo
-- Estructura de repetición desde-hasta (for)
+- Estructura de repetición desde-hasta (`FOR`)
 - Descripción de la nomenclatura diagrama de flujo con estructura de decisión
 
 ---
@@ -23,8 +23,8 @@ Aprender la nomenclatura para la construcción de pseudocodigos básicos con su 
 - Cómo guardar y leer datos desde un array
 - Representación en DFD de los arrays
 - Qué es una estructura de repetición
-- Ciclo FOR
-- Cómo recorrer y leer datos de un array utilizando la estructura FOR
+- Ciclo `FOR`
+- Cómo recorrer y leer datos de un array utilizando la estructura `FOR`
 
 ---
 

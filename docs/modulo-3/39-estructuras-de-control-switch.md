@@ -9,16 +9,16 @@ sidebar_label: '39) Estructura de control: Switch'
 Aprender la nomenclatura para la construcción de pseudocodigos básicos con su representación gráfica (DFD)
 
 - Estudiar la estructura de decisión de un Pseudocódigo
-- if-then-else
+- `IF-THEN-ELSE`
 - Descripción de la nomenclatura diagrama de flujo con estructura de decisión
 
 ---
 
 ### 📝 Contenidos
 
-- Qué es la sentencia switch
-- Cuándo utilizar switch en lugar de if's anidados
-- Cómo representar las sentencias de decisión **Switch** en un DFD y Pseudocódigo
+- Qué es la sentencia `SWITCH`
+- Cuándo utilizar `SWITCH` en lugar de `IF`'s anidados
+- Cómo representar las sentencias de decisión `SWITCH` en un DFD y Pseudocódigo
 
 ---
 

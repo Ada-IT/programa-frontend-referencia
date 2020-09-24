@@ -9,7 +9,7 @@ sidebar_label: '38) Estructura de control: IF'
 Aprender la nomenclatura para la construcción de pseudocodigos básicos con su representación gráfica (DFD)
 
 - Estudiar la estructura de decisión de un Pseudocódigo
-- if-then-else
+- `IF-THEN-ELSE`
 - Descripción de la nomenclatura diagrama de flujo con estructura de decisión
 
 ---
@@ -18,10 +18,10 @@ Aprender la nomenclatura para la construcción de pseudocodigos básicos con su 
 
 - Qué es el control de flujo
 - Entender sobre las distintas estructuras de control
-- Qué es la sentencia IF
-- Qué es la sentencia IF-ELSE
-- Qué es la sentencia de IF multiples (IF-ELSE IF-ELSE IF-...-ELSE)
-- Cómo representar las sentencias de decisión con IF en un DFD y Pseudocódigo
+- Qué es la sentencia `IF`
+- Qué es la sentencia `IF-ELSE`
+- Qué es la sentencia de `IF` multiples (`IF-ELSE` `IF-ELSE IF`-...-`ELSE`)
+- Cómo representar las sentencias de decisión con `IF` en un DFD y Pseudocódigo
 
 ---
 

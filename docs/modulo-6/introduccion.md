@@ -8,25 +8,6 @@
 
 # UNIT TESTING
 
-1.  PR
-2.  Sass - Estructura de archivos
-3.  Sass - Básico
-4.  Sass - Extends y Mixins
-5.  Sass - Componentes y BEM
-6.  Práctica
-7.  Array de objetos - Desestructuración y Spread
-8.  Array de objetos - Operaciones CRUD
-9.  Array de objetos - map, find, filter
-10. Array de objetos - map, find, filter, every, some
-11. Array de objetos - Inmutabilidad
-12. Práctica
-13. Array de objetos - Reduce
-14. Array de objetos - Reduce
-15. Array de objetos - Operaciones comunes
-16. Avanzando con el proyecto
-17. Avanzando con el proyecto
-18. Repaso
-
 5 semanas
 
 1. CSS Framework
