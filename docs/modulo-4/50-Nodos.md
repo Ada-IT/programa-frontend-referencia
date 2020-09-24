@@ -1,7 +1,7 @@
 ---
-id: clase-49
+id: clase-50
 title: DOM - Nodos
-sidebar_label: 49) Nodos
+sidebar_label: 50) Nodos
 ---
 
 ### 🏁 Objetivos

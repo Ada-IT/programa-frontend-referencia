@@ -1,7 +1,7 @@
 ---
-id: clase-50
+id: clase-51
 title: Callbacks
-sidebar_label: 50) Callbacks
+sidebar_label: 51) Callbacks
 ---
 
 ### 🏁 Objetivos

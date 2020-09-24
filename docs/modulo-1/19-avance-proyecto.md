@@ -1,7 +1,7 @@
 ---
 id: clase-19
-title: Avance del Proyecto
-sidebar_label: 19) Avance del Proyecto
+title: Avanzando el Proyecto
+sidebar_label: 19) Avanzando el Proyecto
 ---
 
 ### 🏁 Objetivos

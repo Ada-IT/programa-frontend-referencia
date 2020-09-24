@@ -1,7 +1,7 @@
 ---
-id: clase-53
+id: clase-52
 title: Buenas prácticas
-sidebar_label: 53) Buenas prácticas
+sidebar_label: 52) Buenas prácticas
 ---
 
 ### 🏁 Objetivos
