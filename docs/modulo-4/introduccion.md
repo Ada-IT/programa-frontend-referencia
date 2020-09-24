@@ -16,7 +16,7 @@ En este módulo te introducirás a las estructuras de control, las cuales te per
 
 ### ⭐️ Proyecto: Juego MatcheADAs
 
-En este proyecto vas a desarrollar un juego de navegador basado conocido como match-3. Construirás una grilla, implementarás animaciones para dar feedback de las interacciones, controlarás el input de quien juegue, aplicarás la lógica del juego, y agregarás funcionalidades como un sistema de puntuación y uno de dificultad, para crear una experiencia totalmente interactiva. Para hacerlo, utilizarás un flujo de trabajo que te permitirá ir complejizando el código de manera gradual, pudiendo trabajar en varias funcionalidades por separado sin que estas afecten el resto de tu código.
+En este proyecto vas a desarrollar un juego de navegador basado conocido como match-3. Construirás una grilla, implementarás transicioines para dar feedback de las interacciones, controlarás el input de quien juegue, aplicarás la lógica del juego, y agregarás funcionalidades como un sistema de puntuación y uno de dificultad, para crear una experiencia totalmente interactiva. Para hacerlo, utilizarás un flujo de trabajo que te permitirá ir complejizando el código de manera gradual, pudiendo trabajar en varias funcionalidades por separado sin que estas afecten el resto de tu código.
 
 ### 📚 Temas
 
@@ -39,9 +39,3 @@ En este proyecto vas a desarrollar un juego de navegador basado conocido como ma
 - Nodos
 - Buenas Prácticas
 - Refactorización
-
-#### CSS
-
-- Animaciones
-- Keyframes
-- Librerías de animaciones
