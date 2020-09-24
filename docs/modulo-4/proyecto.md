@@ -10,7 +10,7 @@ En este proyecto vas a desarrollar un juego de navegador conocido como match-3. 
 
 ## 👀 Ejemplo
 
-Puedes ver un ejemplo funcional del proyecto siguiendo [este link](https://frontend-proyecto-matcheadas.adaitw.org)
+Puedes ver un ejemplo funcional del proyecto siguiendo [este link](https://frontend-proyecto-matcheadas.adaitw.org).
 
 ## 💬 Comentarios
 
@@ -26,76 +26,76 @@ Si tenemos que mejorar o arreglar una funcionalidad ya agregada, deberíamos hac
 
 Los requisitos mínimos para que el proyecto sea considerado para la entrega son:
 
-- Debe respetar el diseño general dado. Pueden modificarse a gusto colores, fondo, fuentes, íconos y temática (en vez de frutas, usar otros emojis, íconos u imágenes).
-- Debe respetar las interacciones y flujo de modales del ejemplo.
-- Debe ser responsive.
-- Debe cumplir con las funcionalidades _principales_ listadas en la sección siguiente.
-- Debe hacer uso de la librería [SweetAlert](https://sweetalert.js.org/) para los modales.
-- Debe estar deployado y ser accesible desde una dirección web.
-- **No se debe trabajar en la rama `master`**. En `master` sólo van a mergearse las demás ramas, por lo que cada `commit` de `master` debería ser el `merge` de una `branch` de una funcionalidad _terminada_.
+- Debe respetar el diseño general dado. Pueden modificarse a gusto colores, fondo, fuentes, íconos y temática (en vez de frutas, usar otros emojis, íconos u imágenes)
+- Debe respetar las interacciones y flujo de modales del ejemplo
+- Debe ser responsive
+- Debe cumplir con las funcionalidades _principales_ listadas en la sección siguiente
+- Debe hacer uso de la librería [SweetAlert](https://sweetalert.js.org/) para los modales
+- Debe estar deployado y ser accesible desde una dirección web
+- **No se debe trabajar en la rama `master`**. En `master` sólo van a mergearse las demás ramas, por lo que cada `commit` de `master` debería ser el `merge` de una `branch` de una funcionalidad _terminada_
 
 ## 🎛 Funcionalidades principales
 
-1. Debe generar una grilla.
-2. Debe llenar la grilla con ítems aleatorios.
-3. Debe seleccionarse un ítem al hacer click en él.
-4. Al clickear un nuevo ítem, si este no se encuentra adyacente al seleccionado, debe seleccionarse el nuevo ítem cleado.
-5. Al clickear un nuevo ítem, si este no encuentra adyacente al seleccionado, debe intercambiar las posiciones de ambos ítems.
+1. Debe generar una grilla
+2. Debe llenar la grilla con ítems aleatorios
+3. Debe seleccionarse un ítem al hacer click en él
+4. Al clickear un nuevo ítem, si este no se encuentra adyacente al seleccionado, debe seleccionarse el nuevo ítem cleado
+5. Al clickear un nuevo ítem, si este no encuentra adyacente al seleccionado, debe intercambiar las posiciones de ambos ítems
 6. Debe eliminar grupos horizontales
-   1. **Debe chequear si hay grupos horizontales**. 3 o más ítems iguales en fila.
-   2. Debe eliminar los ítem en grupos horizontales.
-   3. Debe hacer descender el bloque de ítems que quedó por encima del espacio dejado por los ítems eliminados.
-   4. Debe rellenar el espacio vacío restante con ítems aleatorios.
-   5. Debe repetir pasos del 6.a al 6.d hasta que no queden más grupos horizontales.
-7. **Debe eliminar grupos horizontales**. 3 o más ítems iguales en columna.
-8. **Debe generar un tablero sin grupos**. Al generar una nueva partida, el tablero no debería tener ning´¨ún presente.
-9. **Debe volver los ítems a sus lugares originales si no hay grupos encontrados.** Al intercambiar dos ítems, si dicha operación no generó ningún grupo, deben intercambiarse nuevamente las posiciones de dichos ítems.
-10. **Debe llevar la cuenta del puntaje**. Al eliminar ítems se suman puntos (100 por cada uno). Al comenzar una nueva partida se reinician los puntos.
-11. **Las partidas deben tener una duración**. Cada partida debe durar 30 segundos, al terminar el tiempo debe aparecer un modal con un puntaje obtenido y preguntar si se quiere reiniciar o comenzar una nueva partida.
-12. **Debe poderse reiniciar el juego**. Si se reinicia el juego, se debe comenzar un mismo juego en la misma dificultad (es decir, tamaño de grilla).
-13. **Debe contar con animaciones**. Al intercambiar, eliminar, aparecer y descender ítems.
+   1. **Debe chequear si hay grupos horizontales**. 3 o más ítems iguales en fila
+   2. Debe eliminar los ítem en grupos horizontales
+   3. Debe hacer descender el bloque de ítems que quedó por encima del espacio dejado por los ítems eliminados
+   4. Debe rellenar el espacio vacío restante con ítems aleatorios
+   5. Debe repetir pasos del 6.a al 6.d hasta que no queden más grupos horizontales
+7. **Debe eliminar grupos horizontales**. 3 o más ítems iguales en columna
+8. **Debe generar un tablero sin grupos**. Al generar una nueva partida, el tablero no debería tener ning´¨ún presente
+9. **Debe volver los ítems a sus lugares originales si no hay grupos encontrados.** Al intercambiar dos ítems, si dicha operación no generó ningún grupo, deben intercambiarse nuevamente las posiciones de dichos ítems
+10. **Debe llevar la cuenta del puntaje**. Al eliminar ítems se suman puntos (100 por cada uno). Al comenzar una nueva partida se reinician los puntos
+11. **Las partidas deben tener una duración**. Cada partida debe durar 30 segundos, al terminar el tiempo debe aparecer un modal con un puntaje obtenido y preguntar si se quiere reiniciar o comenzar una nueva partida
+12. **Debe poderse reiniciar el juego**. Si se reinicia el juego, se debe comenzar un mismo juego en la misma dificultad (es decir, tamaño de grilla)
+13. **Debe contar con animaciones**. Al intercambiar, eliminar, aparecer y descender ítems
 
 ## 🚀 Funcionalidades avanzadas
 
-14. **Debe contar con combos**. Un combo es un grupo de ítems eliminados. Mientras siga habiendo grupos que se sigan eliminando luego de una jugada, el modificador de combos debe ir aumentando en 1. Cuando ya no se encuentran más combos (es decir, más grupos para eliminar), el modificador de combos debe volver a 1.
-15. **Debe modificar puntaje en base al modificador de combos**. Cuando hay un modificador de combo x3 los puntos obtenidos se multiplican por ese modificador (en este caso, un ítem eliminado vale 300 puntos).
+14. **Debe contar con combos**. Un combo es un grupo de ítems eliminados. Mientras siga habiendo grupos que se sigan eliminando luego de una jugada, el modificador de combos debe ir aumentando en 1. Cuando ya no se encuentran más combos (es decir, más grupos para eliminar), el modificador de combos debe volver a 1
+15. **Debe modificar puntaje en base al modificador de combos**. Cuando hay un modificador de combo x3 los puntos obtenidos se multiplican por ese modificador (en este caso, un ítem eliminado vale 300 puntos)
 16. **Debe poderse elegir la dificultad**. Debe tener 3 dificultades a elegir en cada nueva partida:
 
 - **Fácil:** grilla de 9x9
 - **Normal:** grilla de 8x8
 - **Difícil:** grilla de 7x7
 
-17. **Debe poder manejarse mediante el teclado**. Usando las `flechas` y las teclas `WASD` para desplazarse. Si se llega a un borde de la grilla debe continuar del otro lado. Las teclas `Espacio` y `Enter` actúan como el click, seleccionado y deseleccionando ítems. Cuando hay un ítem seleccionado, si se presiona una tecla de dirección (flechas o `WASD`), debe intercambiar dicho ítem con el ítem adyacente en la dirección seleccionada.
-18. **Debe impedir interacciones durante las animaciones**. Cuando hay una animación en proceso no se debe poder seleccionar ni mover ítems.
-19. **Debe impedir las interacciones cuando hay modales visibles**. Si hay un modal, no debería poderse interactuar con los ítems mediante el teclado.
+17. **Debe poder manejarse mediante el teclado**. Usando las `flechas` y las teclas `WASD` para desplazarse. Si se llega a un borde de la grilla debe continuar del otro lado. Las teclas `Espacio` y `Enter` actúan como el click, seleccionado y deseleccionando ítems. Cuando hay un ítem seleccionado, si se presiona una tecla de dirección (flechas o `WASD`), debe intercambiar dicho ítem con el ítem adyacente en la dirección seleccionada
+18. **Debe impedir interacciones durante las animaciones**. Cuando hay una animación en proceso no se debe poder seleccionar ni mover ítems
+19. **Debe impedir las interacciones cuando hay modales visibles**. Si hay un modal, no debería poderse interactuar con los ítems mediante el teclado
 
 ## 📝 Criterios de evaluación
 
 - **Menos de 6 (No aprobado)**
 - **6 (Aprobado)**
-  - Respeta la consigna.
-  - Estructura correcta de documento HTML.
-  - Respeta el diseño dado.
-  - Respeta el funcionamiento.
-  - Responsive funciona correctamente.
+  - Respeta la consigna
+  - Estructura correcta de documento HTML
+  - Respeta el diseño dado
+  - Respeta el funcionamiento
+  - Responsive funciona correctamente
 - **7 (Bueno)**
-  - Estilos limpios y bien estructurados.
-  - Buena estructura de proyecto.
-  - Código bien indentado.
-  - Uso correcto de etiquetas semánticas.
+  - Estilos limpios y bien estructurados
+  - Buena estructura de proyecto
+  - Código bien indentado
+  - Uso correcto de etiquetas semánticas
 - **8 (Muy bueno)**
   - Cumple con las funcionalidades avanzadas
-  - Buenos nombres de clases.
-  - Buenos nombres de funciones y variables.
+  - Buenos nombres de clases
+  - Buenos nombres de funciones y variables
 - **9 (Muy bueno)**
-  - Funciones pequeñas.
-  - Nombres de branchs adecuados.
-  - Buen uso estructuras de datos (arrays, matrices y objetos).
-  - Buen uso de estructuras de control (condicionales y bucles).
+  - Funciones pequeñas
+  - Nombres de branchs adecuados
+  - Buen uso estructuras de datos (arrays, matrices y objetos)
+  - Buen uso de estructuras de control (condicionales y bucles)
 - **10 (Excelente)**
-  - Lógica clara y simple.
-  - Reutilización de lógica / funciones.
-  - Commits con mensajes adecuados.
+  - Lógica clara y simple
+  - Reutilización de lógica / funciones
+  - Commits con mensajes adecuados
 
 ## 🧰 Recursos
 

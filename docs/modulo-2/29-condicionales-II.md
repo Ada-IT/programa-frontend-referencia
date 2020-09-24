@@ -6,9 +6,9 @@ sidebar_label: 29) Condicionales II
 
 ### 🏁 Objetivos
 
-- Que te familiarices con los condicionales.
-- Que puedas usar condicionales en tu código para controlar el flujo de ejecución.
-- Que puedas utilizar operadores lógicos para escribir condiciones más complejas.
+- Que te familiarices con los condicionales
+- Que puedas usar condicionales en tu código para controlar el flujo de ejecución
+- Que puedas utilizar operadores lógicos para escribir condiciones más complejas
 
 ---
 
@@ -19,8 +19,8 @@ sidebar_label: 29) Condicionales II
 - `&&`
 - `||`
 - `!`
-- Operador de agrupamiento.
-- Orden de evaluación.
+- Operador de agrupamiento
+- Orden de evaluación
 
 **Condicionales**
 

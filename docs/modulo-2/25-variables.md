@@ -6,10 +6,10 @@ sidebar_label: 25) Variables, datos y operadores
 
 ### 🏁 Objetivos
 
-- Que te introduzcas a JavaScript y te familiarices con su sintaxis.
-- Que conozcas los tipos de datos primitivos que existen en JavaScript.
-- Que puedas realizar operaciones básicas entre datos.
-- Que puedas utilizar para consola para inspeccionar valores.
+- Que te introduzcas a JavaScript y te familiarices con su sintaxis
+- Que conozcas los tipos de datos primitivos que existen en JavaScript
+- Que puedas realizar operaciones básicas entre datos
+- Que puedas utilizar para consola para inspeccionar valores
 
 ---
 
@@ -17,34 +17,34 @@ sidebar_label: 25) Variables, datos y operadores
 
 **Variables**
 
-- Cómo se guarda una variable en memoria.
-- Entorno de ejecución de un programa.
-- Nombres de variables, por qué es importante y buenas prácticas.
-- Palabras reservadas.Estándares de nomenclatura, qué son y para qué se usan.
-- camelCase, UPPER_SNAKE_CASE y otros estándares.
-- Hoisting.
-- Diferencias entre `var`, `let` y `const`.
-- Cuándo usar cada una.
-- Declaración y asignación.
-- Declaración múltiple.
+- Cómo se guarda una variable en memoria
+- Entorno de ejecución de un programa
+- Nombres de variables, por qué es importante y buenas prácticas
+- Palabras reservadas.Estándares de nomenclatura, qué son y para qué se usan
+- camelCase, UPPER_SNAKE_CASE y otros estándares
+- Hoisting
+- Diferencias entre `var`, `let` y `const`
+- Cuándo usar cada una
+- Declaración y asignación
+- Declaración múltiple
 
 **Datos Primitivos**
 
-- Qué es un dato.
-- Valores primitivos: strings, números.
-- Valores nulos: `null`, `undefined`.
-- `NaN` e `Infinity`.
-- `typeof`.
-- Comillas dobles y simples.
-- Template strings.
-- Coerción de tipos.
-- Métodos built-in (`String`, `Number`, `Boolean`).
+- Qué es un dato
+- Valores primitivos: strings, números
+- Valores nulos: `null`, `undefined`
+- `NaN` e `Infinity`
+- `typeof`
+- Comillas dobles y simples
+- Template strings
+- Coerción de tipos
+- Métodos built-in (`String`, `Number`, `Boolean`)
 
 **Operadores**
 
-- Operadores aritméticos.
-- Operadores de asignación.
-- Operador de concatenación.
+- Operadores aritméticos
+- Operadores de asignación
+- Operador de concatenación
 
 **Sentencias y expresiones, diferencias**
 

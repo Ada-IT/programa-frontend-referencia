@@ -6,10 +6,10 @@ sidebar_label: 08) Flexbox
 
 ### 🏁 Objetivos
 
-- Que te familiarices los conceptos básicos y el modelo de cajas flexibles.
-- Que puedas incorporar iconos a un documento HTML.
-- Que conozcas el formato SVG.
-- Que puedas utilizar una librería de iconos.
+- Que te familiarices los conceptos básicos y el modelo de cajas flexibles
+- Que puedas incorporar iconos a un documento HTML
+- Que conozcas el formato SVG
+- Que puedas utilizar una librería de iconos
 
 ---
 
@@ -20,10 +20,10 @@ sidebar_label: 08) Flexbox
   - `justify-content`
   - `align-items`
   - `flex-wrap`
-- Centrando con flex.
+- Centrando con flex
 
-- El formato SVG.
-- Iconos con SVG y con librerías.
+- El formato SVG
+- Iconos con SVG y con librerías
 
 ---
 

@@ -6,19 +6,19 @@ sidebar_label: 12) Diseño Responsivo II
 
 ### 🏁 Objetivos
 
-- Que sigas profundizando en conceptos de diseño responsivo.
-- Que puedas utilizar unidades relativas y de viewport.
-- Que incorpores estrategias y buenas prácticas a la hora de trabajar con un diseño responsivo.
+- Que sigas profundizando en conceptos de diseño responsivo
+- Que puedas utilizar unidades relativas y de viewport
+- Que incorpores estrategias y buenas prácticas a la hora de trabajar con un diseño responsivo
 
 ---
 
 ### 📝 Contenidos
 
-- Unidades relativas: em y rem.
-- Unidades de viewport: vw y vh.
-- Estrategias y soluciones comunes para encarar el diseño responsivo.
-- Cambios de layout.
-- Imágenes responsivas.
+- Unidades relativas: em y rem
+- Unidades de viewport: vw y vh
+- Estrategias y soluciones comunes para encarar el diseño responsivo
+- Cambios de layout
+- Imágenes responsivas
 
 ---
 

@@ -6,9 +6,9 @@ sidebar_label: 15) Posicionamiento
 
 ### 🏁 Objetivos
 
-- Que conozcas las distintas formas de posicionar elementos con CSS.
-- Que te interiorices en el sistema de coordenadas de CSS.
-- Que puedas aplicar lo aprendido en los casos de uso más comunes.
+- Que conozcas las distintas formas de posicionar elementos con CSS
+- Que te interiorices en el sistema de coordenadas de CSS
+- Que puedas aplicar lo aprendido en los casos de uso más comunes
 
 ---
 

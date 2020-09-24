@@ -8,7 +8,7 @@ sidebar_label: 👉 Introducción
 
 ### 📅 Duración
 
-4 semanas / 12 encuentros / 36 horas.
+4 semanas / 12 encuentros / 36 horas
 
 ### 🏁 Objetivo
 

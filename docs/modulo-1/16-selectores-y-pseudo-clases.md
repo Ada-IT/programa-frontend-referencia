@@ -6,10 +6,10 @@ sidebar_label: 16) Selectores avanzados y Pseudo clases
 
 ### 🏁 Objetivos
 
-- Que puedas hacer uso de selectores CSS más avanzados.
-- Que puedas utilizar las pseudo clases más comunes.
-- Que conozcas los casos más típicos de uso de selectores avanzados y pseudo clases.
-- Que puedas aplicarlos para estilar un formulario.
+- Que puedas hacer uso de selectores CSS más avanzados
+- Que puedas utilizar las pseudo clases más comunes
+- Que conozcas los casos más típicos de uso de selectores avanzados y pseudo clases
+- Que puedas aplicarlos para estilar un formulario
 
 ---
 
@@ -17,12 +17,12 @@ sidebar_label: 16) Selectores avanzados y Pseudo clases
 
 **Selectores avanzados**
 
-- Selectores de atributos.
-- Selector hermano adyacente.
-- Selector hermanos.
-- Selector descendiente.
-- Selector descendiente directo.
-- Selector universal.
+- Selectores de atributos
+- Selector hermano adyacente
+- Selector hermanos
+- Selector descendiente
+- Selector descendiente directo
+- Selector universal
 
 **Pseudo clases**
 

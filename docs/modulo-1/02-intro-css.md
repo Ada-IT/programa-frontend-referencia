@@ -6,12 +6,12 @@ sidebar_label: 02) Introducción a CSS
 
 ### 🏁 Objetivos
 
-- Que entiendas la función de CSS dentro de un sitio.
-- Que conozcas la sintaxis de CSS.
-- Que te introduzcas a los conceptos fundamentales de CSS.
-- Que puedas agregar estilos a un documento html.
-- Que comprendas cómo funciona la especificidad y la cascada en CSS.
-- Que te familiarices con alguna de las propiedades y valores de CSS.
+- Que entiendas la función de CSS dentro de un sitio
+- Que conozcas la sintaxis de CSS
+- Que te introduzcas a los conceptos fundamentales de CSS
+- Que puedas agregar estilos a un documento html
+- Que comprendas cómo funciona la especificidad y la cascada en CSS
+- Que te familiarices con alguna de las propiedades y valores de CSS
 
 ---
 
@@ -22,7 +22,7 @@ sidebar_label: 02) Introducción a CSS
 - Estilos en línea
 - Estilos dentro de etiqueta style
 - Estilos en archivo externo con etiqueta link
-- Inspeccionar estilos en las herramientas de desarrollo del navegador.
+- Inspeccionar estilos en las herramientas de desarrollo del navegador
 
 **Sintaxis**
 

@@ -6,9 +6,9 @@ sidebar_label: 17) Transiciones y transformaciones
 
 ### 🏁 Objetivos
 
-- Que puedas agregar transiciones a los elementos de una página.
-- Que te introduzcas a los conceptos involucrados en transiciones.
-- Que te familiarices con las transformaciones de CSS.
+- Que puedas agregar transiciones a los elementos de una página
+- Que te introduzcas a los conceptos involucrados en transiciones
+- Que te familiarices con las transformaciones de CSS
 
 ---
 
@@ -16,16 +16,16 @@ sidebar_label: 17) Transiciones y transformaciones
 
 **Transiciones**
 
-- Transiciones de propiedades.
+- Transiciones de propiedades
 - Propiedades de transición:
   - `transition-property`
   - `transition-duration`
   - `transition-timing-function`
   - `transition-delay`
   - `transition`
-- Funciones de tiempo (_timing_ o _easing functions_).
-- Curvas de bezier.
-- Transiciones junto a `hover`.
+- Funciones de tiempo (_timing_ o _easing functions_)
+- Curvas de bezier
+- Transiciones junto a `hover`
 
 **Transformaciones**
 
@@ -33,7 +33,7 @@ sidebar_label: 17) Transiciones y transformaciones
 - `rotate`
 - `scale`
 - `skew`
-- Ejes x, y, z.
+- Ejes x, y, z
 
 ---
 

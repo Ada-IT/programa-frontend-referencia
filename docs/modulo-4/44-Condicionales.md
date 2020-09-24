@@ -6,21 +6,21 @@ sidebar_label: 44) Condicionales
 
 ### 🏁 Objetivos
 
-- Que te familiarices con el concepto de flujo de ejecuci´ón de un programa.
-- Que puedas utilizar estructuras de control condicionales.
-- Que puedas identificar los casos en las que son requeridas.
-- Que profundices el uso de condicionales.
+- Que te familiarices con el concepto de flujo de ejecuci´ón de un programa
+- Que puedas utilizar estructuras de control condicionales
+- Que puedas identificar los casos en las que son requeridas
+- Que profundices el uso de condicionales
 
 ---
 
 ### 📝 Contenidos
 
-- Ejecución condicional o por ramas.
-- Condicionales if, else if y else.
-- Operador ternario.
-- Scope en bloques de código.
-- Condicionales anidados.
-- Switch. Casos agrupados.
+- Ejecución condicional o por ramas
+- Condicionales if, else if y else
+- Operador ternario
+- Scope en bloques de código
+- Condicionales anidados
+- Switch. Casos agrupados
 
 ---
 

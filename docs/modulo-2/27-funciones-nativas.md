@@ -6,7 +6,7 @@ sidebar_label: 27) Funciones nativas
 
 ### 🏁 Objetivos
 
-- Que puedas incorporar métodos y funciones para trabajar con números y strings.
+- Que puedas incorporar métodos y funciones para trabajar con números y strings
 
 ---
 
@@ -35,8 +35,8 @@ sidebar_label: 27) Funciones nativas
 
 **Números**
 
-- El objeto Math.
-- Cómo trabajar con números aleatorios.
+- El objeto Math
+- Cómo trabajar con números aleatorios
 - `min`
 - `max`
 - `round`

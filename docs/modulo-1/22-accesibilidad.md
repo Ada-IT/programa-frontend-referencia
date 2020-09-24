@@ -6,11 +6,11 @@ sidebar_label: 22) Accesibilidad
 
 ### 🏁 Objetivos
 
-- Que te introduzcas al desarrollo de sitios accesibles.
-- Que comprendas la importancia de la accesibilidad en el desarrollo web.
-- Que conozcas algunas de las tecnologías asistivas que se utilizan.
-- Que te interiorices en algunas de las buenas prácticas del desarrollo accesible.
-- Que te familiarices con el uso de etiquetas ARIA.
+- Que te introduzcas al desarrollo de sitios accesibles
+- Que comprendas la importancia de la accesibilidad en el desarrollo web
+- Que conozcas algunas de las tecnologías asistivas que se utilizan
+- Que te interiorices en algunas de las buenas prácticas del desarrollo accesible
+- Que te familiarices con el uso de etiquetas ARIA
 
 ---
 
@@ -18,25 +18,25 @@ sidebar_label: 22) Accesibilidad
 
 **Introducción a la accesibilidad**
 
-- La importancia de la accesibilidad.
-- Diversos tipos de discapacidades.
-- Tecnologías asistivas.
+- La importancia de la accesibilidad
+- Diversos tipos de discapacidades
+- Tecnologías asistivas
 
 **Desarrollo accesible**
 
 - Pilares del desarrollo accesible:
-  - Perceptible.
-  - Operable.
-  - Comprensible.
-  - Robusto.
+  - Perceptible
+  - Operable
+  - Comprensible
+  - Robusto
 - Desarrollando accesiblemente:
-  - Meta data.
-  - Semántica.
-  - Elementos con foco.
-  - Colores.
-  - Imágenes.
-  - Íconos.
-  - Links.
+  - Meta data
+  - Semántica
+  - Elementos con foco
+  - Colores
+  - Imágenes
+  - Íconos
+  - Links
 - Etiquetas ARIA
   - `aria-label`
   - `aria-labelledby`

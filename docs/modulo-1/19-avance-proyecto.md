@@ -6,9 +6,9 @@ sidebar_label: 19) Avanzando el Proyecto
 
 ### 🏁 Objetivos
 
-- Que puedas ejercitar y repasar lo aprendido del módulo hasta el momento.
-- Que puedas resolver dudas que te hayan quedado pendientes.
-- Que puedas avanzar con las consignas del proyecto.
+- Que puedas ejercitar y repasar lo aprendido del módulo hasta el momento
+- Que puedas resolver dudas que te hayan quedado pendientes
+- Que puedas avanzar con las consignas del proyecto
 
 ---
 

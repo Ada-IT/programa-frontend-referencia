@@ -10,13 +10,13 @@ sidebar_label: 62) Objetos
 
 ### 📝 Contenidos
 
-- Objetos literales.
-- Propiedades y valores.
-- Leer, agregar, modificar y eliminar propiedades.
-- Chequeando propiedades: operador in.
-- Notación de puntos y de corchetes.
-- Accediendo a propiedades mediante variables.
-- Propiedades computadas (vs literales).
+- Objetos literales
+- Propiedades y valores
+- Leer, agregar, modificar y eliminar propiedades
+- Chequeando propiedades: operador in
+- Notación de puntos y de corchetes
+- Accediendo a propiedades mediante variables
+- Propiedades computadas (vs literales)
 
 ---
 

@@ -6,10 +6,10 @@ sidebar_label: 32) Eventos
 
 ### 🏁 Objetivos
 
-- Que te introduzcas al manejo de eventos y sus conceptos principales.
-- Que comprendas lo que es un callback y cómo se propagan los eventos.
-- Que te familiarices con algunos de los eventos más comunes.
-- Que puedas modificar el DOM insertando código HTML.
+- Que te introduzcas al manejo de eventos y sus conceptos principales
+- Que comprendas lo que es un callback y cómo se propagan los eventos
+- Que te familiarices con algunos de los eventos más comunes
+- Que puedas modificar el DOM insertando código HTML
 
 ---
 
@@ -17,18 +17,18 @@ sidebar_label: 32) Eventos
 
 **Eventos**
 
-- Qué es un event handler.
-- Eventos de mouse y teclado.
-- Callbacks.
-- El objeto `Event`.
-- Propagación de eventos (_bubbling_).
+- Qué es un event handler
+- Eventos de mouse y teclado
+- Callbacks
+- El objeto `Event`
+- Propagación de eventos (_bubbling_)
 - `stopPropagation`
 
 **Creando HTML**
 
-- Modificando el HTML.
+- Modificando el HTML
 - `innerHTML`
-- Templates de HTML.
+- Templates de HTML
 
 ---
 

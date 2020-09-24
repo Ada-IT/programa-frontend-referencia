@@ -6,9 +6,9 @@ sidebar_label: 28) Condicionales
 
 ### 🏁 Objetivos
 
-- Que comprendas el concepto de flujo de ejecuci´ón.
-- Que te introduzcas a los condicionales y entiendas su funcionamiento y usos.
-- Que puedas comparar valores y realizar operaciones en base a ello.
+- Que comprendas el concepto de flujo de ejecuci´ón
+- Que te introduzcas a los condicionales y entiendas su funcionamiento y usos
+- Que puedas comparar valores y realizar operaciones en base a ello
 
 ---
 
@@ -17,11 +17,11 @@ sidebar_label: 28) Condicionales
 **Comparaciones y valores verdad**
 
 - Booleanos
-- Operadores relacionales.
-- Operadores de igualdad.
-- Igualdad estricta y no estricta.
-- Valores verdaderos y falsos.
-- Coerción de tipos.
+- Operadores relacionales
+- Operadores de igualdad
+- Igualdad estricta y no estricta
+- Valores verdaderos y falsos
+- Coerción de tipos
 
 **Condicionales**
 

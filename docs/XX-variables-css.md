@@ -6,20 +6,20 @@ sidebar_label: 20) Variables CSS
 
 ### 🏁 Objetivos
 
-- Que te familiarices con variables en CSS.
-- Que puedas utilizar variables CSS para mejorar tu código y hacerlo más reutilizable.
+- Que te familiarices con variables en CSS
+- Que puedas utilizar variables CSS para mejorar tu código y hacerlo más reutilizable
 
 ---
 
 ### 📝 Contenidos
 
-- Variables de CSS.
-- Nombre semánticos de variables.
-- Reutilizando variables.
-- Variables para colores, tipografías, espacios y tamaños.
-- Variables para componentes.
-- Buenas prácticas.
-- Haciendo un tema con variables CSS.
+- Variables de CSS
+- Nombre semánticos de variables
+- Reutilizando variables
+- Variables para colores, tipografías, espacios y tamaños
+- Variables para componentes
+- Buenas prácticas
+- Haciendo un tema con variables CSS
 
 ---
 

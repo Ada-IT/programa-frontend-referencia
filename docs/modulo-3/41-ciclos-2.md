@@ -6,9 +6,9 @@ sidebar_label: '41) Ciclos y Repaso'
 
 ### 🏁 Objetivos
 
-- Que puedas repasar lo aprendido del módulo.
-- Que puedas resolver dudas que te hayan quedado pendientes.
-- Que puedas avanzar con las consignas de los ejercicios.
+- Que puedas repasar lo aprendido del módulo
+- Que puedas resolver dudas que te hayan quedado pendientes
+- Que puedas avanzar con las consignas de los ejercicios
 
 ---
 

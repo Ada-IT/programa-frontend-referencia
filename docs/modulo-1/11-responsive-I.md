@@ -6,22 +6,22 @@ sidebar_label: 11) Diseño Responsivo I
 
 ### 🏁 Objetivos
 
-- Que entiendas en qué consiste el diseño responsivo y qué problemas soluciona.
-- Que puedas trabajar con unidades porcentuales.
-- Que te familiarices con el uso de media queries.
-- Que puedas aplicar un diseño responsivo a tu sitio.
+- Que entiendas en qué consiste el diseño responsivo y qué problemas soluciona
+- Que puedas trabajar con unidades porcentuales
+- Que te familiarices con el uso de media queries
+- Que puedas aplicar un diseño responsivo a tu sitio
 
 ---
 
 ### 📝 Contenidos
 
-- Diseño responsivo vs adaptativo.
-- Mobile first vs Desktop first.
-- Unidades porcentuales (%).
-- Anchos y altos máximos y mínimos.
-- Cálculos con CSS.
-- Media queries y breakpoints.
-- Meta viewport.
+- Diseño responsivo vs adaptativo
+- Mobile first vs Desktop first
+- Unidades porcentuales (%)
+- Anchos y altos máximos y mínimos
+- Cálculos con CSS
+- Media queries y breakpoints
+- Meta viewport
 
 ---
 

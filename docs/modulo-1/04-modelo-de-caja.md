@@ -6,8 +6,8 @@ sidebar_label: 04) Modelo de Caja
 
 ### 🏁 Objetivos
 
-- Que comprendas el modelo de caja de CSS y puedas utilizarlo.
-- Que te familiarices con el uso de contenedores.
+- Que comprendas el modelo de caja de CSS y puedas utilizarlo
+- Que te familiarices con el uso de contenedores
 
 ---
 

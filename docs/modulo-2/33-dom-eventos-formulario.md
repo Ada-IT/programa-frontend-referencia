@@ -6,9 +6,9 @@ sidebar_label: 33) Eventos de formulario
 
 ### 🏁 Objetivos
 
-- Que conozcas los eventos de los elementos de un formulario.
-- Que puedas interactuar dinámicamente con los elementos de un formulario.
-- Que puedas validar los datos de un formulario.
+- Que conozcas los eventos de los elementos de un formulario
+- Que puedas interactuar dinámicamente con los elementos de un formulario
+- Que puedas validar los datos de un formulario
 
 ---
 
@@ -31,7 +31,7 @@ sidebar_label: 33) Eventos de formulario
 - `preventDefault`
 
 - Accediendo a los inputs de un formulario
-- Distinción entre validación de formulario del lado del cliente y del lado del servidor.
+- Distinción entre validación de formulario del lado del cliente y del lado del servidor
 
 ---
 

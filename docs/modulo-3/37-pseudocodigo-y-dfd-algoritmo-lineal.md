@@ -9,7 +9,7 @@ sidebar_label: '37) Pseudocódigo y DFD: Algoritmo lineal'
 Aprender la nomenclatura para la construcción de pseudocodigos básicos con su representación gráfica (DFD)
 
 - Estudiar la estructura básica de un Pseudocódigo
-- Conocer los identificadores y sus tipos.
+- Conocer los identificadores y sus tipos
 - Descripción de la nomenclatura para crea un diagrama de flujo
 
 ---

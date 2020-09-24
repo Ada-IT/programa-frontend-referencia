@@ -6,18 +6,18 @@ sidebar_label: 03) HTML Semántico
 
 ### 🏁 Objetivos
 
-- Que entiendas la función de HTML dentro de un sitio.
-- Que conozcas la sintaxis de HTML.
-- Que te familiarices con algunas de las etiquetas básicas.
-- Que aprendas a manejar un entorno de desarrollo integrado como Visual Studio Code.
+- Que entiendas la función de HTML dentro de un sitio
+- Que conozcas la sintaxis de HTML
+- Que te familiarices con algunas de las etiquetas básicas
+- Que aprendas a manejar un entorno de desarrollo integrado como Visual Studio Code
 
 ---
 
 ### 🏁 Objetivos
 
-- Que incorpores nuevas etiquetas semánticas.
+- Que incorpores nuevas etiquetas semánticas
 - Que entiendas la importancia
-- Que puedas seccionar el contenido correctamente.
+- Que puedas seccionar el contenido correctamente
 
 ---
 
@@ -46,9 +46,9 @@ sidebar_label: 03) HTML Semántico
 - `em`
 - `strong`
 
-- Importancia de las etiquetas semánticas.
-- Diferencias entre `article` y `section`.
-- Seccionado del contenido.
+- Importancia de las etiquetas semánticas
+- Diferencias entre `article` y `section`
+- Seccionado del contenido
 
 ---
 

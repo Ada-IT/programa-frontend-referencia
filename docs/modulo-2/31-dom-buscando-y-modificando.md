@@ -6,9 +6,9 @@ sidebar_label: 31) Modificando elementos
 
 ### 🏁 Objetivos
 
-- Que te introduzcas al DOM y sus conceptos principales.
-- Que puedas acceder a elementos del DOM mediante JavaScript.
-- Que puedas manipular las clases y los estilos de elementos del DOM.
+- Que te introduzcas al DOM y sus conceptos principales
+- Que puedas acceder a elementos del DOM mediante JavaScript
+- Que puedas manipular las clases y los estilos de elementos del DOM
 
 ---
 
@@ -16,17 +16,17 @@ sidebar_label: 31) Modificando elementos
 
 **El modelo de objeto del documento**
 
-- El entorno del navegador.
-- Variables de entorno.
-- El objeto `window`.
-- DOM y BOM.
-- Estructura del DOM.
-- El objeto `document`.
-- Etiquetas como objetos (anidados).
-- Nodos y tipos de nodos.
-- Inspeccionando el DOM en la consola.
-- Inspeccionando un nodo.
-- `console.log` vs `console.dir`.
+- El entorno del navegador
+- Variables de entorno
+- El objeto `window`
+- DOM y BOM
+- Estructura del DOM
+- El objeto `document`
+- Etiquetas como objetos (anidados)
+- Nodos y tipos de nodos
+- Inspeccionando el DOM en la consola
+- Inspeccionando un nodo
+- `console.log` vs `console.dir`
 
 **Buscando elementos**
 
@@ -36,8 +36,8 @@ sidebar_label: 31) Modificando elementos
 
 **Trabajando con clases**
 
-- La propiedad classList.
-- Usando clases para modificar estilos de forma dinámica.
+- La propiedad classList
+- Usando clases para modificar estilos de forma dinámica
 - Métodos de classList:
   - `add`
   - `remove`
@@ -46,9 +46,9 @@ sidebar_label: 31) Modificando elementos
 
 **Trabajando con estilos**
 
-- La propiedad `style`.
-- Modificando estilos.
-- Estilos computados para leer estilos.
+- La propiedad `style`
+- Modificando estilos
+- Estilos computados para leer estilos
 
 **Trabajando con atributos**
 

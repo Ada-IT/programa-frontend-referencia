@@ -6,6 +6,9 @@ sidebar_label: 51) Callbacks
 
 ### 🏁 Objetivos
 
+- Que te introduzcas al uso de temporizadores en JavaScript
+- Que puedas pasar funciones como parámetros
+
 ---
 
 ### 📝 Contenidos

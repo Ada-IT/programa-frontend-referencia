@@ -6,19 +6,19 @@ sidebar_label: 45) Arrays
 
 ### 🏁 Objetivos
 
-- Que incorpores el array como nueva estructura de datos.
-- Que puedas reconocer los casos en los que es necesario o más eficiente utilizarlos.
-- Que aprendas cómo manipular un array.
+- Que incorpores el array como nueva estructura de datos
+- Que puedas reconocer los casos en los que es necesario o más eficiente utilizarlos
+- Que aprendas cómo manipular un array
 
 ---
 
 ### 📝 Contenidos
 
-- Sintaxis.
-- Índices.
-- Accediendo, reemplazando y agregando elementos.
-- Propiedad length, accediendo y modificando su valor.
-- Bucle `for...in` y `for...of`.
+- Sintaxis
+- Índices
+- Accediendo, reemplazando y agregando elementos
+- Propiedad length, accediendo y modificando su valor
+- Bucle `for...in` y `for...of`
 - Métodos de array:
   - `pop`
   - `shift`
@@ -28,7 +28,7 @@ sidebar_label: 45) Arrays
   - `splice`
   - `concat`
   - `join`
-- Obteniendo valores aleatorios de un array.
+- Obteniendo valores aleatorios de un array
 
 ---
 

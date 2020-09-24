@@ -6,7 +6,7 @@ sidebar_label: 00) Presentación
 
 ### 🏁 Objetivos
 
-- Informarte sobre la dinámica de la cursada.
+- Informarte sobre la dinámica de la cursada
 
 ---
 
@@ -14,9 +14,14 @@ sidebar_label: 00) Presentación
 
 **Bienvenida a Ada**
 
-- Modalidad de cursada. Dinámica de la clase. Consultas fuera de horario. Proyectos. Plazos de entrega. Requisitos de aprobación de cursada.
-- Herramientas a utilizar durante la cursada: Zoom, Discord.
-- Canales de comunicación.
+- Modalidad de cursada
+- Dinámica de la clase
+- Consultas fuera de horario
+- Proyectos
+- Plazos de entrega
+- Requisitos de aprobación de cursada
+- Herramientas a utilizar durante la cursada: Zoom, Discord
+- Canales de comunicación
 
 ---
 

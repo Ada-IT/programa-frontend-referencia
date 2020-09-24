@@ -6,9 +6,9 @@ sidebar_label: 14) Formularios
 
 ### 🏁 Objetivos
 
-- Que te introduzcas a los formularios y sus conceptos principales.
-- Que incorpores distintos elementos de control de formularios.
-- Que puedas estructurar correctamente un formulario.
+- Que te introduzcas a los formularios y sus conceptos principales
+- Que incorpores distintos elementos de control de formularios
+- Que puedas estructurar correctamente un formulario
 
 ---
 

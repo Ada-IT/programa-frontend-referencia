@@ -6,19 +6,19 @@ sidebar_label: 35) Accesibilidad Avanzada
 
 ### 🏁 Objetivos
 
-- Que aprendas cómo para desarrollar un formulario accesible.
-- Que puedas hacer una página navegable con el teclado.
+- Que aprendas cómo para desarrollar un formulario accesible
+- Que puedas hacer una página navegable con el teclado
 
 ---
 
 ### 📝 Contenidos
 
-- Accesibilidad en formularios.
-- Shortcuts.
-- Asegurando la navegación con teclado.
-- Controlando el foco dinámicamente.
-- Problemas con eventos de mouse.
-- C´ómo hacer un dialog accesible.
+- Accesibilidad en formularios
+- Shortcuts
+- Asegurando la navegación con teclado
+- Controlando el foco dinámicamente
+- Problemas con eventos de mouse
+- C´ómo hacer un dialog accesible
 
 ---
 

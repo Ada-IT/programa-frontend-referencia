@@ -6,11 +6,11 @@ sidebar_label: 46) Bucles
 
 ### 🏁 Objetivos
 
-- Que te familiarices con el concepto de bucles.
-- Que conozcas las diferencias entre los distintos bucles.
-- Que puedas identificar cuándo un bucle es necesario y cuál utilizar.
-- Que puedas usar bucles en tus programas.
-- Que estés al tanto de los errores más comunes en los que se suele caer al utilizarlos y cómo identificarlos y solucionarlos.
+- Que te familiarices con el concepto de bucles
+- Que conozcas las diferencias entre los distintos bucles
+- Que puedas identificar cuándo un bucle es necesario y cuál utilizar
+- Que puedas usar bucles en tus programas
+- Que estés al tanto de los errores más comunes en los que se suele caer al utilizarlos y cómo identificarlos y solucionarlos
 
 ---
 
@@ -22,7 +22,7 @@ sidebar_label: 46) Bucles
 - Bucle do...while
 - Condiciones de salida
 - for...of y for...in
-- Haciendo un menú de comandos con while y switch.
+- Haciendo un menú de comandos con while y switch
 
 ---
 

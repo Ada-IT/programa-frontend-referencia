@@ -6,22 +6,22 @@ sidebar_label: 21) Componentes
 
 ### 🏁 Objetivos
 
-- Que te familiarices con el concepto de componentes.
-- Que conozcas algunos de los componentes más comunes.
-- Que empieces a ver y a analizar el código y los sitios en función de componentes.
-- Que incorpores algunas estrategias para trabajar con componentes.
+- Que te familiarices con el concepto de componentes
+- Que conozcas algunos de los componentes más comunes
+- Que empieces a ver y a analizar el código y los sitios en función de componentes
+- Que incorpores algunas estrategias para trabajar con componentes
 
 ---
 
 ### 📝 Contenidos
 
-- Qué es un componente.
-- Componentes más comunes.
-- Librerías de componentes.
-- Ventajas del uso de componentes.
-- Componentes y variaciones.
-- Definiendo componentes. Tips, patrones y buenas prácticas.
-- Algunos sistemas y arquitecturas: BEM y Atomic Design.
+- Qué es un componente
+- Componentes más comunes
+- Librerías de componentes
+- Ventajas del uso de componentes
+- Componentes y variaciones
+- Definiendo componentes. Tips, patrones y buenas prácticas
+- Algunos sistemas y arquitecturas: BEM y Atomic Design
 - Cómo hacer un componente:
   - Bottón
   - Badge

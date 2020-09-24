@@ -6,18 +6,18 @@ sidebar_label: 01) Introducción a HTML
 
 ### 🏁 Objetivos
 
-- Que entiendas la función de HTML dentro de un sitio.
-- Que conozcas la sintaxis de HTML.
-- Que te familiarices con algunas de las etiquetas básicas.
-- Que aprendas a manejar un entorno de desarrollo integrado como Visual Studio Code.
+- Que entiendas la función de HTML dentro de un sitio
+- Que conozcas la sintaxis de HTML
+- Que te familiarices con algunas de las etiquetas básicas
+- Que aprendas a manejar un entorno de desarrollo integrado como Visual Studio Code
 
 ---
 
 ### 📝 Contenidos
 
-- IDE, Visual Studio Code y extensiones.
-- Qué es HTML.
-- Sintaxis, etiquetas abiertas y cerradas, atributos.
+- IDE, Visual Studio Code y extensiones
+- Qué es HTML
+- Sintaxis, etiquetas abiertas y cerradas, atributos
 - Estructura inicial:
   - `DOCTYPE`
   - `html`
@@ -35,12 +35,12 @@ sidebar_label: 01) Introducción a HTML
   - `ul`
   - `ol`
   - `li`
-- Importancia de la semántica.
-- Anidado de etiquetas.
-- Rutas relativas y absolutas.
-- Links. Enlaces internos, locales y externos.
-- Comentarios.
-- Inspeccionando elementos en las herramientas de desarrollo del navegador.
+- Importancia de la semántica
+- Anidado de etiquetas
+- Rutas relativas y absolutas
+- Links internos, locales y externos
+- Comentarios
+- Inspeccionando elementos en las herramientas de desarrollo del navegador
 
 ---
 
@@ -49,7 +49,6 @@ sidebar_label: 01) Introducción a HTML
 📆 17-09-2020
 
 📹 [Grabación](https://us02web.zoom.us/rec/play/0M-3zBItKVv_dMPoUAUZW_qZGpAWeoo-HHvO828RpbMTGeoGj0a1zutrqvLuTzmABc4Q5-gE6ReUMQYC.qyS1dHZyDgm-LOR4?autoplay=true&continueMode=true&startTime=1600380529000)
-
 
 👩‍💻 Código
 

@@ -6,7 +6,7 @@ sidebar_label: 28) Multimedia
 
 ### 🏁 Objetivos
 
-- Objetivo 1.
+- Objetivo 1
 
 ---
 
