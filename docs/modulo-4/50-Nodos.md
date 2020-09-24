@@ -6,10 +6,15 @@ sidebar_label: 50) Nodos
 
 ### 🏁 Objetivos
 
+- Que comprendas el concepto de nodos en DOM
+- Que puedas modificar el DOM a través de nodos
+
 ---
 
 ### 📝 Contenidos
 
+- Nodos
+- Distintos tipos de nodos
 - Trabajando con nodos
 - Creando nodos
 - Accediendo a nodos

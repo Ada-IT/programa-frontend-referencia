@@ -14,25 +14,11 @@ sidebar_label: Introducción
 
 En este módulo vas a introducirte a JavaScript, el lenguaje de programación web, con el cual podrás hacer páginas interactivas y definir acciones que se ejecuten como respuesta a un evento. De esta manera podrás crear efectos y proveer funcionalidades dinámicas en tu sitio que enriquecerán enormemente la experiencia de tus usuaries.
 
-### ⭐️ Proyecto: Tienda
+### ⭐️ Proyecto: Editor de memes
 
-En este proyecto vas replicar el diseño de una tienda de comercio electrónico y lo convertirás en un sitio responsivo, accesible e interactivo que puede ser visitado desde cualquier dispositivo. Usarás JavaScript para modificar el contenido y hacer que responda a los eventos y acciones realizados, incorporarás efectos y transiciones para volverlo más atractivo y ofrecer un mejor feedback visual y le agregarás funcionalidades que permitan manipular la lista de productos y el carrito de compras.
+En este proyecto vas a estar realizando un editor para generar memes. Crearás una aplicación con la que podrás manipular el texto y la imagen de tu meme y usarás JavaScript para modificar dinámicamente su contenido y sus propiedades. Cuando quedes conforme, podrás descargar tu meme para usarlo o compartilo donde quieras.
 
 ### 📚 Temas
-
-#### HTML
-
-- Formularios
-- Accesibilidad
-
-#### CSS
-
-- Selectores avanzados
-- Pseudo clases
-- Pseudo elementos
-- Transformaciones
-- Transiciones
-- Posicionamiento
 
 #### JavaScript
 

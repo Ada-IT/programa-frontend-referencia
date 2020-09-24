@@ -6,13 +6,16 @@ sidebar_label: 52) Buenas prácticas
 
 ### 🏁 Objetivos
 
+- Que puedas aplicar
+
 ---
 
 ### 📝 Contenidos
 
 **Refactorización**
 
-- Qué es la refactorización y por qué es importante. Estrategias más comunes.
+- Qué es la refactorización y por qué es importante.
+- Estrategias más comunes de refactorización.
 - Cuándo hacer una función.
 - Definiendo qué necesita y qué va a devolver antes de la implementación.
 - Definiendo los parámetros.
