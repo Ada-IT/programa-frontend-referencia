@@ -54,9 +54,9 @@ sidebar_label: 03) HTML Semántico
 
 ### 🚀 Recursos de la clase
 
-📆 Fecha
+📆 22/09/2020
 
-📹 Grabación
+📹 [Grabación](https://us02web.zoom.us/rec/share/AAJfVMrjbyxd9tNjMJK0Id42vfkk7pJ_RAe9r-TxuZ8qk-ZI9sc41uG4mSID-4o8.eX5Qe0_UzGbmp7qB)
 
 👩‍💻 Código
 

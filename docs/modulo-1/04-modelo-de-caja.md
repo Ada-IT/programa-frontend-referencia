@@ -40,7 +40,7 @@ sidebar_label: 04) Modelo de Caja
 
 📆 Fecha
 
-📹 Grabación
+📹 [Grabación](https://us02web.zoom.us/rec/share/tfRDU3KvMGbRA8qurbMWEsIrLGfHxWonfitoFJJ7sAtDlFnlPnNVw6fKPjNvdOEf._tR-FuHgTkGZQtyS)
 
 👩‍💻 Código
 
