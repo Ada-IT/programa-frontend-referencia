@@ -1,7 +1,7 @@
 ---
-id: clase-09
+id: clase-08
 title: Flexbox avanzado
-sidebar_label: 09) Flexbox avanzado
+sidebar_label: 08) Flexbox avanzado
 ---
 
 ### 🏁 Objetivos

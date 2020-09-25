@@ -1,7 +1,7 @@
 ---
-id: clase-08
+id: clase-07
 title: Flexbox
-sidebar_label: 08) Flexbox
+sidebar_label: 07) Flexbox
 ---
 
 ### 🏁 Objetivos

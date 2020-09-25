@@ -1,7 +1,7 @@
 ---
-id: clase-04
+id: clase-03b
 title: Modelo de Caja
-sidebar_label: 04) Modelo de Caja
+sidebar_label: 03-II) Modelo de Caja
 ---
 
 ### 🏁 Objetivos
@@ -38,7 +38,7 @@ sidebar_label: 04) Modelo de Caja
 
 ### 🚀 Recursos de la clase
 
-📆 Fecha
+📆 22-09-2020
 
 📹 [Grabación](https://us02web.zoom.us/rec/share/tfRDU3KvMGbRA8qurbMWEsIrLGfHxWonfitoFJJ7sAtDlFnlPnNVw6fKPjNvdOEf._tR-FuHgTkGZQtyS)
 

@@ -1,7 +1,7 @@
 ---
-id: clase-05
+id: clase-04
 title: Introducción a Git
-sidebar_label: 05) Introducción a Git
+sidebar_label: 04) Introducción a Git
 ---
 
 ### 🏁 Objetivos
@@ -36,7 +36,7 @@ sidebar_label: 05) Introducción a Git
 
 ### 🚀 Recursos de la clase
 
-📆 Fecha
+📆 24/09/2020
 
 📹 [Grabación](https://us02web.zoom.us/rec/share/YOShIlILJMb--TDJgHsJNi99TPOZyBfN-9IMVlRdeZvLOLe2aBDBSKoM-cJcctP9.4yeqLVqUEQcItIbp)
 
