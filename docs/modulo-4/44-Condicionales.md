@@ -47,7 +47,4 @@ _En inglés_
 
 - [Conditional operators](https://javascript.info/ifelse)
 - [Logical operators](https://javascript.info/logical-operators)
-
----
-
-### 🔍 Para seguir investigando
+- [Switch - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch)
