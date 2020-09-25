@@ -38,7 +38,7 @@ sidebar_label: 05) Introducción a Git
 
 📆 Fecha
 
-📹 Grabación
+📹 [Grabación](https://us02web.zoom.us/rec/share/YOShIlILJMb--TDJgHsJNi99TPOZyBfN-9IMVlRdeZvLOLe2aBDBSKoM-cJcctP9.4yeqLVqUEQcItIbp)
 
 💪 [Ejercitación](https://github.com/Ada-IT/ejercicios-frontend/blob/master/modulo-1/ejercicios/03-introduccion-a-git.md)
 
