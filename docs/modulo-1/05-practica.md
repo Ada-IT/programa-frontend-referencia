@@ -14,8 +14,8 @@ sidebar_label: 05) Práctica
 
 ### 🚀 Recursos de la clase
 
-📆 Fecha
+📆 26-09-2020
 
-📹 Grabación
+📹 [Grabación](https://drive.google.com/drive/folders/14s_pSPzWXAaZnpGfxl2Hkh5j61ohGv6q?usp=sharing)
 
 👩‍💻 Código
