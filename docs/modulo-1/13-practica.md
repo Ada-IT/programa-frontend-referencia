@@ -16,6 +16,6 @@ sidebar_label: 13) Práctica
 
 📆 Fecha
 
-📹 Grabación
+📹 [Grabación](https://drive.google.com/drive/folders/14s_pSPzWXAaZnpGfxl2Hkh5j61ohGv6q?usp=sharing)
 
 👩‍💻 Código
