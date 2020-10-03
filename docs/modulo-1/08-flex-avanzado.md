@@ -22,9 +22,9 @@ sidebar_label: 08) Flexbox avanzado
 
 ### 🚀 Recursos de la clase
 
-📆 Fecha
+📆 03/10/2020
 
-📹 Grabación
+📹 [Grabación](https://us02web.zoom.us/rec/share/_bDNfs9iqEm4l4e_q5jDCYOR4CmUASqsehkuUzP36qpRbtdsajCwHgg4-WFJOQWc.6yMfiF03AuzybY-J)
 
 👩‍💻 Código
 
