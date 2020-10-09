@@ -1,7 +1,7 @@
 ---
 id: clase-65
 title: Práctica
-sidebar_label: 64) Práctica
+sidebar_label: 65) Práctica
 ---
 
 ### 🏁 Objetivos
