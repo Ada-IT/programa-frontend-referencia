@@ -1,7 +1,7 @@
 ---
 id: clase-57
-title: 'Sass: extends y mixins'
-sidebar_label: '57) Sass: extends y mixins'
+title: 'Sass: Extends y Mixins'
+sidebar_label: '57) Sass: Extends y Mixins'
 ---
 
 ### 🏁 Objetivos
@@ -17,6 +17,8 @@ sidebar_label: '57) Sass: extends y mixins'
 - Extends
 - `@mixin` y `@include`
 - `@content`
+- Parámetros y parámetros por default en `mixins`
+- Interpolación
 - Diferencias principales y cuándo usar cada uno
 
 ---
@@ -35,8 +37,12 @@ sidebar_label: '57) Sass: extends y mixins'
 
 ### 📚 Material de lectura
 
+- [Interpolación](https://httpmasters.es/2018/04/24/interpolacion-de-variables-en-sass/)
+
 _En inglés_
 
 ---
 
 ### 🔍 Para seguir investigando
+
+- [Cómo llevar tus habilidades de Sass al siguiente nivel](https://medium.com/laboratoria-how-to/c%C3%B3mo-llevar-tus-habilidades-de-sass-al-siguiente-nivel-af2faea94007)

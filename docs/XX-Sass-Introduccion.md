@@ -10,6 +10,8 @@ sidebar_label: '55) Introducción a Sass'
 - Que te introduzcas a Sass
 - Que puedas utilizar módulos de Sass
 - Que estructures tu proyecto con una buena arquitectura
+- Que te familiarices con las sintaxis de Sass
+- Que te introduzcas a las funcionalidades principales de Sass
 
 ---
 
@@ -21,6 +23,9 @@ sidebar_label: '55) Introducción a Sass'
 - Estructura de archivos
   - Separando responsabilidades
   - Patrón 7-1
+- Anidado
+- Variables
+- Operadores
 
 ---
 
@@ -38,9 +43,18 @@ sidebar_label: '55) Introducción a Sass'
 
 ### 📚 Material de lectura
 
+- [Sass](https://frontend.adaitw.org/docs/html-css/hc18)
+- [El patrón 7-1](https://sass-guidelin.es/es/#el-patron-7-1)
+
 _En inglés_
 
 - [Documentaci´ón oficial](https://sass-lang.com/documentation)
+- [Variables - Documentación](https://sass-lang.com/documentation/variables)
+- [Variables](https://marksheet.io/sass-variables.html)
+- [SASS Variables](https://dev.to/sarah_chima/sass-variables-2pb)
+- [Operadores - Documentación](https://sass-lang.com/documentation/operators)
+- [Anidado](https://marksheet.io/sass-nesting.html)
+- [Anidado en Sass](https://dev.to/sarah_chima/nesting-in-sass-bme)
 
 ---
 

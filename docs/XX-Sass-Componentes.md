@@ -13,10 +13,9 @@ sidebar_label: '58) Sass: Componentes'
 
 ### 📝 Contenidos
 
-- Definiendo componentes con Sass
-- Sass y BEM
-- Generando clases con anidado, selector padre e inteporlación
+- Generando clases con anidado, selector padre e inrrepolación
 - Extendiendo y heredando estilos base
+- Uso de `mixins` y `extends` para definir componentes
 - Buenas prácticas y arquitectura de componentes
 
 ---

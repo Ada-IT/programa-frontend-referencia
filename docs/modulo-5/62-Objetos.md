@@ -1,7 +1,7 @@
 ---
 id: clase-62
 title: 'Estructura de datos: Objetos'
-sidebar_label: 62) Objetos
+sidebar_label: 62) Objetos I
 ---
 
 ### 🏁 Objetivos

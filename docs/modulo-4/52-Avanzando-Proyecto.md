@@ -1,13 +1,11 @@
 ---
-id: clase-67
-title: Repaso
-sidebar_label: 67) Repaso
+id: clase-52
+title: Avanzando el proyecto
+sidebar_label: 52) Avanzando el proyecto
 ---
 
 ### 🏁 Objetivos
 
-- Que puedas repasar lo aprendido del módulo
-- Que puedas resolver dudas que te hayan quedado pendientes
 - Que puedas avanzar con las consignas del proyecto
 
 ---

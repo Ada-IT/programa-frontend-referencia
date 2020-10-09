@@ -1,19 +1,21 @@
 ---
-id: clase-69
-title: Reduce I
-sidebar_label: 69) Reduce I
+id: clase-58
+title: 'Frameworks CSS: Formularios'
+sidebar_label: '58) Frameworks CSS: Formularios'
 ---
 
 ### 🏁 Objetivos
 
-- Que puedas utilizar el método `reduce`
+- Que puedas realizar formularios con un framework CSS
 
 ---
 
 ### 📝 Contenidos
 
-- `reduce`
-- Operaciones comunes con reduce
+- Formulario
+- Inputs
+- Labels
+- Botones
 
 ---
 
@@ -32,6 +34,8 @@ sidebar_label: 69) Reduce I
 ### 📚 Material de lectura
 
 _En inglés_
+
+- [Bulma - Documentación](https://bulma.io/)
 
 ---
 

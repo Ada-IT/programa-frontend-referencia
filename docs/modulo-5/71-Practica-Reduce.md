@@ -1,7 +1,7 @@
 ---
-id: clase-70
+id: clase-71
 title: Práctica Reduce
-sidebar_label: 70) Práctica Reduce
+sidebar_label: 71) Práctica Reduce
 ---
 
 ### 🏁 Objetivos

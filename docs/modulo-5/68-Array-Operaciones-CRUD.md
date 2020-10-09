@@ -1,13 +1,14 @@
 ---
-id: clase-71
+id: clase-68
 title: Operaciones ABM
-sidebar_label: 71) Operaciones ABM
+sidebar_label: 68) Operaciones ABM
 ---
 
 ### 🏁 Objetivos
 
 - Que te familiarices con las operaciones ABM (alta, baja, modificación)
 - Que puedas aplicar lo aprendido para realizar operaciones ABM
+- Que puedas identificar y utilizar funciones puras
 
 ---
 
@@ -19,6 +20,7 @@ sidebar_label: 71) Operaciones ABM
   - Reemplazando elementos
   - Filtrando elementos
   - Obteniendo elementos
+- Funciones puras
 
 ---
 
@@ -36,8 +38,4 @@ sidebar_label: 71) Operaciones ABM
 
 ### 📚 Material de lectura
 
-_En inglés_
-
----
-
-### 🔍 Para seguir investigando
+- [Operaciones inmutables](https://frontend.adaitw.org/docs/js/js05b)

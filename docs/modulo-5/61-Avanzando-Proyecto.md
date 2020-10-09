@@ -1,14 +1,14 @@
 ---
-id: clase-60
-title: Repaso
-sidebar_label: 60) Repaso
+id: clase-61
+title: Avanzando el proyecto
+sidebar_label: 61) Avanzando el proyecto
 ---
 
 ### 🏁 Objetivos
 
-- Que puedas repasar lo aprendido del módulo
-- Que puedas resolver dudas que te hayan quedado pendientes
 - Que puedas avanzar con las consignas del proyecto
+- Que puedas maquetar las pantallas
+- Que puedas agregar interactividad
 
 ---
 

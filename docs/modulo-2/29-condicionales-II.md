@@ -25,7 +25,6 @@ sidebar_label: 29) Condicionales II
 **Condicionales**
 
 - `else if`
-- `else`
 
 ---
 

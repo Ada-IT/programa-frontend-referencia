@@ -17,12 +17,12 @@ sidebar_label: 46) Bucles
 ### 📝 Contenidos
 
 - Bucles e iteraciones
-- Bucles for
-- Bucle while
-- Bucle do...while
+- Bucles `for`
+- Bucle `while`
+- Bucle `do...while`
 - Condiciones de salida
-- for...of y for...in
-- Haciendo un menú de comandos con while y switch
+- `for...of` y `for...in`
+- Haciendo un menú de comandos con `while` y `switch`
 
 ---
 

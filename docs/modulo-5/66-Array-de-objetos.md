@@ -20,6 +20,7 @@ sidebar_label: 66) Array de objetos
 - `filter`
 - `every`
 - `some`
+- Encadenando métodos
 
 ---
 
@@ -38,6 +39,9 @@ sidebar_label: 66) Array de objetos
 ### 📚 Material de lectura
 
 _En inglés_
+
+- [JavaScript Arrays and Objects Are Just Like Books and Newspapers](https://blog.codeanalogies.com/2017/04/29/javascript-arrays-and-objects-are-just-like-books-and-newspapers/)
+- [JavaScript — Learn to Chain Map, Filter, and Reduce](https://codeburst.io/javascript-learn-to-chain-map-filter-and-reduce-acd2d0562cd4)
 
 ---
 

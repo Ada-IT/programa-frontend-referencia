@@ -16,7 +16,8 @@ En este módulo aprenderás a trabajar con datos complejos y a estructurarlos pa
 
 ### ⭐️ Proyecto: Controlador de gastos
 
-En este proyecto vas a crear una aplicación que permita llevar un registro de los gastos realizados y de los ingresos obtenidos. Aplicarás lo aprendido para estructurar y almacenar la información compleja de tu aplicación, y desarrollarás funcionalidades que posibiliten manipularla y realizar operaciones esenciales a la hora de trabajar con datos
+En este proyecto vas a crear una aplicación que permita llevar un registro de los gastos realizados y de los ingresos obtenidos. Aplicarás lo aprendido para estructurar y almacenar la información compleja de tu aplicación, y desarrollarás funcionalidades que posibiliten manipularla y realizar operaciones esenciales a la hora de trabajar con datos.
+
 Para este proyecto trabajarás en equipo siguiendo prácticas que se utilizan profesionalmente para desarrollar colaborativamente
 
 ### 📚 Temas
@@ -43,7 +44,5 @@ Para este proyecto trabajarás en equipo siguiendo prácticas que se utilizan pr
 
 #### CSS
 
-- Preprocesadores
-- Variables
-- Bucles
-- Mixins
+- Frameworks CSS
+- Sistema de grillas

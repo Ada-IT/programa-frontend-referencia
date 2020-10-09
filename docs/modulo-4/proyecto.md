@@ -18,9 +18,9 @@ A diferencia del anterior, este proyecto tiene una cantidad de líneas de códig
 
 Si empezamos a probar y modificar cosas, sin tener muy en claro qué y por qué lo estamos haciendo, es probable que nos encontremos con caminos sin salida muy seguido, que el código se vuelva muy difícil de seguir y que tengamos que volver hacia atrás reiteradas veces.
 
-Para evitar esto, es recomendable ir haciendo las funcionalidades _una por una_. Al empezar una nueva funcionalidad, deberíamos crear una nueva `brach` y ponerle un nombre adecuado (por ejemplo, `puntaje`, `tiempo`, `dificultad`), en esa `branch` ocuparnos _única y exclusivamente_ de esa funcionalidad, y _una vez terminada_, mergearla a `master` y continuar con la siguiente funcionalidad, repetiendo el proceso.
+Para evitar esto, es recomendable ir haciendo las funcionalidades _una por una_. Al empezar una nueva funcionalidad, deberíamos crear una nueva `brach` y ponerle un nombre adecuado (por ejemplo, `puntaje`, `tiempo`, `dificultad`), en esa `branch` ocuparnos _única y exclusivamente_ de esa funcionalidad, y _una vez terminada_, mergearla a `main` y continuar con la siguiente funcionalidad, repetiendo el proceso.
 
-Si tenemos que mejorar o arreglar una funcionalidad ya agregada, deberíamos hacer una nueva branch para dicho fix o refactor, y nombrarla adecuadamente (por ejemplo, `refactorDificultad`, `fixPuntaje`, `fixSeleccionItems`), y una vez finalizada la mejora o correción, mergearla a `master`.
+Si tenemos que mejorar o arreglar una funcionalidad ya agregada, deberíamos hacer una nueva branch para dicho fix o refactor, y nombrarla adecuadamente (por ejemplo, `refactor-dificultad`, `fix-puntaje`, `fix-seleccion-items`), y una vez finalizada la mejora o correción, mergearla a `main`.
 
 ## 👍 Criterios de aceptación
 
@@ -32,7 +32,7 @@ Los requisitos mínimos para que el proyecto sea considerado para la entrega son
 - Debe cumplir con las funcionalidades _principales_ listadas en la sección siguiente
 - Debe hacer uso de la librería [SweetAlert](https://sweetalert.js.org/) para los modales
 - Debe estar deployado y ser accesible desde una dirección web
-- **No se debe trabajar en la rama `master`**. En `master` sólo van a mergearse las demás ramas, por lo que cada `commit` de `master` debería ser el `merge` de una `branch` de una funcionalidad _terminada_
+- **No se debe trabajar en la rama `main`**. En `main` sólo van a mergearse las demás ramas, por lo que cada `commit` de `main` debería ser el `merge` de una `branch` de una funcionalidad _terminada_
 
 ## 🎛 Funcionalidades principales
 

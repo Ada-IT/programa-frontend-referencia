@@ -6,7 +6,8 @@ sidebar_label: 34) Componentes
 
 ### 🏁 Objetivos
 
-- Que puedas utilizar lo aprendido hasta ahora para realizar algunos componentes
+- Que puedas poner en práctica lo aprendido hasta el momento
+- Que realices algunos componentes con los conocimientos adquiridos
 
 ---
 

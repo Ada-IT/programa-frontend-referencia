@@ -1,7 +1,7 @@
 ---
-id: clase-61
+id: clase-55
 title: 'Git: Pull Request'
-sidebar_label: 61) Pull Request
+sidebar_label: 55) Pull Request
 ---
 
 ### 🏁 Objetivos
@@ -15,9 +15,10 @@ sidebar_label: 61) Pull Request
 ### 📝 Contenidos
 
 - Cómo hacer un Pull Requests
-- Code reviews
 - Aceptando y cancelando Pull Requests
 - Trabajando con Pull Requests
+- Code reviews
+- Cómo dar buen feedback
 
 ---
 
