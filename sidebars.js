@@ -92,6 +92,7 @@ module.exports = {
       ],
       'Módulo 5 - Estructuras de datos': [
         'modulo-5/introduccion',
+        'modulo-5/proyecto',
         {
           '👩‍💻 Clases': [
             'modulo-5/clase-55',
