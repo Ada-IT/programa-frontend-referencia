@@ -25,6 +25,6 @@ sidebar_label: 06) Layout
 
 📆 Fecha
 
-📹 Grabación
+📹 [Grabación](https://us02web.zoom.us/rec/share/Z-j0Un92M8KuVki7s1aMa8DK-MKnskRtehNqVmLihgK-9oMO5o1550lkjF8S1kZl.3mD_wtQK1mhPbWXR)
 
 💪 Ejercitación
