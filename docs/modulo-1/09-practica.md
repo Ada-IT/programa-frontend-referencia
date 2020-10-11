@@ -13,7 +13,7 @@ sidebar_label: 09) Práctica
 
 ### 🚀 Recursos de la clase
 
-📆 Fecha
+📆 06/10/2020
 
 📹 [Grabación](https://us02web.zoom.us/rec/share/EG5iZGM_FIEQ2jZyP9iax8FbXCriuoFdC0vUiSohDm-Syxf6BV9y313NzvV5xJeQ.mFcFJ-1LeuMvYZa6)
 
