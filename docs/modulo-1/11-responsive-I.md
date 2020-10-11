@@ -27,9 +27,9 @@ sidebar_label: 11) Diseño Responsivo I
 
 ### 🚀 Recursos de la clase
 
-📆 Fecha
+📆 10/10/2020
 
-📹 Grabación
+📹 [Grabación](https://us02web.zoom.us/rec/share/wcTO7rL7w_Zu8MvXbWxRCt7TNAK4rR3W5cGWzV87mQ09upYxYlYAk34dw7OZTbcq.LgRQe9NSET1moZov)
 
 👩‍💻 Código
 
