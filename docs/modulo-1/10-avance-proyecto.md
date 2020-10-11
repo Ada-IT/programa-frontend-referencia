@@ -14,8 +14,8 @@ sidebar_label: 10) Avanzando el Proyecto
 
 ### 🚀 Recursos de la clase
 
-📆 Fecha
+📆 08/10/2020
 
-📹 Grabación
+📹 [Grabación](https://us02web.zoom.us/rec/share/7Dwku4GwQ1gfL6MXM6GIdP5uWO51KaHENodaU9AcFSicntyZUBJwV-wkFALm_vzf.TQnhD-5fHhv22pQx)
 
 👩‍💻 Código
