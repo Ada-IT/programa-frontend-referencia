@@ -29,7 +29,7 @@ sidebar_label: 11) Diseño Responsivo I
 
 📆 10/10/2020
 
-📹 [Grabación](https://us02web.zoom.us/rec/share/wcTO7rL7w_Zu8MvXbWxRCt7TNAK4rR3W5cGWzV87mQ09upYxYlYAk34dw7OZTbcq.LgRQe9NSET1moZov)
+📹 [Grabación](https://us02web.zoom.us/rec/share/3xdVEdH8nxPPzmV9Of1C9sruuyxK0HtbrMJ08_EUlbQrtOK2rRNLrXnbtvSv0WrV.1Z1etvwjemyhYzrQ)
 
 👩‍💻 Código
 
