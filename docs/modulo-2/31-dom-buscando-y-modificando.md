@@ -1,7 +1,7 @@
 ---
 id: clase-31
-title: DOM - Buscando y modificando elementos
-sidebar_label: 31) Modificando elementos
+title: Introducción al DOM
+sidebar_label: 31) Introducción al DOM
 ---
 
 ### 🏁 Objetivos
