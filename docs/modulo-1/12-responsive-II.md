@@ -26,7 +26,7 @@ sidebar_label: 12) Diseño Responsivo II
 
 📆 Fecha
 
-📹 Grabación
+📹 [Grabación](https://us02web.zoom.us/rec/share/c94yBczwE3RORMl6glhSghNgc0UZz1zshnu5lJxDyF54NlJT5C3V-m0gJBZ1sKqs.JqW1uhGHv2069XfY)
 
 👩‍💻 Código
 
