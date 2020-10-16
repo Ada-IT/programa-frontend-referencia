@@ -1,7 +1,7 @@
 ---
 id: clase-59
-title: 'Introducción a Sass'
-sidebar_label: '59) Introducción a Sass'
+title: 'CSS Frameworks: Componentes'
+sidebar_label: '59) CSS Frameworks: Componentes'
 ---
 
 ### 🏁 Objetivos
