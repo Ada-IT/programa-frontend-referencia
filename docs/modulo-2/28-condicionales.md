@@ -6,7 +6,7 @@ sidebar_label: 28) Condicionales
 
 ### 🏁 Objetivos
 
-- Que comprendas el concepto de flujo de ejecuci´ón
+- Que comprendas el concepto de flujo de ejecución
 - Que te introduzcas a los condicionales y entiendas su funcionamiento y usos
 - Que puedas comparar valores y realizar operaciones en base a ello
 
