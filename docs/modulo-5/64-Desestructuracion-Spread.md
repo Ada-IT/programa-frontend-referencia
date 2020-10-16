@@ -6,7 +6,7 @@ sidebar_label: 64) Desestructuración y operador spread
 
 ### 🏁 Objetivos
 
-- Que puedas usar la desestructuraci´ón y el operador spread con arrays y objetos
+- Que puedas usar la desestructuración y el operador spread con arrays y objetos
 - Que comprendas la diferencia entre pasar por valor y por referencia
 - Que comprendas la diferencia entre _shallow copy_ y _deep copy_
 - Que comprendas el concepto de inmutabilidad y su importancia
