@@ -59,5 +59,3 @@ _En inglés_
 - [The Practical Usages of JavaScript Spread Operator](https://www.javascripttutorial.net/es6/javascript-spread/)
 
 - [The Ultimate Guide to JavaScript Rest Parameters](https://www.javascripttutorial.net/es6/javascript-rest-parameters/)
-
-### 🔍 Para seguir investigando
