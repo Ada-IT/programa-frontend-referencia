@@ -16,6 +16,6 @@ sidebar_label: 13) Práctica
 
 📆 Fecha
 
-📹 Grabación
+📹 [Grabación](https://us02web.zoom.us/rec/share/Ze3Ei7Ki4JMYoNy0e1KZPgYVo8SgbymSehn6-hhNHjce2kohCRDSO4M5QB4digI.ldCjTFfayNpiSDCb)
 
 👩‍💻 Código
