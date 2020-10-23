@@ -44,9 +44,9 @@ sidebar_label: 14) Formularios
 
 ### 🚀 Recursos de la clase
 
-📆 Fecha
+📆 17/10/2020
 
-📹 Grabación
+📹 [Grabación](https://us02web.zoom.us/rec/share/7d3N9VHWO8LWsawuQBzRCNoC8wwhYBWvrFsCBSKwXmCS2mP10-BF_75bABZl66g.wYq4PeqxgM4CDdgt)
 
 👩‍💻 Código
 
