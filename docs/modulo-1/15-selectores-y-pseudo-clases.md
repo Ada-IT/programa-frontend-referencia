@@ -46,7 +46,7 @@ sidebar_label: 15) Selectores avanzados y Pseudo clases
 
 📆 Fecha
 
-📹 [Grabación](https://us02web.zoom.us/rec/share/UAcVrje5OELQgOcsnvxOfx0jTs830n6LccF9ekDIr-dYdamDwkDuLA0EgNZl83aJ.kBFGwwfhC7VSq2Gk)
+📹 [Grabación](https://us02web.zoom.us/rec/share/4TzuFyVwX00gsb42P1x_RYWqUkYUO_J6eRQHY6wW7ILzkpFJMV_pAM099bH90XRV.eEsMyAozzB-q39oV)
 
 👩‍💻 Código
 
