@@ -46,7 +46,7 @@ sidebar_label: 14) Formularios
 
 📆 17/10/2020
 
-📹 [Grabación](https://us02web.zoom.us/rec/share/7d3N9VHWO8LWsawuQBzRCNoC8wwhYBWvrFsCBSKwXmCS2mP10-BF_75bABZl66g.wYq4PeqxgM4CDdgt)
+📹 [Grabación](https://us02web.zoom.us/rec/play/-_-drk9u1PalLqIa6rWowsZ_cgJesekQ6YJ_KgdR3vVc-TmjX_yo_JD1vlznUjkDNVLtxr3TCtTW5bw.37V_aNxkwBVYEG-5?continueMode=true)
 
 👩‍💻 Código
 
