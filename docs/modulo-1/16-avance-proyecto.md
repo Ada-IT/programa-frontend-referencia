@@ -16,6 +16,6 @@ sidebar_label: 16) Avanzando el Proyecto
 
 📆 Fecha
 
-📹 Grabación
+📹 [Grabación](https://us02web.zoom.us/rec/share/tbUxuUZcrlH47xlE14-GAfXVSavJQKWB5EDAkHlCph9ZjE8KixnISTGPKsANmBc.Os3Py_M6Twk_Tlsx)
 
 👩‍💻 Código
