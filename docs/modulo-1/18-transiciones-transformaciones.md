@@ -41,7 +41,7 @@ sidebar_label: 18) Transiciones y transformaciones
 
 📆 Fecha
 
-📹 Grabación
+📹 [Grabación](https://us02web.zoom.us/rec/share/RgoWm_ZrNAuKMrk5wJ11ikEXUV9lAQeULCU8MDHnyQZThoec0t_ggnv0rp43mnO9.4MbyOIMuerOuAdVq)
 
 👩‍💻 Código
 
