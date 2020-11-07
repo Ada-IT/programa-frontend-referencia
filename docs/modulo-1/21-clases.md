@@ -32,7 +32,7 @@ sidebar_label: 21) Clases
 
 📆 Fecha
 
-📹 Grabación
+📹 [Grabación](https://us02web.zoom.us/rec/share/4CbWf-qZpAst0qTrAijo-cdASpNy1y-JW7tqMk6u3US_t8Bnn4x8ZQXX017hqNGT.NIfN0nlqZWw3sxN3)
 
 👩‍💻 Código
 
