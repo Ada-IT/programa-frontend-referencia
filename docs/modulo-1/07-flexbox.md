@@ -31,7 +31,7 @@ sidebar_label: 07) Flexbox
 
 📆 Fecha
 
-📹 [Grabación](https://us02web.zoom.us/rec/share/p3cFKREKNMVrXORb2Ic_HjAyjEUHBGb0q9GDphckuoMicxByz6bB9Tgr883X5a3i._ot1NPDkhkf61mSJ)
+📹 Grabación
 
 👩‍💻 Código
 

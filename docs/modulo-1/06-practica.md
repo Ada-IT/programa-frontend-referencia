@@ -1,7 +1,7 @@
 ---
-id: clase-10
-title: Avanzando el Proyecto
-sidebar_label: 10) Avanzando el Proyecto
+id: clase-06
+title: Práctica CSS
+sidebar_label: 06) Práctica CSS
 ---
 
 ### 🏁 Objetivos
@@ -14,8 +14,8 @@ sidebar_label: 10) Avanzando el Proyecto
 
 ### 🚀 Recursos de la clase
 
-📆 08/10/2020
+📆 Fecha
 
-📹 [Grabación](https://us02web.zoom.us/rec/share/7Dwku4GwQ1gfL6MXM6GIdP5uWO51KaHENodaU9AcFSicntyZUBJwV-wkFALm_vzf.TQnhD-5fHhv22pQx)
+📹 Grabación
 
 👩‍💻 Código

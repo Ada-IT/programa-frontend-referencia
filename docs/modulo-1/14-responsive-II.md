@@ -1,7 +1,7 @@
 ---
-id: clase-12
+id: clase-14
 title: Diseño Responsivo II
-sidebar_label: 12) Diseño Responsivo II
+sidebar_label: 14) Diseño Responsivo II
 ---
 
 ### 🏁 Objetivos
@@ -26,7 +26,7 @@ sidebar_label: 12) Diseño Responsivo II
 
 📆 Fecha
 
-📹 [Grabación](https://us02web.zoom.us/rec/share/c94yBczwE3RORMl6glhSghNgc0UZz1zshnu5lJxDyF54NlJT5C3V-m0gJBZ1sKqs.JqW1uhGHv2069XfY)
+📹 Grabación
 
 👩‍💻 Código
 

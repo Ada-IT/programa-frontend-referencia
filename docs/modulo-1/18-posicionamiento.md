@@ -1,7 +1,7 @@
 ---
-id: clase-17
+id: clase-18
 title: Posicionamiento
-sidebar_label: 17) Posicionamiento
+sidebar_label: 18) Posicionamiento
 ---
 
 ### 🏁 Objetivos
@@ -45,7 +45,7 @@ sidebar_label: 17) Posicionamiento
 
 📆 Fecha
 
-📹 [Grabación](https://us02web.zoom.us/rec/share/ydD46GiQsr1-fNz8e2KOwkCEPsXUqLvmVgDEC7_vUkkzsUw2MlWIXGhraD4h9xSo.1GqD8oR9fWrxRRpL)
+📹 Grabación
 
 👩‍💻 Código
 

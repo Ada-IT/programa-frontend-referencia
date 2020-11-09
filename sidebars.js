@@ -8,11 +8,9 @@ module.exports = {
         'modulo-1/instrucciones-ejercicios',
         {
           '👩‍💻 Clases': [
-            'modulo-1/clase-00',
             'modulo-1/clase-01',
             'modulo-1/clase-02',
             'modulo-1/clase-03',
-            'modulo-1/clase-03b',
             'modulo-1/clase-04',
             'modulo-1/clase-05',
             'modulo-1/clase-06',

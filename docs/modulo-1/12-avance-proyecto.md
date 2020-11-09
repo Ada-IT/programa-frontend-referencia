@@ -1,7 +1,7 @@
 ---
-id: clase-16
+id: clase-12
 title: Avanzando el Proyecto
-sidebar_label: 16) Avanzando el Proyecto
+sidebar_label: 12) Avanzando el Proyecto
 ---
 
 ### 🏁 Objetivos
@@ -16,6 +16,6 @@ sidebar_label: 16) Avanzando el Proyecto
 
 📆 Fecha
 
-📹 [Grabación](https://us02web.zoom.us/rec/share/tbUxuUZcrlH47xlE14-GAfXVSavJQKWB5EDAkHlCph9ZjE8KixnISTGPKsANmBc.Os3Py_M6Twk_Tlsx)
+📹 Grabación
 
 👩‍💻 Código

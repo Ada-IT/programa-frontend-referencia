@@ -1,7 +1,7 @@
 ---
-id: clase-09
-title: Práctica Flexbox y Modelo de Caja
-sidebar_label: 09) Práctica
+id: clase-11
+title: Práctica Git
+sidebar_label: 11) Práctica Git
 ---
 
 ### 🏁 Objetivos

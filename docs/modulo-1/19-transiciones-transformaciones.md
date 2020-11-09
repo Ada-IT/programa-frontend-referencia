@@ -1,7 +1,7 @@
 ---
-id: clase-18
+id: clase-19
 title: Transiciones y transformaciones
-sidebar_label: 18) Transiciones y transformaciones
+sidebar_label: 19) Transiciones y transformaciones
 ---
 
 ### 🏁 Objetivos
@@ -41,7 +41,7 @@ sidebar_label: 18) Transiciones y transformaciones
 
 📆 Fecha
 
-📹 [Grabación](https://us02web.zoom.us/rec/share/RgoWm_ZrNAuKMrk5wJ11ikEXUV9lAQeULCU8MDHnyQZThoec0t_ggnv0rp43mnO9.4MbyOIMuerOuAdVq)
+📹 Grabación
 
 👩‍💻 Código
 

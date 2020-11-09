@@ -1,7 +1,7 @@
 ---
-id: clase-20
-title: Avanzando el Proyecto
-sidebar_label: 20) Avanzando el Proyecto
+id: clase-15
+title: Práctica Responsive
+sidebar_label: 15) Práctica Responsive
 ---
 
 ### 🏁 Objetivos
@@ -16,6 +16,6 @@ sidebar_label: 20) Avanzando el Proyecto
 
 📆 Fecha
 
-📹 [Grabación](https://us02web.zoom.us/rec/share/0ynnlvKIbsQpYqVHUAMlIZ2jaLIrS34wFS13ofSCHwd8MySzc9PsqrIipowdhdxM.2IVQYGtH2uBYdfWB)
+📹 Grabación
 
 👩‍💻 Código

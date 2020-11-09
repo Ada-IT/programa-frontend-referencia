@@ -1,7 +1,7 @@
 ---
-id: clase-02
+id: clase-04
 title: Introducción a CSS
-sidebar_label: 02) Introducción a CSS
+sidebar_label: 04) Introducción a CSS
 ---
 
 ### 🏁 Objetivos
@@ -53,9 +53,9 @@ sidebar_label: 02) Introducción a CSS
 
 ### 🚀 Recursos de la clase
 
-📆 19/09/2020
+📆 Fecha
 
-📹 [Grabación](https://us02web.zoom.us/rec/share/As50AKM-DS8jj60jmUS8YWm4_eFSN5eFP64tf_Je5UbHP2gPy4KCvOJOP8py8PvV.upLfmk5dLgzbPbaJ)
+📹 Grabación
 
 👩‍💻 Código
 

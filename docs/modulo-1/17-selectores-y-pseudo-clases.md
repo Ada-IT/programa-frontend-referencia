@@ -1,7 +1,7 @@
 ---
-id: clase-15
+id: clase-17
 title: Selectores avanzados y Pseudo clases
-sidebar_label: 15) Selectores avanzados y Pseudo clases
+sidebar_label: 17) Selectores avanzados y Pseudo clases
 ---
 
 ### 🏁 Objetivos
@@ -46,10 +46,7 @@ sidebar_label: 15) Selectores avanzados y Pseudo clases
 
 📆 Fecha
 
-📹 [Grabación](https://drive.google.com/drive/folders/1oeyJ9XimAWpq1Kyqj8ArTHCCVIe3LESw?usp=sharing)
-
-📹 [Grabación2](https://us02web.zoom.us/rec/share/eOVjVwecr9alhO1UnL5RmW3uye36GPCVq6Ipuqn8uV2wEggs4ssFwY28Xm0pGlyA.V1YOZJCuLEYxWs7V)
-
+📹 Grabación
 
 👩‍💻 Código
 

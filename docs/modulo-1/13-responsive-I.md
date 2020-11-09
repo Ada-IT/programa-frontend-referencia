@@ -1,7 +1,7 @@
 ---
-id: clase-11
+id: clase-13
 title: Diseño Responsivo I
-sidebar_label: 11) Diseño Responsivo I
+sidebar_label: 13) Diseño Responsivo I
 ---
 
 ### 🏁 Objetivos
@@ -27,9 +27,9 @@ sidebar_label: 11) Diseño Responsivo I
 
 ### 🚀 Recursos de la clase
 
-📆 10/10/2020
+📆 Fecha
 
-📹 [Grabación](https://us02web.zoom.us/rec/share/3xdVEdH8nxPPzmV9Of1C9sruuyxK0HtbrMJ08_EUlbQrtOK2rRNLrXnbtvSv0WrV.1Z1etvwjemyhYzrQ)
+📹 Grabación
 
 👩‍💻 Código
 

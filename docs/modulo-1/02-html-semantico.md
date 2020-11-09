@@ -1,7 +1,7 @@
 ---
-id: clase-03
+id: clase-02
 title: HTML Semántico
-sidebar_label: 03-I) HTML Semántico
+sidebar_label: 02) HTML Semántico
 ---
 
 ### 🏁 Objetivos
@@ -54,9 +54,9 @@ sidebar_label: 03-I) HTML Semántico
 
 ### 🚀 Recursos de la clase
 
-📆 22/09/2020
+📆 Fecha
 
-📹 [Grabación](https://us02web.zoom.us/rec/share/AAJfVMrjbyxd9tNjMJK0Id42vfkk7pJ_RAe9r-TxuZ8qk-ZI9sc41uG4mSID-4o8.eX5Qe0_UzGbmp7qB)
+📹 Grabación
 
 👩‍💻 Código
 

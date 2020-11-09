@@ -1,7 +1,7 @@
 ---
-id: clase-19
+id: clase-20
 title: Práctica
-sidebar_label: 19) Práctica
+sidebar_label: 20) Práctica
 ---
 
 ### 🏁 Objetivos
@@ -16,6 +16,6 @@ sidebar_label: 19) Práctica
 
 📆 Fecha
 
-📹 [Grabación](https://us02web.zoom.us/rec/share/ydD46GiQsr1-fNz8e2KOwkCEPsXUqLvmVgDEC7_vUkkzsUw2MlWIXGhraD4h9xSo.1GqD8oR9fWrxRRpL)
+📹 Grabación
 
 👩‍💻 Código

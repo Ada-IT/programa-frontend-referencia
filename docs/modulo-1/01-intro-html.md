@@ -35,6 +35,7 @@ sidebar_label: 01) Introducción a HTML
   - `ul`
   - `ol`
   - `li`
+  - `div`
 - Importancia de la semántica
 - Anidado de etiquetas
 - Rutas relativas y absolutas
@@ -46,9 +47,9 @@ sidebar_label: 01) Introducción a HTML
 
 ### 🚀 Recursos de la clase
 
-📆 17-09-2020
+📆 Fecha
 
-📹 [Grabación](https://us02web.zoom.us/rec/play/0M-3zBItKVv_dMPoUAUZW_qZGpAWeoo-HHvO828RpbMTGeoGj0a1zutrqvLuTzmABc4Q5-gE6ReUMQYC.qyS1dHZyDgm-LOR4?autoplay=true&continueMode=true&startTime=1600380529000)
+📹 Grabación
 
 👩‍💻 Código
 

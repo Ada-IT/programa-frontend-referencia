@@ -1,7 +1,7 @@
 ---
-id: clase-09
-title: Práctica Flexbox y Modelo de Caja
-sidebar_label: 09) Práctica
+id: clase-03
+title: Práctica HTML
+sidebar_label: 03) Práctica HTML
 ---
 
 ### 🏁 Objetivos

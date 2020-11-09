@@ -1,7 +1,7 @@
 ---
-id: clase-14
+id: clase-16
 title: Formularios
-sidebar_label: 14) Formularios
+sidebar_label: 16) Formularios
 ---
 
 ### 🏁 Objetivos
@@ -44,9 +44,9 @@ sidebar_label: 14) Formularios
 
 ### 🚀 Recursos de la clase
 
-📆 17/10/2020
+📆 Fecha
 
-📹 [Grabación](https://us02web.zoom.us/rec/play/-_-drk9u1PalLqIa6rWowsZ_cgJesekQ6YJ_KgdR3vVc-TmjX_yo_JD1vlznUjkDNVLtxr3TCtTW5bw.37V_aNxkwBVYEG-5?continueMode=true)
+📹 Grabación
 
 👩‍💻 Código
 

@@ -1,7 +1,7 @@
 ---
-id: clase-04
+id: clase-10
 title: Introducción a Git
-sidebar_label: 04) Introducción a Git
+sidebar_label: 10) Introducción a Git
 ---
 
 ### 🏁 Objetivos
@@ -36,9 +36,9 @@ sidebar_label: 04) Introducción a Git
 
 ### 🚀 Recursos de la clase
 
-📆 24/09/2020
+📆 Fecha
 
-📹 [Grabación](https://us02web.zoom.us/rec/share/YOShIlILJMb--TDJgHsJNi99TPOZyBfN-9IMVlRdeZvLOLe2aBDBSKoM-cJcctP9.4yeqLVqUEQcItIbp)
+📹 Grabación
 
 💪 [Ejercitación](https://github.com/Ada-IT/ejercicios-frontend/blob/master/modulo-1/ejercicios/03-introduccion-a-git.md)
 
