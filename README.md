@@ -55,6 +55,8 @@ Consigna de actividad
 
 En caso de no estar editándolo desde la página de Github y haber descargado el repo, es necesario commitear los cambios y hacer un push a master para que se haga el deploy.
 
+- **No agregar links vacíos ni separadados, por ejemplo `[Mi link]()` o `[Mi link] (www.milink.com)` porque rompe el deploy**
+
 ## 📝 Para editar archivos de la clase
 
 - Son los mismos pasos que para agregar el vídeo
@@ -82,3 +84,4 @@ sidebar_label: Proyecto
 
 - Agregar el archivo a la barra lateral, en el archivo de configuración `sidebars.js`, usando como referencia el id (si está dentro de una carpeta, hay que poner la ruta de la carpeta)
 - Ver ejemplo en el mismo archivo o en la documentación de Docusaurus al respecto
+- **Si tiltle o sidebar_label tiene dos puntos, tiene que ir entre comillas, sino rompe el deploy**
