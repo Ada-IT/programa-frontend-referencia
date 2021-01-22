@@ -1,0 +1,44 @@
+---
+id: clase-118
+title: 'Routing'
+sidebar_label: '118) Routing'
+---
+
+### 🏁 Objetivos
+
+- Que comprendas el concepto de _Single Page Application_
+- Que te introduzcas al manejo de rutas
+
+---
+
+### 📝 Contenidos
+
+- Routing
+- Aplicaciones de página única (SPA)
+- `react-router-dom`
+- `Router`, `Route`, `Switch`, `Link`
+- `exact` prop
+- Parámetros de Ruta
+- `useParams`
+
+---
+
+### 🚀 Recursos de la clase
+
+📆 Fecha
+
+📹 Grabación
+
+👩‍💻 Código
+
+💪 Ejercitación
+
+---
+
+### 📚 Material de lectura
+
+_En inglés_
+
+---
+
+### 🔍 Para seguir investigando
