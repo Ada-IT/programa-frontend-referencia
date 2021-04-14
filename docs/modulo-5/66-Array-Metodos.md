@@ -28,7 +28,7 @@ sidebar_label: 66) Métodos de Array
 
 👩‍💻 Código
 
-💪 Ejercitación
+💪 [Ejercitación](https://github.com/Ada-IT/ejercicios-frontend/blob/master/modulo-5/ejercicios/Metodos%20de%20Arrays.md)
 
 ---
 
