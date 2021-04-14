@@ -33,7 +33,7 @@ sidebar_label: 62) Objetos I
 
 👩‍💻 Código
 
-💪 Ejercitación
+💪 [Ejercitación](https://github.com/Ada-IT/ejercicios-frontend/blob/master/modulo-5/ejercicios/objetos.md#segunda-parte---objetos-dinamicos)
 
 ---
 
