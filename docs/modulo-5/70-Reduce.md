@@ -27,7 +27,7 @@ sidebar_label: 70) Reduce
 
 👩‍💻 Código
 
-💪 Ejercitación
+💪 [Ejercitación](https://github.com/Ada-IT/ejercicios-frontend/blob/master/modulo-5/ejercicios/ejercicios%20Reduce.md)
 
 ---
 
