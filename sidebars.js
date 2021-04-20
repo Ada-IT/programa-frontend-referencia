@@ -163,6 +163,7 @@ module.exports = {
       ],
       'Módulo 8 - Aplicaciones de página única': [
         'modulo-8/introduccion',
+        'modulo-8/proyecto',
         {
           '👩‍💻 Clases': [
             'modulo-8/clase-106',
