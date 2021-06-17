@@ -33,6 +33,6 @@ sidebar_label: '94) useState'
 
 👩‍💻 Código
 
-💪 Ejercitación
+💪 [Ejercitación](https://github.com/Ada-IT/ejercicios-frontend/tree/master/modulo-7)
 
 ---
