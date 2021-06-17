@@ -31,7 +31,7 @@ sidebar_label: '118) Routing'
 
 👩‍💻 Código
 
-💪 Ejercitación
+💪 [Ejercitación](https://github.com/Ada-IT/ejercicios-frontend/tree/master/modulo-8)
 
 ---
 
