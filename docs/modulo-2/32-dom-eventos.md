@@ -40,7 +40,7 @@ sidebar_label: 32) Eventos
 
 👩‍💻 Código
 
-💪 [Ejercitación](https://github.com/Ada-IT/ejercicios-frontend/blob/master/modulo-2/ejercicios/18-dom-eventos.md)
+💪 [Ejercitación](https://mumuki.io/frontend.ada/lessons/864-manejo-de-dom-eventos)
 
 ---
 
