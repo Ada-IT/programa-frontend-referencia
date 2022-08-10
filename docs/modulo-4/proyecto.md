@@ -1,106 +1,107 @@
 ---
 id: proyecto
-title: 'MatcheADAs'
-sidebar_label: 🍒 Proyecto - MatcheADAs
+title: 'Buscador de Cómics'
+sidebar_label: 🦸‍♀️ Proyecto - Buscador de Cómics
 ---
 
 ## ⚙️ Consigna
 
-En este proyecto vas a desarrollar un juego de navegador conocido como match-3. Construirás una grilla, implementarás animaciones para dar feedback de las interacciones, controlarás el input de quien juegue, aplicarás la lógica del juego y agregarás funcionalidades como un sistema de puntuación de dificultad para crear una experiencia totalmente interactiva. Para hacerlo, utilizarás un flujo de trabajo que te permitirá ir complejizando el código de manera gradual, pudiendo trabajar en varias funcionalidades por separado sin que estas afecten el resto de tu código.
+En este proyecto vas a crear una aplicación que permita listar cómics y personajes de comics, y obtener información sobre los mismos. Para eso utilizarás una API REST con datos reales, realizarás consultas a la misma pasándole distintos parámetros que permitan personalizar la búsqueda y mostrarás los datos obtenidos como respuesta.
 
 ## 👀 Ejemplo
 
-Puedes ver un ejemplo funcional del proyecto siguiendo [este link](https://frontend-proyecto-matcheadas.adaitw.org).
-
-## 💬 Comentarios
-
-A diferencia del anterior, este proyecto tiene una cantidad de líneas de código mucho más reducida. El diseño no es complicado, no tenemos mucho que maquetar ni demasiados elementos que estilar o manipular. La dificultad consiste en que tiene una lógica más compleja, que requiere ser pensada y analizada de antemano con más cuidado y detalle que en los proyectos anteriores.
-
-Si empezamos a probar y modificar cosas, sin tener muy en claro qué y por qué lo estamos haciendo, es probable que nos encontremos con caminos sin salida muy seguido, que el código se vuelva muy difícil de seguir y que tengamos que volver hacia atrás reiteradas veces.
-
-Para evitar esto, es recomendable ir haciendo las funcionalidades _una por una_. Al empezar una nueva funcionalidad, deberíamos crear una nueva `brach` y ponerle un nombre adecuado (por ejemplo, `puntaje`, `tiempo`, `dificultad`), en esa `branch` ocuparnos _única y exclusivamente_ de esa funcionalidad, y _una vez terminada_, mergearla a `main` y continuar con la siguiente funcionalidad, repetiendo el proceso.
-
-Si tenemos que mejorar o arreglar una funcionalidad ya agregada, deberíamos hacer una nueva branch para dicho fix o refactor, y nombrarla adecuadamente (por ejemplo, `refactor-dificultad`, `fix-puntaje`, `fix-seleccion-items`), y una vez finalizada la mejora o correción, mergearla a `main`.
+Puedes ver un ejemplo funcional del proyecto siguiendo [este link](https://frontend-proyecto-comics.adaitw.org/).
 
 ## 👍 Criterios de aceptación
 
 Los requisitos mínimos para que el proyecto sea considerado para la entrega son:
 
-- Debe respetar el diseño general dado. Pueden modificarse a gusto colores, fondo, fuentes, íconos y temática (en vez de frutas, usar otros emojis, íconos u imágenes)
-- Debe respetar las interacciones y flujo de modales del ejemplo
+- Debe respetar el diseño general dado. Pueden modificarse a gusto colores, fondo, fuentes e íconos
 - Debe ser responsive
 - Debe cumplir con las funcionalidades _principales_ listadas en la sección siguiente
-- Debe hacer uso de la librería [SweetAlert](https://sweetalert.js.org/) para los modales
+- Debe hacer hacer uso de un preprocesador CSS
 - Debe estar deployado y ser accesible desde una dirección web
 - **No se debe trabajar en la rama `main`**. En `main` sólo van a mergearse las demás ramas, por lo que cada `commit` de `main` debería ser el `merge` de una `branch` de una funcionalidad _terminada_
+- **Cada funcionalidad que se agregue debe hacerse mediante un PR (Pull Request)**
 
 ## 🎛 Funcionalidades principales
 
-1. Debe generar una grilla
-2. Debe llenar la grilla con ítems aleatorios
-3. Debe seleccionarse un ítem al hacer click en él
-4. Al clickear un nuevo ítem, si este no se encuentra adyacente al seleccionado, debe seleccionarse el nuevo ítem cleado
-5. Al clickear un nuevo ítem, si este no encuentra adyacente al seleccionado, debe intercambiar las posiciones de ambos ítems
-6. Debe eliminar grupos horizontales
-   1. **Debe chequear si hay grupos horizontales**. 3 o más ítems iguales en fila
-   2. Debe eliminar los ítem en grupos horizontales
-   3. Debe hacer descender el bloque de ítems que quedó por encima del espacio dejado por los ítems eliminados
-   4. Debe rellenar el espacio vacío restante con ítems aleatorios
-   5. Debe repetir pasos del 6.a al 6.d hasta que no queden más grupos horizontales
-7. **Debe eliminar grupos horizontales**. 3 o más ítems iguales en columna
-8. **Debe generar un tablero sin grupos**. Al generar una nueva partida, el tablero no debería tener ning´¨ún presente
-9. **Debe volver los ítems a sus lugares originales si no hay grupos encontrados.** Al intercambiar dos ítems, si dicha operación no generó ningún grupo, deben intercambiarse nuevamente las posiciones de dichos ítems
-10. **Debe llevar la cuenta del puntaje**. Al eliminar ítems se suman puntos (100 por cada uno). Al comenzar una nueva partida se reinician los puntos
-11. **Las partidas deben tener una duración**. Cada partida debe durar 30 segundos, al terminar el tiempo debe aparecer un modal con un puntaje obtenido y preguntar si se quiere reiniciar o comenzar una nueva partida
-12. **Debe poderse reiniciar el juego**. Si se reinicia el juego, se debe comenzar un mismo juego en la misma dificultad (es decir, tamaño de grilla)
-13. **Debe contar con animaciones**. Al intercambiar, eliminar, aparecer y descender ítems
+- Se debe poder realizar una búsqueda de cómics
+  - Se debe poder realizar una búsqueda por título
+  - Se debe poder ordenar los resultados alfabéticamente y por fecha de lanzamiento, en orden ascendente y descendente
+- Se debe poder realizar una búsqueda de personajes de cómics
+  - Se debe poder realizar una búsqueda por nombre
+  - Se debe poder ordenar los resultados alfabéticamente, en orden ascendente y descendente
+- Se debe mostrar la información de un cómic (al clickear sobre el mismo)
+  - Portada
+  - Título
+  - Fecha de lanzamiento
+  - Guionistas
+  - Descripción
+  - Personajes incluidos
+- Se debe mostrar la información de un personaje (al clickear sobre el mismo)
+  - Imagen
+  - Nombre
+  - Descripción
+  - Cómics en los que aparece
+- Se debe mostrar el total de resultados en los casos en los que se listen cómics o personajes
+- Debe contar con un paginado
+  - Se debe mostrar 20 resultados por página
+  - Se debe poder ir a la primera página
+  - Se debe poder ir a la última página
+  - Se debe poder ir a la página siguiente
+  - Se debe poder ir a la página anterior
+  - Se deben deshabilitar los botones correspondientes cuando no puedan ser utilizados (por ejemplo, si se está en la última página, no se debe poder utilizar el botón de ir a la última página ni el de avanzar página)
 
-## 🚀 Funcionalidades avanzadas
+## 💪 Desafíos extra (opcionales)
 
-14. **Debe contar con combos**. Un combo es un grupo de ítems eliminados. Mientras siga habiendo grupos que se sigan eliminando luego de una jugada, el modificador de combos debe ir aumentando en 1. Cuando ya no se encuentran más combos (es decir, más grupos para eliminar), el modificador de combos debe volver a 1
-15. **Debe modificar puntaje en base al modificador de combos**. Cuando hay un modificador de combo x3 los puntos obtenidos se multiplican por ese modificador (en este caso, un ítem eliminado vale 300 puntos)
-16. **Debe poderse elegir la dificultad**. Debe tener 3 dificultades a elegir en cada nueva partida:
-
-- **Fácil:** grilla de 9x9
-- **Normal:** grilla de 8x8
-- **Difícil:** grilla de 7x7
-
-17. **Debe poder manejarse mediante el teclado**. Usando las `flechas` y las teclas `WASD` para desplazarse. Si se llega a un borde de la grilla debe continuar del otro lado. Las teclas `Espacio` y `Enter` actúan como el click, seleccionado y deseleccionando ítems. Cuando hay un ítem seleccionado, si se presiona una tecla de dirección (flechas o `WASD`), debe intercambiar dicho ítem con el ítem adyacente en la dirección seleccionada
-18. **Debe impedir interacciones durante las animaciones**. Cuando hay una animación en proceso no se debe poder seleccionar ni mover ítems
-19. **Debe impedir las interacciones cuando hay modales visibles**. Si hay un modal, no debería poderse interactuar con los ítems mediante el teclado
+- Agregar la cantidad de páginas y la p´agina actual en el paginado
+- Agregar la posibilidad de ir a una página espec´ífica (mediante un select)
+- Cuando se realiza una búsqueda de cómics o personajes, y luego se clickea en uno para ver los detalles, perdemos la búsqueda realizada y la página en la que estábamos. Agregar un botón que permita ir a la página exacta de la última búsqueda realizada.
+- Agregar modo oscuro
 
 ## 📝 Criterios de evaluación
 
 - **Menos de 6 (No aprobado)**
 - **6 (Aprobado)**
   - Respeta la consigna
-  - Estructura correcta de documento HTML
   - Respeta el diseño dado
   - Respeta el funcionamiento
   - Responsive funciona correctamente
 - **7 (Bueno)**
-  - Estilos limpios y bien estructurados
-  - Buena estructura de proyecto
+  - HTML semántico
   - Código bien indentado
-  - Uso correcto de etiquetas semánticas
-- **8 (Muy bueno)**
-  - Cumple con las funcionalidades avanzadas
   - Buenos nombres de clases
   - Buenos nombres de funciones y variables
-- **9 (Muy bueno)**
-  - Funciones pequeñas
+  - Uso de variables (SASS)
+- **8 (Muy bueno)**
+  - Buena estructura y separación de archivos (SASS)
+  - Correcto uso de estilos anidados (SASS)
   - Nombres de branchs adecuados
-  - Buen uso estructuras de datos (arrays, matrices y objetos)
-  - Buen uso de estructuras de control (condicionales y bucles)
-- **10 (Excelente)**
+- **9 (Muy bueno)**
+  - Componentización de estilos (SASS)
+  - Funciones pequeñas
   - Lógica clara y simple
+  - Separación clara de manejo de datos y visualización
+- **10 (Excelente)**
   - Reutilización de lógica / funciones
   - Commits con mensajes adecuados
+  - Un PR por funcionalidad, fix o mejora
+  - PRs con buenos títulos
 
-## 🧰 Recursos
+## 🧰 Marvel API
 
-- [SweetAlert](https://sweetalert.js.org/) - Librería para popups y modales
-- [Twemoji](https://twemoji.twitter.com/) - Librería que convierte caracteres de emoji en imágenes para mayor compatibilidad cross-browser
-- [FontAwesome](https://fontawesome.com/icons?d=gallery) - Íconos
-- [Pacifico](https://fonts.google.com/specimen/Pacifico) - Fuente
-- [Montserrat](https://fonts.google.com/specimen/Montserrat) - Fuente
+La API que vamos a utilizar para este proyecto es la de Marvel Cómics.
+
+- [Registro (Para obtener la API KEY)](https://developer.marvel.com/account)
+- [Información general](https://developer.marvel.com/documentation/generalinfo)
+- [Uso de imágenes](https://developer.marvel.com/documentation/images)
+- [Documentación](https://developer.marvel.com/docs)
+
+Una vez que nos registramos, tenemos que agregar los dominios desde los que vamos a estar utilizando la API en la sección de **Your authorized referrers**
+
+- Para trabajar de forma local, hay que agregar `127.0.0.1*` y `localhost`
+- Una vez que deployamos el proyecto, tenemos que agregar la URL, por ejemplo: `adacomics.netlify.com`
+- Para hacer pruebas en la documentación interactiva, tenemos que agregar `developer.marvel.com` (opcional)
+
+**_Para evitar problemas con CORS, se recomienda correr el proyecto usando la extensión Live Server de VSCode_**

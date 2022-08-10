@@ -1,48 +1,39 @@
 ---
 id: introduccion
-title: Módulo 5
+title: Módulo 7
 sidebar_label: 👉 Introducción
 ---
 
-## Estructuras de datos
+## React
 
 ### 📅 Duración
 
-6 semanas / 18 encuentros / 44 horas
+6 semanas / 18 encuentros / 54 horas
 
 ### 🏁 Objetivo
 
-En este módulo aprenderás a trabajar con datos complejos y a estructurarlos para poder manipularlos de forma más eficiente. Esto te permitirá ver cómo se manejan los datos en una aplicación real. Además verás técnicas para asegurar la coherencia interna de la información y evitar posibles discrepancias
+En este módulo te introducirás a React, una librería de JavaScript extremadamente popular y ampliamente utilizada en el ámbito profesional, que permite construir interfaces dinámicas e interactivas y aplicaciones web mediante un paradigma basado en componentes declarativos.
 
-### ⭐️ Proyecto: Controlador de gastos
-
-En este proyecto vas a crear una aplicación que permita llevar un registro de los gastos realizados y de los ingresos obtenidos. Aplicarás lo aprendido para estructurar y almacenar la información compleja de tu aplicación, y desarrollarás funcionalidades que posibiliten manipularla y realizar operaciones esenciales a la hora de trabajar con datos.
-
-Para este proyecto trabajarás en equipo siguiendo prácticas que se utilizan profesionalmente para desarrollar colaborativamente
+Vas a aprender por qué React es tan utilizado, en qué consiste su entorno de desarrollo y su ecosistema, cuáles son los beneficios que nos ofrece, cómo estructurar tu aplicación de React siguiendo las mejores prácticas y cómo definir e implementar componentes que puedan ser reutilizados en toda tu aplicación y por el resto del equipo.
 
 ### 📚 Temas
 
-#### Git
+#### React
 
-- Pull Request
-- Code reviews
-- Flujo de trabajo con Pull Requests
-
-#### Javascript
-
-- Conceptos de programación funcional
-- Pureza
-- Inmutabilidad
-- Métodos funcionales con arrays
-- Array de objetos
-- Operaciones ABM (Alta - Baja - Modificación)
-- Desestructuración
-- Spread
-- Operaciones inmutables con arrays y objetos
-- JSON
-- Local Storage
-
-#### CSS
-
-- Frameworks CSS
-- Sistema de grillas
+- Frameworks de JavaScript
+- Introducción a React
+- Entorno de desarrollo
+- NPM
+- JSX
+- Exportando e importando código
+- Componentes funcionales
+- Composición
+- Estilos
+- Módulos de CSS
+- Renderizado condicional
+- Manejo de estado
+- Hooks
+- Inputs
+- Eventos
+- Buenas prácticas
+- Herramientas de desarrollo del navegador.

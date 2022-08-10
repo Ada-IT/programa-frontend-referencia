@@ -1,41 +1,41 @@
 ---
 id: introduccion
-title: Módulo 4
+title: Módulo 6
 sidebar_label: 👉 Introducción
 ---
 
-## Estructuras de control
+## JavaScript asíncrono
 
 ### 📅 Duración
 
-4 semanas / 12 encuentros / 36 horas
+5 semanas / 15 encuentros / 45 horas
 
 ### 🏁 Objetivo
 
-En este módulo te introducirás a las estructuras de control, las cuales te permitirán dirigir el flujo de ejecución de tu aplicación. Con ellas podrás decidir qué acciones se realizarán a partir de ciertas condiciones, lo que te servirá para construir aplicaciones más complejas capaces de mostrar un amplio rango de comportamientos, y de ofrecerle a tus usuaries una experiencia más completa y funcionalidad que se ajusten mejor a sus necesidades.
+En este módulo verás cómo utilizar servicios externos mediante el uso de APIs, lo que te permitirá manipular y almacenar información de forma persistente comunicándote con un servidor, asegurándote que tu aplicación pueda acceder a los mismos datos desde cualquier dispositivo y lugar del mundo.
 
-### ⭐️ Proyecto: Juego MatcheADAs
+También aprenderás a usar un preprocesador de CSS, con el que podrás trabajar con estilos haciendo uso de técnicas más flexibles y potentes.
 
-En este proyecto vas a desarrollar un juego de navegador basado conocido como match-3. Construirás una grilla, implementarás transicioines para dar feedback de las interacciones, controlarás el input de quien juegue, aplicarás la lógica del juego, y agregarás funcionalidades como un sistema de puntuación y uno de dificultad, para crear una experiencia totalmente interactiva. Para hacerlo, utilizarás un flujo de trabajo que te permitirá ir complejizando el código de manera gradual, pudiendo trabajar en varias funcionalidades por separado sin que estas afecten el resto de tu código.
+### ⭐️ Proyecto: Buscador de Comics
+
+En este proyecto vas a crear una aplicación que permita listar cómics y personajes de comics, y obtener información sobre los mismos. Para eso utilizarás una API REST con datos reales, realizarás consultas a la misma pasándole distintos parámetros que permitan personalizar la búsqueda y mostrarás los datos obtenidos como respuesta.
 
 ### 📚 Temas
 
-#### Git
+#### Javascript
 
-- Ramas
-- Merge de ramas
-- Solucionando conflictos
+- Introducción a operaciones asincrónicas
+- Estructura de pedidos HTTP
+- Códigos de status
+- Métodos HTTP
+- APIs
+- Estructura de una API
+- Endpoints
+- JSON
 
-#### JavaScript
+#### CSS
 
-- Arrays
-- Objetos
-- Operadores lógicos
-- Circuito de evaluación
-- Condicionales avanzados
+- Preprocesadores
+- Variables
 - Bucles
-- Callbacks
-- Timers
-- Nodos
-- Buenas Prácticas
-- Refactorización
+- Mixins

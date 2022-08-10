@@ -1,41 +1,26 @@
 ---
 id: introduccion
-title: Módulo 6
+title: Módulo 8
 sidebar_label: 👉 Introducción
 ---
 
-## JavaScript asíncrono
+## Aplicaciones de página única
 
 ### 📅 Duración
 
-5 semanas / 15 encuentros / 45 horas
+6 semanas / 18 encuentros / 54 horas
 
 ### 🏁 Objetivo
 
-En este módulo verás cómo utilizar servicios externos mediante el uso de APIs, lo que te permitirá manipular y almacenar información de forma persistente comunicándote con un servidor, asegurándote que tu aplicación pueda acceder a los mismos datos desde cualquier dispositivo y lugar del mundo.
-
-También aprenderás a usar un preprocesador de CSS, con el que podrás trabajar con estilos haciendo uso de técnicas más flexibles y potentes.
-
-### ⭐️ Proyecto: Buscador de Comics
-
-En este proyecto vas a crear una aplicación que permita listar cómics y personajes de comics, y obtener información sobre los mismos. Para eso utilizarás una API REST con datos reales, realizarás consultas a la misma pasándole distintos parámetros que permitan personalizar la búsqueda y mostrarás los datos obtenidos como respuesta.
+En este módulo aprenderás a realizar una SPA, una aplicación de página única que pueda tener varias pantallas sin tener que cambiar la página del navegador. Para eso te introducirás a conceptos avanzados de React que te permitirán realizar aplicaciones más complejas, siguiendo las mejores prácticas y utilizando las últimas técnicas y herramientas.
 
 ### 📚 Temas
 
-#### Javascript
+#### React
 
-- Introducción a operaciones asincrónicas
-- Estructura de pedidos HTTP
-- Códigos de status
-- Métodos HTTP
-- APIs
-- Estructura de una API
-- Endpoints
-- JSON
-
-#### CSS
-
-- Preprocesadores
-- Variables
-- Bucles
-- Mixins
+- CSS-in-JS
+- Aplicaciones de página única
+- Ruteo
+- Context API
+- Efectos secundarios en React
+- Uso de APIs en React

@@ -1,107 +1,98 @@
 ---
 id: proyecto
-title: 'AhorrADAs'
-sidebar_label: 📈 Proyecto - AhorrADAs
+title: 'Todo List React'
+sidebar_label: 🎥 Proyecto - Todo List React
 ---
 
 ## ⚙️ Consigna
 
-En este proyecto vas a crear una aplicación que permita llevar un registro de los gastos realizados y de los ingresos obtenidos. Aplicarás lo aprendido para estructurar y almacenar la información compleja de tu aplicación, y desarrollarás funcionalidades que posibiliten manipularla y realizar operaciones esenciales a la hora de trabajar con datos.
+En este proyecto vas a crear una aplicación de React que permita hacer una lista de tareas,  marcar las tareas completadas ✔️ y poder eliminar 🗑  aquellas que ya no quieras o necesites, además de manipular localStorage.
 
-Para este proyecto trabajarás en equipo siguiendo prácticas que se utilizan profesionalmente para desarrollar colaborativamente
+Para este proyecto trabajarás en equipo siguiendo prácticas que se utilizan profesionalmente para desarrollar colaborativamente.
 
 ## 👀 Ejemplo
 
-Puedes ver un ejemplo funcional del proyecto siguiendo [este link](https://frontend-proyecto-ahorradas.adaitw.org).
+Puedes ver un ejemplo funcional del proyecto siguiendo [este link](https://ada-it.github.io/proyecto-todo-list-react/).
 
 ## 💬 Comentarios
 
-A este proyecto se le suma un nuevo grado de complejidad: tenemos que trabajar y operar con datos, y tenemos que mostrarlos y poder interactuar con ellos. No solo tenemos que maquetar las pantallas, sino que también debemos asegurarnos que todo el manejo del DOM funcione correctamente y de que los datos mantengan su consistencia entre operación y operaci´ón.
+A este proyecto se le suma un nuevo grado de complejidad, tenemos que trabajar diferentes secciones y componentes haciendo uso de useFetch y useEffect.
 
-Por eso, y de la misma forma que el proyecto anterior, es recomendable ir haciendo las funcionalidades _una por una_. Al empezar una nueva funcionalidad, deberíamos crear una nueva `brach` y ponerle un nombre adecuado (por ejemplo, `vista-balance`, `editar-categoria`, `filtros-busqueda`), en esa `branch` ocuparnos _única y exclusivamente_ de esa funcionalidad, y _una vez terminada_, mergearla a `main` y continuar con la siguiente funcionalidad, repetiendo el proceso.
+Por eso es recomendable ir haciendo las funcionalidades _una por una_. Al empezar una nueva funcionalidad deberíamos crear una nueva `brach` y ponerle un nombre adecuado (por ejemplo, `maqueta`, `agregar-tarea`, `eliminar-tarea`, `etc` ), en esa `branch` ocuparnos _única y exclusivamente_ de esa funcionalidad y _una vez terminada_ mergearla a `master` y continuar con la siguiente funcionalidad repetiendo el proceso.
 
-Si tenemos que mejorar o arreglar una funcionalidad ya agregada, deberíamos hacer una nueva branch para dicho fix o refactor, y nombrarla adecuadamente (por ejemplo, `refactor-filtros`, `fix-agrega-operacion`), y una vez finalizada la mejora o correción, mergearla a `main`.
+Si tenemos que mejorar o arreglar una funcionalidad ya agregada, deberíamos hacer una nueva branch para dicho fix o refactor y nombrarla adecuadamente (por ejemplo, `refactor-completada`, `fix-localStorage`) y una vez finalizada la mejora o correción mergearla a `master`.
 
-Además, es _sumamente importante_ trabajar con el DOM y con los datos _por separado_. Primero, porque son dominios de problema diferentes: cómo operar con datos por un lado, y cómo visualizarlos por el otro. Segundo, porque permite concentrarnos específicamente en una parte del problema, ignorando la otra parte o pudiendo trabajar en paralelo. Por lo tanto, ambos aspectos deberían funcionar correctamente _de forma independiente_, es decir, debería poder navegar por la aplicaci´ón por más que no haya ningún dato real, y debería poder trabajar con los datos (crearlos, guardarlos, editarlos, modificarlos) _sin tener que hacer uso de la interfaz_ (llamando a las funciones por consola).
-
-Esto lo podemos lograr si nos aplicamos a los criterios de funciones pura a la hora de operar los datos. Aquellas funciones que manipulen la información no deben modificar el DOM, ni llamar a ninguna otra función que lo haga. Y por otro lado, las que sí trabajan con el DOM, no deben manipular los datos, sino llamar a las funciones que lo hacen de forma pura.
 
 ## 👍 Criterios de aceptación
 
 Los requisitos mínimos para que el proyecto sea considerado para la entrega son:
 
-- Debe respetar el diseño general dado. Pueden modificarse a gusto colores, fondo, fuentes e íconos
-- Debe respetar las interacciones y flujo de pantallas
-- Debe ser responsive
+- Debe respetar el diseño general dado. Pueden modificarse a gusto colores, fondo, fuentes e íconos.
+- Debe respetar las interacciones y flujo del proyecto.
+- Debe ser responsive.
 - Debe cumplir con las funcionalidades _principales_ listadas en la sección siguiente
-- Debe hacer hacer uso de un framework CSS (sólo deben agregarse estilos propios si no hay forma de lograrlo con el framework)
+- Puede hacer hacer uso de un framework CSS 
 - Debe estar deployado y ser accesible desde una dirección web
 - **No se debe trabajar en la rama `main`**. En `main` sólo van a mergearse las demás ramas, por lo que cada `commit` de `main` debería ser el `merge` de una `branch` de una funcionalidad _terminada_
 - **Cada funcionalidad que se agregue debe hacerse mediante un PR (Pull Request)**
 
 ## 🎛 Funcionalidades principales
 
-- Se debe poder agregar, editar y eliminar operaciones
-- Se debe poder agregar, editar y eliminar categorías
-- Cada operación debe contar con:
-  - Descripción
-  - Monto
-  - Tipo de operación (gasto o ganancia)
-  - Categoría a la que pertenece
-  - Fecha de realización
-- Cada categoría debe contar con un nombre
-- Al eliminar una categoría, se deben eliminar todas las operaciones asociadas a ella
-- Se debe poder filtrar las operaciones realizadas por:
-  - Tipo de operación (gasto, ganancia o ambas)
-  - Categoría a la que pertenece (una en específico o cualquiera)
-  - Fecha de realización (a partir de la fecha seleccionada)
-- Se debe poder ordernar las operaciones realizadas por:
-  - Fecha de realización (más y menos reciente)
-  - Monto (mayor y menor)
-  - Descripción (en orden alfabético creciente y decreciente)
-- Se debe poder obtener los siguientes reportes:
-  - Un resumen con:
-    - Categoría con mayor ganancia
-    - Categoría con mayor gasto
-    - Categoría con mayor balance
-    - Mes con mayor ganancia
-    - Mes con mayor gasto
-  - Totales (gastos, ganancias y balances) por categoría
-  - Totales (gastos, ganancias y balances) por mes
-- Se deben guardar los datos en el almacenamiento local del navegador
+- Toda la App debe estar desarrolada con React.js.(no hacer uso de Js vanilla)
+- Se debe tener un input para ingresar nuevas tareas con un icono. 
+- Se debe tener un select con opciones de `todas`, `completadas` e `incompletas` para seleccionar las tareas, y debe contener un con un icono. 
+- Debemos poder generar nuevas tareas.
+- Cada tarea debe tener dos iconos, uno que nos ayude a marcar las tareas completadas y otro que nos permita eliminarlas.
+- Debemos poder marcar una tarea como completada, esto quiere decir que se debe de tachar.
+- Debemos poder eliminar una tarea del estado de la aplicación.
+- Debemos almacenar en useState el estado de todas las tareas.
+- Con ayuda del select debemos poder filtrar las tareas que se encuentran completadas, no completadas y todas.
+- Se debe poder separa la funcionalidad por componentes tomando en cuenta el ejemplo de: 
+-App
+  - Components
+    - Form
+    - TodoList
+      - Todo
+- Se debe poder almacenar en localStorage ó Firebase las tareas.
+- Al eliminar una tarea se debe eliminar tanto del localStorage ó Firebase y de la App.
+- Al marcar como completada una tarea se debe marcar tanto en
+localStorage ó Firebase y de la App.
+- Debe estar alojado y deployado en un servicio como githubPages, Heroku, Netlify, etc. 
+
 
 ## 📝 Criterios de evaluación
 
 - **Menos de 6 (No aprobado)**
 - **6 (Aprobado)**
   - Respeta la consigna
-  - Estructura correcta de documento HTML
   - Respeta el diseño dado
   - Respeta el funcionamiento
-  - Respeta el flujo de pantallas
+  - Respeta el flujo del proyecto
   - Responsive funciona correctamente
 - **7 (Bueno)**
   - Código bien indentado
-  - Buenos nombres de funciones y variables
-  - Los datos mantienen su integridad
+  - Buenos nombres de componentes y usar functionalComponents
+  - uso de useState
 - **8 (Muy bueno)**
-  - Funciones pequeñas
   - Nombres de branchs adecuados
   - Lógica clara y simple
-  - Buen uso estructuras de datos (arrays y objetos)
-  - Buen uso de estructuras de control (condicionales y bucles)
+  - Uso de useEffect
 - **9 (Muy bueno)**
+  - Buen nombramiento de Componentes
   - Uso de funciones puras para el manejo de datos
-  - Separación clara de manejo de datos y visualización
-  - Buen uso de métodos funcionales de array (`map`, `filter`, `reduce`, etc)
-- **10 (Excelente)**
-  - Reutilización de lógica / funciones
+  - Buen uso de métodos funcionales de array (`map`, `filter`)
+- **10 (Excèlente)**
+  - Reutilización de lógica / componentes
   - Commits con mensajes adecuados
   - Un PR por funcionalidad, fix o mejora
   - PRs con buenos títulos
 
+- **(Extra)**
+  - Realizar Issues y resolverlos.
+
 ## 🧰 Recursos
 
-- [Bulma](https://bulma.io/documentation/elements/) - Framework CSS
+
+- [Material UI](https://material-ui.com/) - Framework CSS
+- [React Bootstrap](https://react-bootstrap.github.io/) - Framework CSS
 - [Font Awesome](https://fontawesome.com/icons) - Íconos
-- [Undraw](https://undraw.co/) - Imágenes
