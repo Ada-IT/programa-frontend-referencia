@@ -1,10 +1,10 @@
 ---
 id: introduccion
-title: Módulo 5
+title: Módulo 3
 sidebar_label: 👉 Introducción
 ---
 
-## Estructuras de datos
+## Estructuras de control y datos
 
 ### 📅 Duración
 

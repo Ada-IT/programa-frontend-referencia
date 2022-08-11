@@ -1,14 +1,14 @@
 ---
 id: introduccion
-title: Módulo 4
+title: Módulo 3
 sidebar_label: 👉 Introducción
 ---
 
-## Estructuras de control
+## Estructuras de control y datos
 
 ### 📅 Duración
 
-4 semanas / 12 encuentros / 36 horas
+4 semanas / 29 encuentros / 87 horas
 
 ### 🏁 Objetivo
 

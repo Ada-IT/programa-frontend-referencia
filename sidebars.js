@@ -57,6 +57,7 @@ module.exports = {
       ],
       "Módulo 3 - Estructuras de datos": [
         "modulo-3/introduccion",
+        "modulo-3/proyecto",
         {
           "👩‍💻 Clases": [
             "modulo-3/clase-01",
@@ -91,7 +92,7 @@ module.exports = {
           ],
         },
       ],
-      "Módulo 4 - Estructuras de control": [
+      "Módulo 4 - Asincronismo": [
         "modulo-4/introduccion",
         "modulo-4/proyecto",
         {
@@ -114,7 +115,7 @@ module.exports = {
           ],
         },
       ],
-      "Módulo 5 - Estructuras de datos": [
+      "Módulo 5 - React": [
         "modulo-5/introduccion",
         "modulo-5/proyecto",
         {
@@ -140,7 +141,7 @@ module.exports = {
           ],
         },
       ],
-      "Módulo 6 - Asincronismo": [
+      "Módulo 6 - Aplicaciones de página única": [
         "modulo-6/introduccion",
         "modulo-6/proyecto",
         {
