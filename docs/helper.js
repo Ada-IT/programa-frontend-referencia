@@ -31,23 +31,23 @@ const editFiles = (files, directoryPath) => {
   });
   aux = 1;
   //rename file
-  files.forEach(function (file) {
-    const cutNumber = file.substring(0, 2);
+  // files.forEach(function (file) {
+  //   const cutNumber = file.substring(0, 2);
 
-    if (isNaN(Number(cutNumber)) || cutNumber == 0) return;
-    const digit = aux <= 9 ? "0" + aux : aux;
-    const rename = `${directoryPath}/${digit}${file.slice(2)}`;
-    const pathFile = `${directoryPath}/${file}`;
-    fs.rename(pathFile, rename, function (err) {
-      if (err) {
-        console.log(err);
-      } else {
-        console.log("Successfully renamed the directory.", rename);
-      }
-    });
+  //   if (isNaN(Number(cutNumber)) || cutNumber == 0) return;
+  //   const digit = aux <= 9 ? "0" + aux : aux;
+  //   const rename = `${directoryPath}/${digit}${file.slice(2)}`;
+  //   const pathFile = `${directoryPath}/${file}`;
+  //   fs.rename(pathFile, rename, function (err) {
+  //     if (err) {
+  //       console.log(err);
+  //     } else {
+  //       console.log("Successfully renamed the directory.", rename);
+  //     }
+  //   });
 
-    aux++;
-  });
+  //   aux++;
+  // });
 };
 
 const generateSidebar = (files, directoryPath) => {
@@ -81,6 +81,7 @@ const getDirectories = (source, callback) =>
       readdir(dirent.name, (err, files) => callback(files, dirent.name))
     );
 
-getDirectories(__dirname, editFiles);
-getDirectories(__dirname, generateSidebar);
+// getDirectories(__dirname, editFiles);
+// getDirectories(__dirname, generateSidebar);
 // getDirectories(__dirname, countHours);
+getDirectories(__dirname, generateSidebar);

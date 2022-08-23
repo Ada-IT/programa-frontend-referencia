@@ -1,7 +1,7 @@
 ---
-id: clase-23
+id: clase-22
 title: Deployado
-sidebar_label: 23) Deployado
+sidebar_label: 22) Deployado
 ---
 
 ### 🏁 Objetivos
