@@ -8,15 +8,17 @@ sidebar_label: 👉 Introducción
 
 ### 📅 Duración
 
-4 semanas / 29 encuentros / 87 horas
+6 semanas / 18 encuentros / 44 horas
 
 ### 🏁 Objetivo
 
-En este módulo te introducirás a las estructuras de control, las cuales te permitirán dirigir el flujo de ejecución de tu aplicación. Con ellas podrás decidir qué acciones se realizarán a partir de ciertas condiciones, lo que te servirá para construir aplicaciones más complejas capaces de mostrar un amplio rango de comportamientos, y de ofrecerle a tus usuaries una experiencia más completa y funcionalidad que se ajusten mejor a sus necesidades.
+En este módulo te introducirás a las estructuras de control, las cuales te permitirán dirigir el flujo de ejecución de tu aplicación. Con ellas podrás decidir qué acciones se realizarán a partir de ciertas condiciones, lo que te servirá para construir aplicaciones más complejas capaces de mostrar un amplio rango de comportamientos, y de ofrecerle a tus usuaries una experiencia más completa y funcionalidad que se ajusten mejor a sus necesidades.Por otro lado aprenderás a trabajar con datos complejos y a estructurarlos para poder manipularlos de forma más eficiente. Esto te permitirá ver cómo se manejan los datos en una aplicación real. Además verás técnicas para asegurar la coherencia interna de la información y evitar posibles discrepancias.
 
-### ⭐️ Proyecto: Juego MatcheADAs
+### ⭐️ Proyecto: Controlador de gastos
 
-En este proyecto vas a desarrollar un juego de navegador basado conocido como match-3. Construirás una grilla, implementarás transicioines para dar feedback de las interacciones, controlarás el input de quien juegue, aplicarás la lógica del juego, y agregarás funcionalidades como un sistema de puntuación y uno de dificultad, para crear una experiencia totalmente interactiva. Para hacerlo, utilizarás un flujo de trabajo que te permitirá ir complejizando el código de manera gradual, pudiendo trabajar en varias funcionalidades por separado sin que estas afecten el resto de tu código.
+En este proyecto vas a crear una aplicación que permita llevar un registro de los gastos realizados y de los ingresos obtenidos. Aplicarás lo aprendido para estructurar y almacenar la información compleja de tu aplicación, y desarrollarás funcionalidades que posibiliten manipularla y realizar operaciones esenciales a la hora de trabajar con datos.
+
+Para este proyecto trabajarás en equipo siguiendo prácticas que se utilizan profesionalmente para desarrollar colaborativamente
 
 ### 📚 Temas
 
@@ -26,7 +28,7 @@ En este proyecto vas a desarrollar un juego de navegador basado conocido como ma
 - Merge de ramas
 - Solucionando conflictos
 
-#### JavaScript
+#### Javascript
 
 - Arrays
 - Objetos
@@ -39,3 +41,19 @@ En este proyecto vas a desarrollar un juego de navegador basado conocido como ma
 - Nodos
 - Buenas Prácticas
 - Refactorización
+- Conceptos de programación funcional
+- Pureza
+- Inmutabilidad
+- Métodos funcionales con arrays
+- Array de objetos
+- Operaciones ABM (Alta - Baja - Modificación)
+- Desestructuración
+- Spread
+- Operaciones inmutables con arrays y objetos
+- JSON
+- Local Storage
+
+#### CSS
+
+- Frameworks CSS
+- Sistema de grillas
