@@ -98,7 +98,6 @@ module.exports = {
             "modulo-4/clase-06",
             "modulo-4/clase-07",
             "modulo-4/clase-08",
-            "modulo-4/clase-09",
           ],
         },
       ],

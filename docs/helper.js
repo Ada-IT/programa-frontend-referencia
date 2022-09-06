@@ -30,7 +30,7 @@ const editFiles = (files, directoryPath) => {
     aux++;
   });
   aux = 1;
-  //rename file
+  // rename file
   // files.forEach(function (file) {
   //   const cutNumber = file.substring(0, 2);
 
