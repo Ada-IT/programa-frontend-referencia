@@ -1,7 +1,7 @@
 ---
-id: clase-03
+id: clase-02
 title: Arrays
-sidebar_label: 03) Arrays
+sidebar_label: 02) Arrays
 ---
 
 ### 🏁 Objetivos

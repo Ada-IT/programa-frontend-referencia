@@ -1,7 +1,7 @@
 ---
-id: clase-20
+id: clase-18
 title: Operaciones ABM
-sidebar_label: 20) Operaciones ABM
+sidebar_label: 18) Operaciones ABM
 ---
 
 ### 🏁 Objetivos

@@ -83,5 +83,5 @@ const getDirectories = (source, callback) =>
 
 // getDirectories(__dirname, editFiles);
 // getDirectories(__dirname, generateSidebar);
-// getDirectories(__dirname, countHours);
-getDirectories(__dirname, generateSidebar);
+getDirectories(__dirname, countHours);
+// getDirectories(__dirname, generateSidebar);

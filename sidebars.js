@@ -80,8 +80,6 @@ module.exports = {
             "modulo-3/clase-18",
             "modulo-3/clase-19",
             "modulo-3/clase-20",
-            "modulo-3/clase-21",
-            "modulo-3/clase-22",
           ],
         },
       ],

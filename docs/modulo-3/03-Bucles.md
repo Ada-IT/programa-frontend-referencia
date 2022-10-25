@@ -1,7 +1,7 @@
 ---
-id: clase-04
+id: clase-03
 title: Bucles
-sidebar_label: 04) Bucles
+sidebar_label: 03) Bucles
 ---
 
 ### 🏁 Objetivos

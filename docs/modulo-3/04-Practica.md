@@ -1,7 +1,7 @@
 ---
-id: clase-22
+id: clase-04
 title: Repaso
-sidebar_label: 22) Repaso
+sidebar_label: 04) Repaso
 ---
 
 ### 🏁 Objetivos

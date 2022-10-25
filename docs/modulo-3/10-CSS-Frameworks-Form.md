@@ -1,7 +1,7 @@
 ---
-id: clase-12
+id: clase-10
 title: 'Frameworks CSS: Formularios'
-sidebar_label: '12) Frameworks CSS: Formularios'
+sidebar_label: '10) Frameworks CSS: Formularios'
 ---
 
 ### 🏁 Objetivos

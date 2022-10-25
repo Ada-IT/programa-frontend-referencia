@@ -1,7 +1,7 @@
 ---
-id: clase-10
+id: clase-08
 title: 'Frameworks CSS: Introducción'
-sidebar_label: '10) Frameworks CSS: Introducción'
+sidebar_label: '08) Frameworks CSS: Introducción'
 ---
 
 ### 🏁 Objetivos

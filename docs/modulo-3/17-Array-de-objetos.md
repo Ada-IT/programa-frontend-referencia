@@ -1,7 +1,7 @@
 ---
-id: clase-19
+id: clase-17
 title: 'Estructura de datos: Array de objetos'
-sidebar_label: 19) Array de objetos
+sidebar_label: 17) Array de objetos
 ---
 
 ### 🏁 Objetivos

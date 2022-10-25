@@ -1,7 +1,7 @@
 ---
-id: clase-14
+id: clase-12
 title: 'Estructura de datos: Objetos'
-sidebar_label: 14) Objetos I
+sidebar_label: 12) Objetos I
 ---
 
 ### 🏁 Objetivos

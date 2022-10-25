@@ -1,7 +1,7 @@
 ---
-id: clase-16
+id: clase-14
 title: Desestructuración y operador spread
-sidebar_label: 16) Desestructuración y operador spread
+sidebar_label: 14) Desestructuración y operador spread
 ---
 
 ### 🏁 Objetivos

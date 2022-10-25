@@ -1,7 +1,7 @@
 ---
-id: clase-21
+id: clase-15
 title: Práctica
-sidebar_label: 21) Práctica
+sidebar_label: 15) Práctica
 ---
 
 ### 🏁 Objetivos

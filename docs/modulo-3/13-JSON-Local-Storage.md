@@ -1,7 +1,7 @@
 ---
-id: clase-15
+id: clase-13
 title: JSON, Local Storage y fechas
-sidebar_label: 15) Objetos II
+sidebar_label: 13) Objetos II
 ---
 
 ### 🏁 Objetivos

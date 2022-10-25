@@ -1,7 +1,7 @@
 ---
-id: clase-13
+id: clase-11
 title: 'CSS Frameworks: Componentes'
-sidebar_label: '13) CSS Frameworks: Componentes'
+sidebar_label: '11) CSS Frameworks: Componentes'
 ---
 
 ### 🏁 Objetivos

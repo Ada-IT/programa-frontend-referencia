@@ -1,7 +1,7 @@
 ---
-id: clase-18
+id: clase-16
 title: Métodos de Array
-sidebar_label: 18) Métodos de Array
+sidebar_label: 16) Métodos de Array
 ---
 
 ### 🏁 Objetivos

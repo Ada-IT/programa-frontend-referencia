@@ -1,7 +1,7 @@
 ---
-id: clase-08
+id: clase-06
 title: Buenas prácticas
-sidebar_label: 08) Buenas prácticas
+sidebar_label: 06) Buenas prácticas
 ---
 
 ### 🏁 Objetivos

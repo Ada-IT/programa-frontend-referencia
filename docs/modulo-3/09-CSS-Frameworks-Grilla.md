@@ -1,7 +1,7 @@
 ---
-id: clase-11
+id: clase-09
 title: 'Frameworks CSS: Grillas'
-sidebar_label: '11) Frameworks CSS: Grillas'
+sidebar_label: '09) Frameworks CSS: Grillas'
 ---
 
 ### 🏁 Objetivos
