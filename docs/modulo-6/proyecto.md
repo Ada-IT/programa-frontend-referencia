@@ -12,7 +12,7 @@ Para este proyecto trabajarás en equipo siguiendo prácticas que se utilizan pr
 
 ## 👀 Ejemplo
 
-Puedes ver un ejemplo funcional del proyecto siguiendo [este link](https://app-movie-jonhks.herokuapp.com/).
+Puedes ver un ejemplo funcional del proyecto siguiendo [este link](https://frontend-proyecto-movies.adaitw.org/).
 
 ## 💬 Comentarios
 
