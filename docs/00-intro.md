@@ -4,14 +4,6 @@ title: Bienvenida
 sidebar_label: Bienvenida
 ---
 
-🙋‍♀️ **Comisión:** 7ma Generación Frontend Online
-
-📅 **Inicio de cursada:** 16/11/2020
-
-⏰ **Días de cursada:** Lunes, mi´ércoles y viernes de 19:00 a 22:00hs (GMT -3)
-
-👨🏻‍💻 **Profesor:** Fernando del Valle
-
 ## Recursos principales
 
 <!-- - 📚 [Documentación](https://frontend.adaitw.org/) -->
